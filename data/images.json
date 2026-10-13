@@ -1,0 +1,2170 @@
+[
+ {
+  "id": "m014",
+  "key": "red-blood-cells-light",
+  "title_he": "כדוריות דם אדומות במשטח דם",
+  "title_en": "Red blood cells in a blood smear",
+  "category": "human",
+  "tags": [
+   "דם",
+   "כדוריות דם אדומות",
+   "המוגלובין",
+   "משטח דם"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 7.5e-06,
+   "subject_size_label": "≈ 7.5 מיקרון",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך פי 9 קטנה מעובי שערה"
+  },
+  "text": {
+   "main_he": "כל עיגול ורדרד כאן הוא כדורית דם אדומה אחת. בטיפה זעירה של דם יש מיליוני כדוריות כאלה, והן נושאות חמצן מהריאות לכל פינה בגוף. המרכז שלהן בהיר יותר כי הן שקועות באמצע, כמו סוכריית מנטה לחוצה משני הצדדים.",
+   "deep_he": "כדי להכין משטח דם מורחים טיפת דם בשכבה דקה על זכוכית וצובעים אותה בצבע רייט, תערובת של אאוזין ומתילן כחול. כדורית דם אדומה היא דיסקית קעורה משני צדיה, בקוטר של כ-7.5 מיקרון (מיקרון הוא אלפית המילימטר). אין לה גרעין, וכמעט כל נפחה מלא בחלבון המוגלובין, שקושר חמצן בעזרת אטום ברזל. הצורה הקעורה מגדילה את שטח הפנים ומאפשרת לכדורית להתקפל ולהשתחל בנימים צרים ממנה. בכל מיקרוליטר דם (מילימטר מעוקב) יש כ-4 עד 6 מיליון כדוריות, וכל אחת חיה כ-120 יום לפני שהגוף מפרק אותה וממחזר את הברזל שבה.",
+   "fun_fact_he": "מח העצם שלנו מייצר בערך 2 מיליון כדוריות דם אדומות חדשות בכל שנייה."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "תאי שמרים",
+    "גרגרי עמילן",
+    "תאי לחי"
+   ],
+   "answer_he": "כדוריות דם אדומות"
+  },
+  "related": [
+   "m034",
+   "m382"
+  ],
+  "pair_id": "blood",
+  "featured": false,
+  "width": 1920,
+  "height": 1440,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Echinaceapallida",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Blood-rbcs.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Blood-rbcs.jpg",
+   "credit_line": "Echinaceapallida, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m034",
+  "key": "blood-cells-sem",
+  "title_he": "תאי דם במיקרוסקופ אלקטרונים סורק",
+  "title_en": "Human blood cells (SEM)",
+  "category": "human",
+  "tags": [
+   "דם",
+   "כדוריות דם אדומות",
+   "כדוריות דם לבנות",
+   "טסיות",
+   "SEM"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 7.5e-06,
+   "subject_size_label": "≈ 7.5 מיקרון",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך פי 9 קטנה מעובי שערה"
+  },
+  "text": {
+   "main_he": "אותן כדוריות דם אדומות, אבל הפעם במיקרוסקופ אלקטרונים, ועכשיו אפשר לראות בבירור את צורת הדיסקית הקעורה. ביניהן מסתתרים כמה תאים כדוריים ומחוספסים: אלה כדוריות דם לבנות, חיילי מערכת החיסון. החלקיקים הקטנים והשטוחים הם טסיות, שעוזרות לדם להיקרש כשנפצעים.",
+   "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים סורק (SEM), שמעביר אלומת אלקטרונים על פני הדגימה ובונה ממנה תמונה תלת-ממדית של פני השטח. לפני הצילום מייבשים את התאים ומצפים אותם בשכבה דקיקה של מתכת, כי הצילום נעשה בוואקום. לכן התמונה בשחור-לבן: אלקטרונים אינם נושאים צבע. לפי המכון הלאומי לסרטן בארה\"ב רואים כאן כדוריות אדומות, כמה כדוריות לבנות (לימפוציטים, מונוציט ונויטרופיל) והרבה טסיות דמויות דיסקית. כדורית לבנה גדולה מכדורית אדומה, והטסיות קטנות בהרבה, בקוטר של 2 עד 3 מיקרון בערך. כל תאי הדם האלה נוצרים במח העצם.",
+   "fun_fact_he": "אם סופרים תאים, רוב התאים בגוף שלנו הם כדוריות דם אדומות: כ-25 טריליון מתוך כ-30 טריליון תאים."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "תאי שמרים",
+    "גרגרי אבקה",
+    "נבגי פטרייה"
+   ],
+   "answer_he": "תאי דם"
+  },
+  "related": [
+   "m014",
+   "m382"
+  ],
+  "pair_id": "blood",
+  "featured": false,
+  "width": 1280,
+  "height": 1592,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "kind": "pd",
+   "author": "Bruce Wetzel (photographer). Harry Schaefer (photographer)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:SEM_blood_cells.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/SEM_blood_cells.jpg",
+   "credit_line": "Bruce Wetzel (photographer). Harry Schaefer (photographer), Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m115",
+  "key": "cheek-cells",
+  "title_he": "תאי לחי צבועים במתילן כחול",
+  "title_en": "Human cheek cells (methylene blue)",
+  "category": "human",
+  "tags": [
+   "תאים",
+   "לחי",
+   "גרעין התא",
+   "צביעה",
+   "ניסוי בבית ספר"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": "≈ ×400",
+  "scale": {
+   "subject_size_m": 5e-05,
+   "subject_size_label": "≈ 50 מיקרון",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "קצת פחות מעובי שערה"
+  },
+  "text": {
+   "main_he": "מספיק לגרד בעדינות את פנים הלחי עם מקל אוזניים כדי לקבל אלפי תאים כאלה. אלה תאים שטוחים שמצפים את פנים הפה. הנקודה הכהה בתוך כל תא היא הגרעין, \"ספריית ההוראות\" של התא.",
+   "deep_he": "תאי הלחי הם תאי אפיתל קשקשי: תאים שטוחים ודקים שמסודרים בשכבות ומגינים על רירית הפה. הם כמעט שקופים, ולכן צובעים אותם במתילן כחול, צבע שנקשר בחוזקה לחומר התורשתי וגורם לגרעין להיראות כהה יותר משאר התא. התמונה צולמה במיקרוסקופ אור רגיל בהגדלה של פי 400. רואים כאן שתאים מתקפלים בקלות, כי הם דקים מאוד. קוטרו של תא לחי הוא בערך 50 מיקרון, ולכן הוא אחד התאים הגדולים והנוחים לצפייה בגוף. זה ניסוי קלאסי בשיעורי ביולוגיה, ואפשר לעשות אותו גם במיקרוסקופ ביתי.",
+   "fun_fact_he": "בבדיקות DNA רבות לא צריך לקחת דם: מספיק למרוח מקלון על פנים הלחי, כי בכל תא לחי יש עותק מלא של החומר התורשתי."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "תאי קליפת בצל",
+    "אמבות",
+    "תאי שמרים"
+   ],
+   "answer_he": "תאי לחי"
+  },
+  "related": [
+   "m014",
+   "m330"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 960,
+  "height": 993,
+  "widths": [
+   400
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Fritzmann2002",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Human_Cheek_Cells_%28Methylene_Blue_Stain%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Human_Cheek_Cells_%28Methylene_Blue_Stain%29.jpg",
+   "credit_line": "Fritzmann2002, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m206",
+  "key": "hair-sem",
+  "title_he": "שערת אדם לצד סיב צמר",
+  "title_en": "Human hair and Merino wool fibre (SEM)",
+  "category": "human",
+  "tags": [
+   "שערה",
+   "קרטין",
+   "צמר",
+   "SEM"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": "≈ ×1,000",
+  "scale": {
+   "subject_size_m": 7e-05,
+   "subject_size_label": "≈ 70 מיקרון (עובי שערה)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "עבה פי 4 בערך מסיב צמר מרינו דק, וברוחב של כ-9 כדוריות דם אדומות"
+  },
+  "text": {
+   "main_he": "השערה למטה היא שערת אדם, והסיב הדק למעלה הוא סיב צמר של כבשת מרינו. במיקרוסקופ אלקטרונים רואים ששערה אינה חלקה בכלל: היא מכוסה בקשקשים שטוחים שחופפים זה לזה, כמו רעפים על גג.",
+   "deep_he": "שערה עשויה בעיקר מחלבון קשיח בשם קרטין, אותו חלבון שממנו בנויות הציפורניים. השכבה החיצונית שלה, הקוטיקולה, בנויה מתאים מתים ושטוחים, והקצוות שלהם פונים לכיוון קצה השערה. עובייה של שערת ראש הוא בדרך כלל 50 עד 100 מיקרון, ואילו סיב של צמר מרינו \"סופר-דק\" עבה פחות מ-19 מיקרון. הקשקשים של הצמר בולטים יותר ונתפסים זה בזה, ולכן צמר מתלבד כשמכבסים אותו במים חמים. התמונה צולמה במיקרוסקופ אלקטרונים סורק בהגדלה של פי 1,000 בערך, והיא בשחור-לבן כי זה הצבע האמיתי של תמונות אלקטרונים.",
+   "fun_fact_he": "שיער הראש צומח בערך סנטימטר אחד בחודש, ועל הקרקפת יש בממוצע כ-100,000 שערות."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "סיב כותנה",
+    "חוט עכביש",
+    "סיב נייר"
+   ],
+   "answer_he": "שערת אדם"
+  },
+  "related": [
+   "m115",
+   "m338"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1538,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 3.0",
+   "url": "https://creativecommons.org/licenses/by/3.0",
+   "kind": "by",
+   "author": "division, CSIRO",
+   "source_url": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_8115_Human_hair_and_Merino_wool_fibre.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/CSIRO_ScienceImage_8115_Human_hair_and_Merino_wool_fibre.jpg",
+   "credit_line": "division, CSIRO, CC BY 3.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m255",
+  "key": "intestinal-villi",
+  "title_he": "סיסים במעי הדק",
+  "title_en": "Small intestinal villi (cross-section)",
+  "category": "human",
+  "tags": [
+   "מעי",
+   "עיכול",
+   "סיסים",
+   "רקמה",
+   "צביעה"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0007,
+   "subject_size_label": "≈ 0.5–1 מ\"מ (אורך סיס)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "סיס אחד ארוך כמו 7 עד 14 שערות שמונחות זו לצד זו"
+  },
+  "text": {
+   "main_he": "דופן המעי הדק מכוסה ב\"אצבעות\" זעירות שנקראות סיסים. כאן הם נחתכו לרוחב, וכל מצולע ורוד הוא סיס אחד. בזכות הסיסים שטח הפנים של המעי גדול מאוד, וכך הוא יכול לספוג יותר מזון.",
+   "deep_he": "הדגימה נלקחה מהחלק האחרון של המעי הדק ונצבעה בצביעת H&E, הצביעה הנפוצה ביותר במעבדות: ההמטוקסילין צובע גרעיני תאים בסגול-כחול, והאאוזין צובע את שאר הרקמה בוורוד. כל סיס עטוף בשורה של תאים מוארכים, והגרעינים שלהם יוצרים את ה\"קרניים\" הסגולות לאורך השוליים. האליפסות הלבנות ביניהם הן תאי גביע, שמפרישים ריר שמגן על דופן המעי. בליבת כל סיס עוברים נימי דם וכלי לימפה שמובילים את המזון שנספג אל שאר הגוף. אורכו של סיס הוא בערך חצי מילימטר עד מילימטר.",
+   "fun_fact_he": "בספרי לימוד ישנים נכתב שהשטח הפנימי של המעי הוא כמו מגרש טניס, אבל מדידה מ-2014 מצאה שהוא כ-30 מ\"ר, בערך כמו חדר גדול. עדיין מרשים!"
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "תאי עלה",
+    "חתך בכליה",
+    "רקמת ריאה"
+   ],
+   "answer_he": "סיסי המעי הדק"
+  },
+  "related": [
+   "m338",
+   "m115"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1436,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC0",
+   "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "kind": "pd",
+   "author": "Mikael Häggström, M.D. Author info - Reusing images - Conflicts of interest: None Mikael Häggström, M.D. Consent note: Consent from the patient or patient's relatives is regarded as redundant, because",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Cross-section_histology_of_small_intestinal_villi_of_the_terminal_ileum.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cross-section_histology_of_small_intestinal_villi_of_the_terminal_ileum.jpg",
+   "credit_line": "Mikael Häggström, M.D. Author info - Reusing images - Conflicts of interest: None Mikael Häggström, M.D. Consent note: Consent from the patient or patient's relatives is regarded as redundant, because, CC0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m330",
+  "key": "neuron-golgi",
+  "title_he": "תא עצב בצביעת גולג'י",
+  "title_en": "Golgi-stained pyramidal neuron",
+  "category": "human",
+  "tags": [
+   "מוח",
+   "תא עצב",
+   "נוירון",
+   "היפוקמפוס",
+   "צביעה"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 2e-05,
+   "subject_size_label": "≈ 20 מיקרון (גוף התא)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 3.5 גופי תאים כאלה זה לצד זה ברוחב שערה"
+  },
+  "text": {
+   "main_he": "זה תא עצב, נוירון, ממוח של אדם. מגוף התא הכהה יוצאים ענפים ארוכים, הדנדריטים, שקולטים אותות מתאי עצב אחרים. אם מסתכלים מקרוב רואים עליהם \"קוצים\" זעירים: כל אחד מהם הוא נקודת מפגש עם תא עצב אחר.",
+   "deep_he": "הנוירון צולם בהיפוקמפוס, אזור במוח שחשוב ליצירת זיכרונות, מדגימה של מטופל שסבל מאפילפסיה. התא צבוע בשיטת גולג'י, שהמציא החוקר האיטלקי קמילו גולג'י ב-1873: הרקמה ספוגה במלחי כסף, ובתוך חלק קטן ואקראי מהתאים שוקע משקע שחור שממלא את כל התא. כך תא אחד בולט על רקע בהיר, עם כל הענפים שלו. זו בדיוק הסיבה שהשיטה כל כך שימושית: אם כל התאים היו נצבעים, היינו רואים רק סבך כהה. הצורה המשולשת של גוף התא נתנה לתאים האלה את שמם, \"תאי פירמידה\". במוח האדם יש בערך 86 מיליארד נוירונים.",
+   "fun_fact_he": "גולג'י וסנטיאגו רמון אי קחאל חלקו את פרס נובל ב-1906, למרות שהתווכחו בחריפות: רמון אי קחאל, שהשתמש בשיטה של גולג'י, הוכיח שהמוח בנוי מתאים נפרדים, וגולג'י עצמו לא השתכנע."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "תפטיר של פטרייה",
+    "שערות שורש",
+    "תא שריר"
+   ],
+   "answer_he": "תא עצב"
+  },
+  "related": [
+   "m115",
+   "m382"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1280,
+  "height": 975,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "CC BY-SA 2.5",
+   "url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "kind": "by-sa",
+   "author": "MethoxyRoxy",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Pyramidal_hippocampal_neuron_40x.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pyramidal_hippocampal_neuron_40x.jpg",
+   "credit_line": "MethoxyRoxy, CC BY-SA 2.5, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m338",
+  "key": "compact-bone-osteon",
+  "title_he": "אוסטאון בעצם דחוסה",
+  "title_en": "Osteon in compact bone",
+  "category": "human",
+  "tags": [
+   "עצם",
+   "שלד",
+   "אוסטאון",
+   "רקמה"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": "≈ ×200",
+  "scale": {
+   "subject_size_m": 0.0002,
+   "subject_size_label": "≈ 0.2 מ\"מ (קוטר אוסטאון)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "ברוחב של בערך 3 שערות זו לצד זו"
+  },
+  "text": {
+   "main_he": "העצם שלנו נראית מוצקה ומשעממת, אבל בפנים היא בנויה כמו טבעות של גזע עץ. במרכז יש תעלה שבה עוברים כלי דם ועצבים, וסביבה טבעות של חומר עצם. הכתמים הכהים הקטנים הם חללים שבהם גרים תאי העצם.",
+   "deep_he": "מבנה כזה נקרא אוסטאון, או מערכת הברס, על שם הרופא האנגלי קלופטון הברס שתיאר את התעלות בעצם ב-1691. בתמונה רואים חתך רוחב בעצם אדם שנוסרה ושויפה עד שנעשתה דקה מספיק כדי שאור יעבור דרכה. התעלה השחורה במרכז היא תעלת הברס, ומסביבה שכבות קונצנטריות של עצם. בכל כתם כהה, הנקרא לקונה, ישב בחיים תא עצם (אוסטאוציט). הקווים הדקיקים שיוצאים מהכתמים הם תעלות זעירות שדרכן התאים מחוברים זה לזה ומקבלים חומרי מזון. קוטרו של אוסטאון הוא בערך 0.2 מילימטר, ועצם דחוסה בנויה מאלפי אוסטאונים צפופים.",
+   "fun_fact_he": "העצמות שלנו מתחדשות כל הזמן: בכל שנה מתחלף בערך עשירית מהשלד של אדם מבוגר."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "חתך בגזע עץ",
+    "סלע משקע",
+    "חתך בסחוס"
+   ],
+   "answer_he": "עצם דחוסה"
+  },
+  "related": [
+   "m255",
+   "m206"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1082,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC0",
+   "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "kind": "pd",
+   "author": "Berkshire Community College Bioscience Image Library",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Connective_Tissue_Compact_Bone_%2841068142774%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Connective_Tissue_Compact_Bone_%2841068142774%29.jpg",
+   "credit_line": "Berkshire Community College Bioscience Image Library, CC0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m382",
+  "key": "t-cell-sem",
+  "title_he": "תא T של מערכת החיסון",
+  "title_en": "Human T lymphocyte (T cell)",
+  "category": "human",
+  "tags": [
+   "מערכת החיסון",
+   "לימפוציט",
+   "תא T",
+   "דם",
+   "SEM"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 7e-06,
+   "subject_size_label": "≈ 7 מיקרון",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך בגודל של כדורית דם אדומה; כעשרה כאלה זה לצד זה ברוחב שערה"
+  },
+  "text": {
+   "main_he": "הכדור הפרוע הזה הוא תא T, אחד מתאי ההגנה החשובים בגוף. תאי T מסיירים בדם ומזהים תאים שנדבקו בנגיף או השתבשו. הקפלים והבליטות על פני התא עוזרים לו לגעת בתאים אחרים ו\"לבדוק\" אותם.",
+   "deep_he": "תא T הוא סוג של לימפוציט, כלומר כדורית דם לבנה, והאות T באה מבלוטת התימוס שבחזה, שבה התאים האלה מבשילים. יש כמה סוגים: תאי T \"עוזרים\" מתאמים את התגובה החיסונית, ותאי T \"קוטלים\" משמידים ישירות תאים נגועים. התא בתמונה נלקח מתורם בריא וצולם במיקרוסקופ אלקטרונים סורק במכון NIAID האמריקאי. הצבעים הכחול והצהוב נוספו מאוחר יותר במחשב: המיקרוסקופ עצמו מפיק תמונה בשחור-לבן. הבליטות הדקות על הקרום מגדילות את שטח הפנים של התא ועוזרות לו להיצמד לתאים אחרים.",
+   "fun_fact_he": "בלוטת התימוס, ה\"בית הספר\" של תאי T, פעילה במיוחד בילדות ומתכווצת בהדרגה בבגרות."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "גרגר אבקה",
+    "תא סרטני",
+    "נבג פטרייה"
+   ],
+   "answer_he": "תא T"
+  },
+  "related": [
+   "m034",
+   "m014"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1280,
+  "height": 1280,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "kind": "pd",
+   "author": "NIAID/NIH",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Healthy_Human_T_Cell.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Healthy_Human_T_Cell.jpg",
+   "credit_line": "NIAID/NIH, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m154",
+  "key": "tardigrade-light",
+  "title_he": "דוב מים במיקרוסקופ אור",
+  "title_en": "Tardigrade Milnesium tardigradum (light microscope)",
+  "category": "tiny-animals",
+  "tags": [
+   "דוב מים",
+   "טרדיגרד",
+   "שרידות",
+   "בעלי חיים זעירים"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0007,
+   "subject_size_label": "≈ 0.7 מ\"מ (עד כ-1 מ\"מ)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "ארוך כמו 10 שערות שמונחות זו לצד זו"
+  },
+  "text": {
+   "main_he": "תכירו את דוב המים, אחד מבעלי החיים העמידים בעולם. יש לו שמונה רגליים קצרות עם טפרים, והוא חי בטיפות מים שעל טחב ועל חזזיות. הגוף שלו שקוף למחצה, ולכן אפשר לראות בתוכו את מערכת העיכול.",
+   "deep_he": "בתמונה מופיע המין Milnesium tardigradum, אחד מדובי המים הגדולים: הוא יכול להגיע לאורך של כמילימטר. בניגוד לרוב קרוביו, שאוכלים צמחים ואצות, הוא טורף ואוכל גלגליות, תולעים זעירות ואפילו דובי מים אחרים. בצד ימין רואים את הראש עם הפה הצר, ובתוך הגוף את מערכת העיכול ותאי אגירה עגולים. כשסביבתו מתייבשת, דוב מים מאבד כמעט את כל המים בגופו ומתכנס למצב רדום הנקרא \"חבית\" (tun), ובמצב הזה הוא יכול לשרוד שנים. את השם \"דוב מים קטן\" נתן לו הכומר הגרמני יוהאן גצה ב-1773, בגלל ההליכה המתנדנדת. הצילום נעשה במיקרוסקופ אור בשדה בהיר, כלומר אור שעובר דרך הדגימה.",
+   "fun_fact_he": "ב-2007 נשלחו דובי מים מהמין הזה לחלל, ממש מחוץ לחללית. חלקם שרדו את הוואקום ואפילו את קרינת השמש החזקה."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "גלגלית",
+    "קרדית אבק",
+    "זחל חרק"
+   ],
+   "answer_he": "דוב מים"
+  },
+  "related": [
+   "m354",
+   "m350",
+   "m231"
+  ],
+  "pair_id": "tardigrade",
+  "featured": false,
+  "width": 1920,
+  "height": 1280,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Hoddyfool",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Milnesium_tardigradum.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Milnesium_tardigradum.jpg",
+   "credit_line": "Hoddyfool, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m170",
+  "key": "fly-eye-sem",
+  "title_he": "עין מורכבת של זבוב פירות",
+  "title_en": "Fruit fly compound eye (SEM)",
+  "category": "tiny-animals",
+  "tags": [
+   "עין מורכבת",
+   "זבוב",
+   "חרקים",
+   "ראייה",
+   "SEM"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 1.5e-05,
+   "subject_size_label": "≈ 15 מיקרון (עדשה אחת)",
+   "field_width_m": 0.000167,
+   "pixel_size_m": 1.3046875e-07,
+   "comparison_he": "כל \"כיפה\" קטנה פי 5 בערך מעובי שערה"
+  },
+  "text": {
+   "main_he": "כל כיפה עגולה כאן היא עדשה קטנה, חלק מעין של זבוב פירות. העין של הזבוב בנויה ממאות \"עיניים קטנות\" כאלה, וכל אחת קולטת חלק קטן מהעולם. בין העדשות בולטות שערות דקות שמרגישות מגע ורוח.",
+   "deep_he": "עין מורכבת בנויה מיחידות הנקראות אומטידיות. לכל אומטידיה יש עדשה משלה ומתחתיה תאים רגישים לאור, והמוח מרכיב מכל הנקודות תמונה אחת, קצת כמו פסיפס. בעין של זבוב הפירות יש בערך 750 עד 800 יחידות כאלה. לפי פס קנה המידה בתמונה, כל עדשה רחבה בערך 15 מיקרון. השערות שבין העדשות הן איברי חישה מכניים שמגינים על העין. הצילום נעשה במיקרוסקופ אלקטרונים סורק במתקן המיקרוסקופיה של מכללת דרטמות' בארה\"ב.",
+   "fun_fact_he": "זבוב הפירות הוא כוכב של מחקר גנטי: ב-1995 גילו חוקרים שהפעלה של גן אחד במקום הלא נכון גורמת לזבוב לגדל עיניים נוספות על הרגליים ועל הכנפיים."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "ביצי חרק",
+    "פני עלה",
+    "מושבת חיידקים"
+   ],
+   "answer_he": "עין של זבוב"
+  },
+  "related": [
+   "m340",
+   "m222"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1280,
+  "height": 1022,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "",
+   "kind": "pd",
+   "author": "",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Drosophilidae_compound_eye_edit1.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Drosophilidae_compound_eye_edit1.jpg",
+   "credit_line": "Unknown author, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m212",
+  "key": "daphnia",
+  "title_he": "פרעוש מים (דפניה)",
+  "title_en": "Water flea (Daphnia)",
+  "category": "tiny-animals",
+  "tags": [
+   "פרעוש מים",
+   "דפניה",
+   "סרטנים",
+   "פלנקטון",
+   "מים מתוקים"
+  ],
+  "microscope": "light",
+  "technique": "darkfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.002,
+   "subject_size_label": "≈ 1–3 מ\"מ",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "ארוך כמו כמעט 30 שערות שמונחות זו לצד זו"
+  },
+  "text": {
+   "main_he": "למרות השם, פרעוש מים אינו פרעוש בכלל: זה סרטן זעיר, קרוב רחוק של הסרטנים והחסילונים. הגוף שלו שקוף, ולכן אפשר לראות בתוכו את מערכת העיכול הירוקה, המלאה באצות שאכל, ואת העובר הכתום שגדל בכיס על הגב.",
+   "deep_he": "דפניה חיה בבריכות ובאגמים של מים מתוקים, והיא אחד מבעלי החיים הנפוצים בפלנקטון. היא שוחה בעזרת זוג מחושים גדולים ומסועפים, בתנועות קופצניות שהזכירו לחוקרים פרעוש. בראש יש עין מורכבת אחת וכהה, ובתוך הקונכייה השקופה עוברים מזון ומים בזכות רגליים שמסננות אצות וחיידקים. הצילום נעשה דרך מיקרוסקופ על רקע שחור, עם אור מבזק מהצד, ולכן הדפניה נראית זוהרת, בדומה לשיטת שדה כהה. התמונה נבנתה מצילומים רבים בעומקים שונים כדי שכל הגוף יהיה חד.",
+   "fun_fact_he": "כשדפניה מרגישה בריח של טורפים במים, חלק מהמינים מגדלים \"קסדה\" או קוץ ארוך שמקשים על הטורף לבלוע אותם."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "חסילון ים",
+    "גלגלית",
+    "זחל יתוש"
+   ],
+   "answer_he": "פרעוש מים"
+  },
+  "related": [
+   "m350",
+   "m154"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 2882,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0",
+   "kind": "by",
+   "author": "Janek Lass",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Kiivrik_%28Daphnia%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kiivrik_%28Daphnia%29.jpg",
+   "credit_line": "Janek Lass, CC BY 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m222",
+  "key": "butterfly-scales-light",
+  "title_he": "קשקשים על כנף פרפר",
+  "title_en": "Butterfly wing scales",
+  "category": "tiny-animals",
+  "tags": [
+   "פרפר",
+   "כנף",
+   "קשקשים",
+   "צבע",
+   "חרקים"
+  ],
+  "microscope": "light",
+  "technique": "stereo",
+  "colorized": false,
+  "magnification": "≈ ×30",
+  "scale": {
+   "subject_size_m": 0.0001,
+   "subject_size_label": "≈ 0.1 מ\"מ (קשקש אחד)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "קשקש אחד ארוך בערך כעובי של דף A4"
+  },
+  "text": {
+   "main_he": "כנף של פרפר מכוסה באלפי קשקשים זעירים, מסודרים בשורות כמו רעפים על גג. לכל קשקש יש צבע אחד בלבד, ויחד הם יוצרים את הדוגמה של הכנף, כמו פיקסלים במסך. כאן רואים איך פס כתום עובר לפס כהה ואז לפס בהיר.",
+   "deep_he": "קשקשי הכנף הם שערות שהשתטחו במהלך האבולוציה, ולכן השם המדעי של סדרת הפרפרים, Lepidoptera, פירושו ביוונית \"כנפי קשקשים\". הצבע של חלק מהקשקשים נוצר מפיגמנטים, חומרי צבע כימיים, ושל אחרים ממבנים זעירים שמפזרים אור ויוצרים ברק מתכתי (צבע מבני). בקצה של כל קשקש רואים שוניים קטנות, כמו שיניים של מסור. התמונה צולמה דרך מיקרוסקופ בהגדלה של פי 30 בערך, והיא בנויה מכ-100 צילומים שכל אחד מהם חד בעומק אחר; המחשב חיבר מכולם תמונה חדה אחת. השיטה הזו נקראת focus stacking.",
+   "fun_fact_he": "ה\"אבקה\" שנשארת על האצבעות כשנוגעים בפרפר היא בעצם קשקשים שנתלשו מהכנף."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "נוצה של ציפור",
+    "קשקשים של דג",
+    "עלי כותרת"
+   ],
+   "answer_he": "קשקשי כנף פרפר"
+  },
+  "related": [
+   "m170",
+   "m340"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 2834,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Paweł Wałasiewicz",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Transition_of_scales_color_on_a_butterfly_wing_%28around_30x_magnification%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Transition_of_scales_color_on_a_butterfly_wing_%28around_30x_magnification%29.jpg",
+   "credit_line": "Paweł Wałasiewicz, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m231",
+  "key": "dust-mite-sem",
+  "title_he": "קרדית אבק הבית",
+  "title_en": "House dust mite (SEM)",
+  "category": "tiny-animals",
+  "tags": [
+   "קרדית",
+   "אבק",
+   "אלרגיה",
+   "עכבישנים",
+   "SEM"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0003,
+   "subject_size_label": "≈ 0.25–0.5 מ\"מ",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך כעובי של שלושה דפי A4 מונחים זה על זה"
+  },
+  "text": {
+   "main_he": "השותפה הסודית שלנו למיטה: קרדית אבק. היא כל כך קטנה שאי אפשר לראות אותה בעין, והיא ניזונה מקשקשי עור שאנחנו משירים כל הזמן. יש לה שמונה רגליים, כי היא קרובה של העכבישים ולא חרק.",
+   "deep_he": "בתמונה נקבה של קרדית אבק הבית, שאורכה 0.25 עד 0.5 מילימטר. הקרדיות חיות במזרנים, בכריות, בשטיחים ובווילונות, ואוכלות פירורי עור ושאר חומר אורגני שבאבק. רוב האנשים לא מרגישים בהן, אבל חלבונים שנמצאים בגוף שלהן ובעיקר בגללים שלהן גורמים לאלרגיות ולהתקפי אסתמה אצל חלק מהאנשים. בתמונה רואים את העור המקומט והמפוספס, את השערות הארוכות שמשמשות לחישה ואת הרגליים המפרקיות. הצילום נעשה במיקרוסקופ אלקטרונים סורק, ולכן הוא בשחור-לבן.",
+   "fun_fact_he": "קרדיות אבק לא שותות: הן סופגות אדי מים ישירות מהאוויר. לכן הן משגשגות בבתים לחים. הן נמצאו אפילו בתחנת החלל מיר."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "פרעוש",
+    "כינה",
+    "דוב מים"
+   ],
+   "answer_he": "קרדית אבק"
+  },
+  "related": [
+   "m354",
+   "m316"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1540,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 3.0",
+   "url": "https://creativecommons.org/licenses/by/3.0",
+   "kind": "by",
+   "author": "Matt Colloff, CSIRO",
+   "source_url": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11085_A_scanning_electron_micrograph_of_a_female_dust_mite.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/CSIRO_ScienceImage_11085_A_scanning_electron_micrograph_of_a_female_dust_mite.jpg",
+   "credit_line": "Matt Colloff, CSIRO, CC BY 3.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m316",
+  "key": "flea-sem",
+  "title_he": "פרעוש",
+  "title_en": "Flea (colorized SEM)",
+  "category": "tiny-animals",
+  "tags": [
+   "פרעוש",
+   "חרקים",
+   "טפילים",
+   "קפיצה",
+   "SEM"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.002,
+   "subject_size_label": "≈ 1.5–3 מ\"מ",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך בגודל של גרגר חול גס"
+  },
+  "text": {
+   "main_he": "הפרעוש הוא חרק בלי כנפיים, אבל הוא אלוף הקפיצה: הוא יכול לקפוץ למרחק של בערך פי 100 מאורך גופו. הגוף שלו צר ושטוח מהצדדים, כך שקל לו לחמוק בין שערות של כלב או חתול.",
+   "deep_he": "פרעושים הם טפילים שניזונים מדם של יונקים ועופות. רגלי הקפיצה האחוריות שלהם ארוכות וחזקות, ובתוך הגוף יש כרית של חלבון גמיש מאוד בשם רזילין, שאוגרת אנרגיה כמו קפיץ ומשחררת אותה בבת אחת. בתמונה רואים את הלוחות הקשים שמכסים את הגוף ואת הזיפים הרבים שפונים לאחור ועוזרים לפרעוש להיאחז בפרווה. הצילום נעשה במיקרוסקופ אלקטרונים סורק במרכז לבקרת מחלות בארה\"ב (CDC), והצבעים הוורוד והחום נוספו מאוחר יותר. פרעושים יכולים להעביר מחלות, למשל את חיידק הדבר, ולכן חשוב לטפל בהם בחיות המחמד.",
+   "fun_fact_he": "פרעוש הוא אחד מגיבורי ספר המיקרוסקופ המפורסם הראשון: רוברט הוק צייר פרעוש ענק בספרו \"מיקרוגרפיה\" ב-1665."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "כינה",
+    "פשפש מיטה",
+    "קרדית"
+   ],
+   "answer_he": "פרעוש"
+  },
+  "related": [
+   "m231",
+   "m340"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 2477,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "",
+   "kind": "pd",
+   "author": "CDC/Janice Haney Carr",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Flea_Scanning_Electron_Micrograph_False_Color.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flea_Scanning_Electron_Micrograph_False_Color.jpg",
+   "credit_line": "CDC/Janice Haney Carr, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m340",
+  "key": "ant-head-sem",
+  "title_he": "ראש של נמלה",
+  "title_en": "Ant head (SEM)",
+  "category": "tiny-animals",
+  "tags": [
+   "נמלה",
+   "חרקים",
+   "עין מורכבת",
+   "מחושים",
+   "SEM"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0007,
+   "subject_size_label": "≈ 0.5–1 מ\"מ",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "רחב כמו 10 שערות בערך שמונחות זו לצד זו"
+  },
+  "text": {
+   "main_he": "זה פרצוף של נמלה, מקרוב מאוד. בצדדים בולטות שתי עיניים מורכבות, באמצע יוצאים המחושים, ולמטה נמצאות הלסתות החזקות שבעזרתן היא נושאת מזון, חופרת ונלחמת.",
+   "deep_he": "הראש של הנמלה מכוסה בשלד חיצוני קשה, ועליו פזורות שערות קצרות רבות שמשמשות לחישה. העיניים המורכבות בנויות מעשרות עד מאות עדשות קטנות, כמו אצל זבוב, אבל אצל נמלים רבות הראייה אינה החוש החשוב ביותר. חשובים יותר המחושים: בעזרתם הנמלה מריחה, טועמת ומרגישה, וגם מזהה חומרים כימיים בשם פרומונים, שבהם הנמלים \"מדברות\" זו עם זו, למשל כדי לסמן שביל אל מזון. התמונה צולמה במיקרוסקופ אלקטרונים סורק והשתתפה בתחרות הצילום המדעי של ויקימדיה ב-2023. היא בגווני אפור, ללא צבע מלאכותי.",
+   "fun_fact_he": "לנמלת \"דרקולה\" (Mystrium camillae) יש את התנועה המהירה ביותר שנמדדה בעולם החי: הלסתות שלה נסגרות במהירות של כ-90 מטר בשנייה."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "ראש של זבוב",
+    "ראש של דבורה",
+    "ראש של חיפושית"
+   ],
+   "answer_he": "ראש של נמלה"
+  },
+  "related": [
+   "m170",
+   "m316"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 960,
+  "height": 1078,
+  "widths": [
+   400
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Cabeza_de_hormiga_vista_bajo_el_microscopio_electr%C3%B3nico_de_barrido.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cabeza_de_hormiga_vista_bajo_el_microscopio_electr%C3%B3nico_de_barrido.jpg",
+   "credit_line": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m350",
+  "key": "rotifer",
+  "title_he": "גלגלית (רוטיפר)",
+  "title_en": "Rotifer (Notholca sp.)",
+  "category": "tiny-animals",
+  "tags": [
+   "גלגלית",
+   "רוטיפר",
+   "מים מתוקים",
+   "ריסים",
+   "בעלי חיים זעירים"
+  ],
+  "microscope": "light",
+  "technique": "dic",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.00015,
+   "subject_size_label": "≈ 0.1–0.2 מ\"מ",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "ארוכה כמו שתי שערות שמונחות זו לצד זו"
+  },
+  "text": {
+   "main_he": "הגלגלית היא אחד מבעלי החיים הקטנים בעולם, ובכל זאת יש לה פה, לסתות, קיבה ועין. בראש שלה יש עטרה של שערות זעירות שזזות כל הזמן, ונראות כמו גלגל מסתובב. מכאן השם שלה.",
+   "deep_he": "בתמונה גלגלית מהסוג Notholca, שחיה בתוך מעין שריון שקוף הנקרא לוריקה. בצד שמאל רואים את הריסים, שערות מיקרוסקופיות שתנועתן יוצרת זרם מים שמביא מזון אל הפה, ואת נקודת העין האדומה. מתחת לראש נמצאות לסתות שרירתיות (מסטקס) שטוחנות את המזון, והגוש החום-זהוב הוא הקיבה. הצילום נעשה בשיטת DIC (ניגוד התאבכות דיפרנציאלי), שמבליטה הבדלים זעירים בעובי ובחומר של דגימה שקופה ונותנת לה מראה כמעט תלת-ממדי. כבר אנטוני ון לוונהוק תיאר גלגליות במכתביו, וכיום מוכרים כ-2,000 מינים.",
+   "fun_fact_he": "ב-2021 הצליחו חוקרים להחיות גלגליות שהיו קפואות בקרקע הקפואה של סיביר כ-24,000 שנה."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "פרמציום",
+    "דוב מים",
+    "ביצת חרק"
+   ],
+   "answer_he": "גלגלית"
+  },
+  "related": [
+   "m212",
+   "m154"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1276,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Wiedehopf20",
+   "source_url": "https://commons.wikimedia.org/wiki/File:The_Rotifer_Notholca_sp.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_Rotifer_Notholca_sp.jpg",
+   "credit_line": "Wiedehopf20, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m354",
+  "key": "tardigrade-sem",
+  "title_he": "דוב מים במיקרוסקופ אלקטרונים",
+  "title_en": "Tardigrade Milnesium tardigradum (SEM)",
+  "category": "tiny-animals",
+  "tags": [
+   "דוב מים",
+   "טרדיגרד",
+   "SEM",
+   "בעלי חיים זעירים"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0007,
+   "subject_size_label": "≈ 0.7 מ\"מ (עד כ-1 מ\"מ)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "ארוך כמו 10 שערות שמונחות זו לצד זו"
+  },
+  "text": {
+   "main_he": "זה אותו מין של דוב מים, הפעם במיקרוסקופ אלקטרונים. עכשיו הוא נראה כמו דובון קטן ושמנמן: רואים את קפלי העור, את ארבעת זוגות הרגליים ואת הטפרים הזעירים בקצותיהן.",
+   "deep_he": "מיקרוסקופ אלקטרונים סורק מראה רק את פני השטח, אבל בפרטים חדים ובתחושה תלת-ממדית שקשה לקבל במיקרוסקופ אור. מצד שני, הדגימה חייבת להיות יבשה ובוואקום, ולכן אי אפשר לצלם כך בעל חיים חי. בתמונה דוב המים במצב פעיל, עם רגליים פרושות; הראש משמאל, והטפרים בולטים בקצה הרגליים. בקצה הראש יש פה ובו שני מחטים חדים (סטילטים) שבעזרתם הוא דוקר את טרפו. התמונה פורסמה ב-2012 במחקר שהשווה את החלבונים של דובי מים פעילים, של דובי מים יבשים במצב \"חבית\" ושל עוברים. התמונה בגווני אפור, ללא צבע מלאכותי.",
+   "fun_fact_he": "השם המדעי טרדיגרדה פירושו \"הולך לאט\" באיטלקית, שם שנתן להם המדען לזארו ספלנצאני."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "קרדית אבק",
+    "זחל זבוב",
+    "פרעוש"
+   ],
+   "answer_he": "דוב מים"
+  },
+  "related": [
+   "m154",
+   "m231",
+   "m316"
+  ],
+  "pair_id": "tardigrade",
+  "featured": false,
+  "width": 1280,
+  "height": 981,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "CC BY 2.5",
+   "url": "https://creativecommons.org/licenses/by/2.5",
+   "kind": "by",
+   "author": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png",
+   "credit_line": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012), CC BY 2.5, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m013",
+  "key": "gold-on-pyrite",
+  "title_he": "זהב על גביש פיריט",
+  "title_en": "Native gold on pyrite (SEM)",
+  "category": "crystals",
+  "tags": [
+   "זהב",
+   "מינרלים",
+   "פיריט",
+   "מיקרוסקופ אלקטרונים"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0006,
+   "subject_size_label": "≈ 0.6 מ\"מ",
+   "field_width_m": 0.00087,
+   "pixel_size_m": 9.0625e-07,
+   "comparison_he": "בערך 8–9 עוביי שערה"
+  },
+  "text": {
+   "main_he": "גרגר זעיר מעפרה של מכרה זהב בסיביר. החלק הסגול-אפור הוא פיריט, מינרל שמכונה 'זהב של שוטים' כי הוא מבריק וצהוב. החלק הצהוב הוא זהב אמיתי שגדל עליו. הצבעים נוספו במחשב.",
+   "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים סורק בשיטה שנקראת 'אלקטרונים מוחזרים' (BSE). בשיטה הזו יסודות כבדים מחזירים יותר אלקטרונים ונראים בהירים יותר. הזהב, אחד היסודות הכבדים בטבלה המחזורית, נראה בהיר מאוד, והפיריט, תרכובת של ברזל וגופרית (FeS2), כהה יותר. התמונה המקורית היא בגווני אפור, והצבעים הוספו אחר כך כדי להבליט את שני המינרלים. הקו בפינה מסמן 200 מיקרון, כך שכל הגרגר קטן ממילימטר. צמידות כזו של זהב ופיריט אופיינית למרבצי הזהב של רכס יניסיי ברוסיה.",
+   "fun_fact_he": "השם 'פיריט' בא מהמילה היוונית 'פיר', אש, כי כשמכים בו בפלדה הוא מתיז ניצוצות."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "גוש גופרית",
+    "שבב מתכת",
+    "גרגר אבקה"
+   ],
+   "answer_he": "זהב על פיריט"
+  },
+  "related": [
+   "m376",
+   "m398"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 960,
+  "height": 960,
+  "widths": [
+   400
+  ],
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0",
+   "kind": "by",
+   "author": "Boris Lobastov",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Gold_on_pyrite_SEM_image.png",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gold_on_pyrite_SEM_image.png",
+   "credit_line": "Boris Lobastov, CC BY 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m069",
+  "key": "salt-rheinberg",
+  "title_he": "גבישי מלח בישול",
+  "title_en": "Table salt crystals",
+  "category": "crystals",
+  "tags": [
+   "מלח",
+   "גבישים",
+   "קוביות",
+   "מטבח"
+  ],
+  "microscope": "light",
+  "technique": "darkfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0004,
+   "subject_size_label": "≈ 0.4 מ\"מ",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 6 עוביי שערה"
+  },
+  "text": {
+   "main_he": "אלה גרגרים של מלח רגיל מהמטבח. מקרוב רואים שכמעט כל גרגר הוא קובייה קטנה, עם פינות מעט מעוגלות. הצבע הכחול והצהוב מגיע ממסננים צבעוניים שהוכנסו למיקרוסקופ, לא מהמלח.",
+   "deep_he": "מלח בישול הוא נתרן כלורי (NaCl). בתוכו יוני נתרן ויוני כלור מסודרים לסירוגין בסריג קובייתי, כמו לוח שחמט תלת-ממדי, ולכן הגביש כולו גדל בצורת קובייה. התמונה צולמה בתאורת ריינברג, שיטה שהמציא הבריטי ג'וליוס ריינברג בסוף המאה ה-19: מסנן צבעוני בצורת טבעת מאיר את הגבישים מהצדדים, ומסנן בצבע אחר צובע את הרקע. זו גרסה צבעונית של 'שדה אפל', שבו רואים רק את האור שהעצם מפזר. הפינות המעוגלות נוצרות כשהגרגרים מתחככים זה בזה במפעל ובקופסה.",
+   "fun_fact_he": "המרחק בין יון נתרן ליון כלור שכן בגביש מלח הוא בערך 0.28 ננומטר, כלומר בגרגר אחד בגודל חצי מילימטר יש יותר ממיליון 'קומות' של יונים מצד לצד."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "גבישי סוכר",
+    "קוביות קרח",
+    "גרגרי חול"
+   ],
+   "answer_he": "גבישי מלח"
+  },
+  "related": [
+   "m333",
+   "m298"
+  ],
+  "pair_id": "salt",
+  "featured": false,
+  "width": 1920,
+  "height": 1361,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0",
+   "kind": "by",
+   "author": "Misiek1962",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Kitchen_salt_crystals.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Kitchen_salt_crystals.jpg",
+   "credit_line": "Misiek1962, CC BY 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m080",
+  "key": "moon-rock-thin-section",
+  "title_he": "פרוסה דקה של סלע מהירח",
+  "title_en": "Thin section of an Apollo 12 Moon rock",
+  "category": "crystals",
+  "tags": [
+   "ירח",
+   "סלעים",
+   "מינרלים",
+   "אור מקוטב",
+   "אפולו"
+  ],
+  "microscope": "light",
+  "technique": "polarized",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 3e-05,
+   "subject_size_label": "עובי הפרוסה ≈ 30 מיקרון",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "פחות מחצי עובי שערה"
+  },
+  "text": {
+   "main_he": "זה סלע שהביאו אסטרונאוטים מהירח ב-1969. חתכו ממנו פרוסה כל כך דקה שהאור עובר דרכה, וצילמו אותה באור מקוטב. כל כתם צבעוני הוא גביש של מינרל אחר, או אותו מינרל בכיוון אחר.",
+   "deep_he": "הדגימה 12005 נאספה במשימת אפולו 12 באזור שנקרא 'אוקיינוס הסערות', מישור עצום של לבה קפואה. גיאולוגים מלטשים פרוסה של סלע עד עובי של כ-30 מיקרון (מיקרון הוא אלפית המילימטר), מדביקים אותה על זכוכית ומצלמים בין שני מסננים מקטבים מוצלבים. במצב הזה מינרלים כמו אוליבין ופירוקסן מקבלים צבעי התאבכות עזים, וכל מינרל 'נצבע' בטווח צבעים שאופייני לו. כך אפשר לזהות את המינרלים ולהבין איך הלבה התקררה. הסדקים הדקים שחוצים את הגבישים נוצרו כנראה מפגיעות מטאוריטים ומשינויי טמפרטורה.",
+   "fun_fact_he": "סלעי הבזלת שהביאה משימת אפולו 12 התגבשו מלבה לפני יותר משלושה מיליארד שנה, הרבה לפני שהיו על כדור הארץ צמחים או בעלי חיים."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "חלון ויטראז'",
+    "גבישי ויטמין C",
+    "פרוסת גרניט"
+   ],
+   "answer_he": "סלע מהירח"
+  },
+  "related": [
+   "m398",
+   "m298",
+   "m376"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1440,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Warrenmck",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Thin_section_of_apollo_sample12005_in_XPL.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Thin_section_of_apollo_sample12005_in_XPL.jpg",
+   "credit_line": "Warrenmck, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m131",
+  "key": "stm-cobalt-on-copper",
+  "title_he": "אטום קובלט על משטח נחושת",
+  "title_en": "Cobalt atom dragged across copper (STM)",
+  "category": "crystals",
+  "tags": [
+   "אטומים",
+   "מיקרוסקופ מנהור",
+   "נחושת",
+   "ננו"
+  ],
+  "microscope": "probe",
+  "technique": "stm",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 2.6e-10,
+   "subject_size_label": "≈ 0.26 ננומטר בין אטומים",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 270 אלף אטומים בשורה לאורך עובי שערה"
+  },
+  "text": {
+   "main_he": "כאן רואים את עולם האטומים. מחט דקיקה של מיקרוסקופ מנהור גררה אטום קובלט יחיד על פני גביש נחושת. כל 'כדור' בתמונה הוא מקום שבו האטום אהב לעצור, והם מסודרים בשורות לפי האטומים של הנחושת שמתחתיו.",
+   "deep_he": "מיקרוסקופ מנהור סורק (STM) לא 'מסתכל' בכלל: יש בו מחט מתכת חדה כל כך שבקצה שלה יש לפעמים אטום אחד. כשהמחט קרובה מאוד למשטח, פחות מננומטר (מיליונית המילימטר), זורם ביניהם זרם חשמלי זעיר שנקרא 'זרם מנהור'. המחשב מודד את הזרם בכל נקודה ובונה ממנו מפה של פני השטח, אטום אחר אטום. בניסוי הזה במכון התקנים האמריקאי (NIST) השתמשו במחט גם כדי לגרור אטום קובלט. העיגולים הגדולים הם המקום המועדף עליו, האזורים המשולשים הבהירים הם מקום פחות נוח, והאזורים הכהים הם מקומות שהאטום פשוט 'קפץ' מעליהם. הצבעים נוספו במחשב, כי למפה כזו אין צבע אמיתי.",
+   "fun_fact_he": "ב-1989 כתבו חוקרי IBM את המילה IBM בעזרת 35 אטומי קסנון, שהזיזו אחד-אחד במיקרוסקופ מנהור."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "גרגרי אבקה",
+    "ביצי חרקים",
+    "קשקשי כנף"
+   ],
+   "answer_he": "אטומים על נחושת"
+  },
+  "related": [
+   "m376",
+   "m190"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1280,
+  "height": 1280,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "",
+   "kind": "pd",
+   "author": "National Institute of Standards and Technology",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Quantum_Physics%3B_Nanoscale_Devices_%285887269235%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Quantum_Physics%3B_Nanoscale_Devices_%285887269235%29.jpg",
+   "credit_line": "National Institute of Standards and Technology, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m298",
+  "key": "vitamin-c-polarized",
+  "title_he": "גבישי ויטמין C באור מקוטב",
+  "title_en": "Vitamin C crystals in polarized light",
+  "category": "crystals",
+  "tags": [
+   "גבישים",
+   "ויטמין C",
+   "אור מקוטב",
+   "כימיה"
+  ],
+  "microscope": "light",
+  "technique": "polarized",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0003,
+   "subject_size_label": "≈ 0.3 מ\"מ (הערכה)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 4 עוביי שערה"
+  },
+  "text": {
+   "main_he": "זה לא ציור מופשט: אלה גבישים של ויטמין C, אותו ויטמין שיש בתפוזים. טיפה של תמיסה התייבשה על זכוכית, והגבישים צמחו ממרכזים קטנים החוצה לכל הכיוונים, כמו חישורים של גלגל. הצבעים לא נמצאים בגביש עצמו. הם נוצרים כשאור מקוטב עובר דרכו.",
+   "deep_he": "אור מקוטב הוא אור שגליו רוטטים בכיוון אחד בלבד. במיקרוסקופ מקטב שמים מסנן מקטב אחד מתחת לדגימה ומסנן שני מעליה, מסובב ב-90 מעלות, כך שבלי דגימה השדה נראה שחור. גביש של ויטמין C (חומצה אסקורבית) הוא חומר 'שובר-אור כפול': הוא מפצל את האור לשתי קרניים שנעות בו במהירויות שונות. כשהקרניים מתאחדות שוב הן מחזקות צבעים מסוימים ומבטלות אחרים, והתוצאה היא צבעי התאבכות, כמו בבועת סבון. הצורה העגולה עם הקרניים נקראת ספרוליט: גבישים דקיקים שצמחו מנקודה אחת החוצה. עובי הגביש והכיוון שלו קובעים איזה צבע נראה בכל מקום.",
+   "fun_fact_he": "ויטמין C מתפרק בחום ובאור, ולכן מיץ תפוזים שעומד זמן רב פתוח מאבד חלק מהוויטמין שבו."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "גבישי סוכר",
+    "גבישי מלח",
+    "שכבת שמן על מים"
+   ],
+   "answer_he": "גבישי ויטמין C"
+  },
+  "related": [
+   "m069",
+   "m080"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1277,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0",
+   "kind": "by",
+   "author": "PW31",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Wheel_-_vitamin_C.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Wheel_-_vitamin_C.jpg",
+   "credit_line": "PW31, CC BY 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m333",
+  "key": "salt-sem",
+  "title_he": "גרגר מלח במיקרוסקופ אלקטרונים",
+  "title_en": "Grain of table salt (SEM)",
+  "category": "crystals",
+  "tags": [
+   "מלח",
+   "גבישים",
+   "מיקרוסקופ אלקטרונים",
+   "מטבח"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": "≈ ×156",
+  "scale": {
+   "subject_size_m": 0.0005,
+   "subject_size_label": "≈ 0.5 מ\"מ",
+   "field_width_m": 0.00061,
+   "pixel_size_m": 6.354166666666667e-07,
+   "comparison_he": "בערך 7 עוביי שערה"
+  },
+  "text": {
+   "main_he": "גרגר מלח אחד, מוגדל פי 150 בערך במיקרוסקופ אלקטרונים סורק. רואים בבירור את צורת הקובייה, אבל גם שהפאות לא חלקות לגמרי: יש עליהן קמטים, שקעים ופירורים קטנים.",
+   "deep_he": "מיקרוסקופ אלקטרונים סורק (SEM) לא משתמש באור אלא בקרן דקה של אלקטרונים, שעוברת על פני הדגימה שורה אחר שורה. גלאי אוסף אלקטרונים שניתזים מהשטח, ומחשב בונה מהם תמונה בשחור-לבן עם תחושת עומק חזקה. לכן הגרגר נראה כמו פסל ולא כמו צל שקוף, כפי שהוא נראה במיקרוסקופ אור. הקו הלבן בפינה מסמן 100 מיקרון (מיקרון הוא אלפית המילימטר), ולפיו הגרגר כולו רחב בערך חצי מילימטר. הפינות המעוגלות והמשטח המחוספס הם תוצאה של התגבשות מהירה ושל שחיקה בזמן הייצור והאריזה.",
+   "fun_fact_he": "במיקרוסקופ אלקטרונים חייבים לעבוד בריק, כי אלקטרונים נבלמים במהירות במולקולות של אוויר."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "גרגר סוכר",
+    "קוביית סוכר",
+    "גרגר חול"
+   ],
+   "answer_he": "גרגר מלח"
+  },
+  "related": [
+   "m069",
+   "m336"
+  ],
+  "pair_id": "salt",
+  "featured": false,
+  "width": 960,
+  "height": 762,
+  "widths": [
+   400
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "",
+   "kind": "pd",
+   "author": "Chhe (talk)",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Salt2.JPG",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Salt2.JPG",
+   "credit_line": "Chhe (talk), Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m336",
+  "key": "snowflake-sem",
+  "title_he": "פתית שלג במיקרוסקופ אלקטרונים",
+  "title_en": "Snowflake (low-temperature SEM)",
+  "category": "crystals",
+  "tags": [
+   "שלג",
+   "קרח",
+   "גבישים",
+   "מיקרוסקופ אלקטרונים",
+   "סימטריה"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0006,
+   "subject_size_label": "≈ 0.6 מ\"מ",
+   "field_width_m": 0.00105,
+   "pixel_size_m": 5.46875e-07,
+   "comparison_he": "בערך 8–9 עוביי שערה"
+  },
+  "text": {
+   "main_he": "פתית שלג קטן עם שש זרועות, מצולם במיקרוסקופ אלקטרונים. כדי שלא יימס, הוא הוקפא לטמפרטורה של יותר מ-170 מעלות מתחת לאפס. רואים על הזרועות פסים, חריצים ונקודות קטנות של כפור.",
+   "deep_he": "הקרח בנוי מסריג משושה של מולקולות מים, ולכן כמעט כל פתית שלג מראה סימטריה של שש. את הדגימה הזו צילמה יחידת המיקרוסקופיה של משרד החקלאות האמריקאי (USDA) במיקרוסקופ אלקטרונים סורק בטמפרטורה נמוכה (LT-SEM). לפי היחידה, הדגימות מוחזקות מתחת ל-170- מעלות צלזיוס, וכך אפשר להכניס אותן לריק ולצלם אותן שעות בלי שישתנו. במיקרוסקופ אור הפתית עלול להימס מחום התאורה, ובנוסף העומק החד מוגבל. הקו בפינה מסמן 300 מיקרון, ולכן הפתית כולו רחב בערך 0.6 מילימטר: פתית קטן יחסית. הנקודות הבולטות על פני הזרועות הן טיפות מים קפואות זעירות שנדבקו אליו.",
+   "fun_fact_he": "קרח שקוף כמו זכוכית, ובכל זאת שלג נראה לבן: האור פוגע באינספור פאות של גבישים קטנים ומתפזר לכל הכיוונים."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "גביש מלח",
+    "פרח מאובן",
+    "גרגר אבקה"
+   ],
+   "answer_he": "פתית שלג"
+  },
+  "related": [
+   "m333",
+   "m398"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1280,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "",
+   "kind": "pd",
+   "author": "",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Snowflake_300um_LTSEM.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Snowflake_300um_LTSEM.jpg",
+   "credit_line": "Unknown author, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m376",
+  "key": "stainless-steel-grains",
+  "title_he": "גרעיני מתכת בפלדת אל-חלד",
+  "title_en": "Grain structure of stainless steel",
+  "category": "crystals",
+  "tags": [
+   "מתכת",
+   "פלדה",
+   "גבישים",
+   "מטלורגיה"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0002,
+   "subject_size_label": "≈ 0.2 מ\"מ לגרעין",
+   "field_width_m": 0.00106,
+   "pixel_size_m": 5.520833333333333e-07,
+   "comparison_he": "בערך 3 עוביי שערה"
+  },
+  "text": {
+   "main_he": "גם מתכת עשויה מגבישים! זו פלדת אל-חלד מלוטשת שנחרטה בחומצה. כל 'אריח' בתמונה הוא גביש נפרד שנקרא גרעין, והקווים הכהים הם הגבולות ביניהם, כמו התפרים בין אבני ריצוף.",
+   "deep_he": "כשמתכת מתקררת מנוזל, גבישים רבים מתחילים לגדול בבת אחת עד שהם נוגעים זה בזה, וכך נוצר פסיפס של גרעינים. כדי לראות אותם מלטשים את המתכת כמו מראה ואחר כך 'מתקיפים' אותה בחומצה. החומצה אוכלת מהר יותר את הגבולות בין הגרעינים, וכל גרעין מגיב קצת אחרת לפי הכיוון של הסריג שלו, ולכן הגוונים שונים. את התמונה מצלמים במיקרוסקופ מטלוגרפי שמאיר מלמעלה, כי אור לא עובר דרך מתכת. הקווים הישרים והמקבילים בתוך חלק מהגרעינים הם 'תאומים': אזורים שבהם הסריג מתהפך כמו בבבואה במראה. הקו בפינה מסמן 200 מיקרון.",
+   "fun_fact_he": "פלדת אל-חלד מכילה לפחות כ-10.5% כרום. הכרום יוצר על פני השטח שכבת תחמוצת דקה של כמה ננומטרים בלבד, שמגינה מפני חלודה ואף מתחדשת מעצמה אחרי שריטה."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "תאי צמח",
+    "אבני ריצוף",
+    "פרוסת סלע"
+   ],
+   "answer_he": "גרעיני פלדה"
+  },
+  "related": [
+   "m013",
+   "m131"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1396,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0",
+   "kind": "by",
+   "author": "Djhé",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Microstructure_of_a_stainless_steel.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Microstructure_of_a_stainless_steel.jpg",
+   "credit_line": "Djhé, CC BY 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m398",
+  "key": "sand-grains",
+  "title_he": "גרגרי חול מחוף בגולד קוסט",
+  "title_en": "Sand grains from Gold Coast, Australia",
+  "category": "crystals",
+  "tags": [
+   "חול",
+   "מינרלים",
+   "קוורץ",
+   "חוף"
+  ],
+  "microscope": "light",
+  "technique": "stereo",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.0003,
+   "subject_size_label": "≈ 0.3 מ\"מ (בערך)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 4 עוביי שערה"
+  },
+  "text": {
+   "main_he": "חופן קטן של חול מחוף באוסטרליה. מקרוב כל גרגר הוא אבן זעירה: חלקם שקופים כמו זכוכית, חלקם לבנים וחלקם צהבהבים. רוב הגרגרים מעוגלים, כי הגלים שפשפו אותם זה בזה במשך זמן רב.",
+   "deep_he": "רוב החול בחופים בעולם עשוי מקוורץ, מינרל של צורן וחמצן (SiO2) שהוא קשה ועמיד מאוד. הגרגרים השקופים כאן הם ככל הנראה קוורץ, והגוונים הצהובים נובעים מעקבות של תחמוצות ברזל או ממינרלים אחרים. גיאולוגים מגדירים חול כגרגרים בגודל שבין 0.06 ל-2 מילימטרים. לפי הצורה אפשר לנחש את ההיסטוריה של הגרגר: גרגר חד וזוויתי עבר דרך קצרה, וגרגר עגול וחלק נשחק הרבה ברוח או במים. הדגימה נלקחה מ'חוף שר', חוף שבו החול משמיע צפצוף כשדורכים עליו.",
+   "fun_fact_he": "חול 'מזמר' או 'מצפצף' משמיע קול רק כשהגרגרים נקיים, עגולים ודומים מאוד זה לזה בגודלם. אם מערבבים בו מעט אבק או בוץ, הוא משתתק."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "גבישי סוכר",
+    "גבישי מלח",
+    "פירורי זכוכית"
+   ],
+   "answer_he": "גרגרי חול"
+  },
+  "related": [
+   "m080",
+   "m336"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1439,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "PeterKopias",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Sand_Australia_Gold_Coast.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sand_Australia_Gold_Coast.jpg",
+   "credit_line": "PeterKopias, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m015",
+  "key": "nylon-stockings",
+  "title_he": "אריג של גרבי ניילון",
+  "title_en": "Nylon stocking knit in polarized light",
+  "category": "tech",
+  "tags": [
+   "ניילון",
+   "בדים",
+   "סיבים",
+   "אור מקוטב"
+  ],
+  "microscope": "light",
+  "technique": "polarized",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 5e-05,
+   "subject_size_label": "חוט ≈ 50 מיקרון (בערך)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך כמו שערה דקה"
+  },
+  "text": {
+   "main_he": "זה הסריג של גרב ניילון דקה, כמו גרביונים. החוטים נקשרים זה בזה בלולאות, והקשרים יוצרים 'רשת דייגים' זעירה. הצבעים מופיעים כי צילמו באור מקוטב.",
+   "deep_he": "ניילון הוא פלסטיק שממנו מושכים סיבים ארוכים. במשיכה שרשראות המולקולות הארוכות מסתדרות לאורך הסיב, ובגלל הסדר הזה הסיב שובר את האור לשתי קרניים, בדיוק כמו גביש. בין שני מסננים מקטבים מוצלבים, ועם לוחית נוספת שנקראת 'מפצה', הוא מקבל צבעים לפי העובי והכיוון שלו. '20 דן' (דנייר) הוא מדד לעובי החוט: 9 קילומטרים של חוט כזה שוקלים 20 גרם בלבד. מחישוב פשוט יוצא שחוט כזה, אילו היה חוט מלא אחד, היה בעובי של כ-50 מיקרון, דומה לשערה דקה.",
+   "fun_fact_he": "ניילון הומצא בחברת דופונט בשנות ה-30 של המאה ה-20, כשגרבי ניילון יצאו למכירה בכל ארצות הברית במאי 1940, נמכרו כ-4 מיליון זוגות בתוך ארבעה ימים."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "קורי עכביש",
+    "רשת דייגים",
+    "סיבי נייר"
+   ],
+   "answer_he": "גרב ניילון"
+  },
+  "related": [
+   "m293",
+   "m295"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1280,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0",
+   "kind": "by",
+   "author": "Alexander Klepnev",
+   "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B5%D0%B9%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D1%85_%D1%87%D1%83%D0%BB%D0%BE%D0%BA_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E_20_%D0%B4%D0%B5%D0%BD.tif",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/%D0%9F%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B5%D0%B9%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D1%85_%D1%87%D1%83%D0%BB%D0%BE%D0%BA_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E_20_%D0%B4%D0%B5%D0%BD.tif",
+   "credit_line": "Alexander Klepnev, CC BY 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m052",
+  "key": "cpu-chip-486",
+  "title_he": "שבב מעבד של מחשב",
+  "title_en": "Intel 486 microprocessor die",
+  "category": "tech",
+  "tags": [
+   "שבב",
+   "מחשב",
+   "טרנזיסטורים",
+   "אלקטרוניקה"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 1e-06,
+   "subject_size_label": "פרטים של ≈ 1 מיקרון",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "כ-70 קווים כאלה זה לצד זה ברוחב של שערה"
+  },
+  "text": {
+   "main_he": "זו לא מפה של עיר: זה חלק קטן ממעבד מחשב משנת 1989, אינטל 486. הקווים המוזהבים הם 'כבישים' של מתכת שמעבירים אותות חשמליים בין יותר ממיליון מתגים זעירים שנקראים טרנזיסטורים.",
+   "deep_he": "שבב מחשב בנוי משכבות על גבי פרוסה של סיליקון. בשכבות התחתונות נמצאים הטרנזיסטורים, ומעליהם כמה שכבות של פסי מתכת שמחברים ביניהם, כמו מחלף כבישים רב-קומתי. את התמונה צילמו במיקרוסקופ מטלוגרפי, שמאיר את הדגימה מלמעלה ולא מבעד לה, ותאורה מהצד הבליטה את פסי המתכת. במעבד 486 יש כ-1.2 מיליון טרנזיסטורים, והפרטים הקטנים בו רחבים בערך מיקרון אחד, אלפית המילימטר. במעבדים של היום יש מיליארדי טרנזיסטורים, והפרטים קטנים פי עשרות מזה, ולכן כבר אי אפשר לראות אותם במיקרוסקופ אור רגיל.",
+   "fun_fact_he": "ה-486 היה המעבד הראשון בסדרה של אינטל שהיו בו יותר ממיליון טרנזיסטורים."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "מפת עיר מהאוויר",
+    "לוח מעגלים מודפס",
+    "גבישי זהב"
+   ],
+   "answer_he": "שבב מעבד"
+  },
+  "related": [
+   "m257",
+   "m190"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1440,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Fil22plm",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Microprocesseur_486DX2_m%C3%A9tallisation_par_photographie_microscope_optique.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Microprocesseur_486DX2_m%C3%A9tallisation_par_photographie_microscope_optique.jpg",
+   "credit_line": "Fil22plm, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m075",
+  "key": "cd-pits-sem",
+  "title_he": "גומות של תקליטור במיקרוסקופ אלקטרונים",
+  "title_en": "CD-ROM data pits (SEM)",
+  "category": "tech",
+  "tags": [
+   "תקליטור",
+   "מידע דיגיטלי",
+   "מיקרוסקופ אלקטרונים",
+   "פלסטיק"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 5e-07,
+   "subject_size_label": "רוחב גומה ≈ 0.5 מיקרון",
+   "field_width_m": 2e-05,
+   "pixel_size_m": 1.5625000000000003e-08,
+   "comparison_he": "כ-140 גומות זו לצד זו ברוחב של שערה"
+  },
+  "text": {
+   "main_he": "אותן גומות של תקליטור, הפעם במיקרוסקופ אלקטרונים. עכשיו רואים בבירור את השורות המלוכסנות של חריצים, חלקם קצרים וחלקם ארוכים. האורך של כל גומה והמרווח עד הבאה הם הצופן של המידע.",
+   "deep_he": "כדי לצלם את הגומות, החוקר קילף מהתקליטור את שכבת האלומיניום המבריקה, וצילם את שכבת הפוליקרבונט, הפלסטיק השקוף שבו הגומות מוטבעות כבר בייצור, כמו חותמת. הקו הלבן מסמן 5 מיקרונים, ולפיו כל השדה בתמונה רחב בערך 20 מיקרון, פחות משליש מעובי שערה. מיקרוסקופ אלקטרונים מפריד פרטים קטנים בהרבה ממיקרוסקופ אור, כי אורך הגל של האלקטרונים קצר פי אלפים מאורך הגל של האור הנראה. זו בדיוק הסיבה שבתמונת האור הגומות מטושטשות וכאן הן חדות.",
+   "fun_fact_he": "ב-DVD הגומות קטנות יותר והמסלולים צפופים יותר, ולכן נכנס עליו בערך פי שבעה יותר מידע מאשר על CD."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "משטח של שבב",
+    "קשקשי כנף פרפר",
+    "טביעת אצבע"
+   ],
+   "answer_he": "גומות בתקליטור"
+  },
+  "related": [
+   "m257",
+   "m348"
+  ],
+  "pair_id": "cd-pits",
+  "featured": false,
+  "width": 1280,
+  "height": 960,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "CC0",
+   "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "kind": "pd",
+   "author": "[Tycho] talk , http://shansov.net",
+   "source_url": "https://commons.wikimedia.org/wiki/File:CD-ROM_pressed_pits.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/CD-ROM_pressed_pits.jpg",
+   "credit_line": "[Tycho] talk , http://shansov.net, CC0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m176",
+  "key": "carbon-nanotubes",
+  "title_he": "יער של ננו-צינורות פחמן",
+  "title_en": "Carbon nanotube 'forest' – ultra-dark coating",
+  "category": "tech",
+  "tags": [
+   "ננו-צינורות",
+   "פחמן",
+   "ננוטכנולוגיה",
+   "מיקרוסקופ אלקטרונים"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 1e-08,
+   "subject_size_label": "קוטר צינור ≈ 10 ננומטר (בערך)",
+   "field_width_m": 2.5e-05,
+   "pixel_size_m": 1.953125e-08,
+   "comparison_he": "כ-7,000 צינורות זה לצד זה ברוחב של שערה"
+  },
+  "text": {
+   "main_he": "החוטים הדקים בתמונה הם ננו-צינורות פחמן: צינורות חלולים שדפנותיהם עשויות אטומי פחמן בלבד. יחד הם יוצרים 'יער' סבוך שבולע כמעט את כל האור שפוגע בו, ולכן זה אחד החומרים השחורים ביותר שנוצרו. הצבע האדום נוסף במחשב.",
+   "deep_he": "ננו-צינור פחמן הוא כמו גיליון של גרפן, שכבה של אטומי פחמן במבנה של חלת דבש, שגולגל לצינור. הקוטר שלו הוא כמה ננומטרים (ננומטר הוא מיליונית המילימטר), אבל האורך יכול להגיע למיקרונים רבים ואף יותר. במכון התקנים האמריקאי (NIST) גידלו 'יער' דליל של צינורות כאלה על גלאי שמודד את העוצמה של קרני לייזר. אור שנכנס ליער מוחזר שוב ושוב בין הצינורות עד שהוא נבלע כמעט כולו והופך לחום, והגלאי מודד את החום. האזור בתמונה רחב כ-25 מיקרון, פחות מחצי עובי שערה. מיקרוסקופ אלקטרונים מצלם בגווני אפור, והצבע האדום הוסף אחר כך.",
+   "fun_fact_he": "ביחס למשקלם, ננו-צינורות פחמן חזקים פי עשרות מפלדה, ולכן חוקרים מנסים לטוות מהם חוטים וכבלים."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "שיער אנושי",
+    "סיבי צמר",
+    "חוטי פטרייה"
+   ],
+   "answer_he": "ננו-צינורות פחמן"
+  },
+  "related": [
+   "m190",
+   "m293"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1280,
+  "height": 961,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "",
+   "kind": "pd",
+   "author": "National Institute of Standards and Technology",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Nanotube%3B_Ultradark_%285940479457%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nanotube%3B_Ultradark_%285940479457%29.jpg",
+   "credit_line": "National Institute of Standards and Technology, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m190",
+  "key": "graphene-stm",
+  "title_he": "גלי אלקטרונים בגרפן",
+  "title_en": "Electron waves in graphene (STM)",
+  "category": "tech",
+  "tags": [
+   "גרפן",
+   "פחמן",
+   "מיקרוסקופ מנהור",
+   "ננוטכנולוגיה"
+  ],
+  "microscope": "probe",
+  "technique": "stm",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 4e-08,
+   "subject_size_label": "שדה של ≈ 40 ננומטר",
+   "field_width_m": 4e-08,
+   "pixel_size_m": 3.125e-11,
+   "comparison_he": "כ-1,750 שדות כאלה זה לצד זה ברוחב של שערה"
+  },
+  "text": {
+   "main_he": "זו מפה של יריעת גרפן, שכבה שעובייה אטום פחמן אחד בלבד. היא צולמה במיקרוסקופ מנהור, מחט דקיקה שמרגישה את פני השטח. העיגולים הכהים הם 'גלים' של אלקטרונים שמתפשטים סביב פגמים קטנים ביריעה, כמו אדוות סביב אבן שנזרקה לשלולית.",
+   "deep_he": "גרפן הוא שכבה אחת של אטומי פחמן שמסודרים במשושים, כמו חלת דבש. הוא חזק מאוד, גמיש ומוליך חשמל היטב. חוקרי NIST ומכון ג'ורג'יה טק השתמשו במיקרוסקופ מנהור סורק (STM) כדי למדוד, נקודה אחר נקודה, כמה קל לאלקטרונים לזרום מהמחט לגרפן באנרגיה מסוימת. כך קיבלו מפה של גלי האלקטרונים. הם גילו שפגמים בגודל של אטום יוצרים 'בורות' עם אדוות חזקות, ואילו גבשושיות רחבות ביריעה כמעט לא מפריעות לאלקטרונים: 'פסי האטה' פחות חשובים מ'בורות בכביש'. האזור כולו רחב כ-40 ננומטר בלבד, והצבעים נוספו במחשב.",
+   "fun_fact_he": "גרפן בודד לראשונה ב-2004 בעזרת סרט דביק פשוט, שקילף שכבות דקות מגרפיט של עיפרון. על כך זכו אנדרה גיים וקונסטנטין נובוסלוב בפרס נובל לפיזיקה ב-2010."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "סריקת לוויין של ים",
+    "מושבת חיידקים",
+    "משטח של שבב"
+   ],
+   "answer_he": "יריעת גרפן"
+  },
+  "related": [
+   "m176",
+   "m131"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1280,
+  "height": 1280,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "",
+   "kind": "pd",
+   "author": "National Institute of Standards and Technology",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Speed_Bumps_Less_Important_Than_Potholes_for_Graphene_%285941083850%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Speed_Bumps_Less_Important_Than_Potholes_for_Graphene_%285941083850%29.jpg",
+   "credit_line": "National Institute of Standards and Technology, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m257",
+  "key": "cd-pits-light",
+  "title_he": "המידע על תקליטור באור",
+  "title_en": "CD data pits (light microscope)",
+  "category": "tech",
+  "tags": [
+   "תקליטור",
+   "מידע דיגיטלי",
+   "לייזר",
+   "מוזיקה"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 5e-07,
+   "subject_size_label": "רוחב גומה ≈ 0.5 מיקרון",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "כ-140 גומות זו לצד זו ברוחב של שערה"
+  },
+  "text": {
+   "main_he": "כך נראה מקרוב תקליטור (CD) של מוזיקה או של משחק. המידע כתוב עליו בשורות ארוכות של גומות זעירות, ארוכות וקצרות. הגומות כל כך קטנות שגם במיקרוסקופ אור הן נראות רק כמו נקודות ומקפים מטושטשים.",
+   "deep_he": "על תקליטור יש מסלול אחד ארוך, ספירלה שמתחילה במרכז ומסתובבת החוצה. לאורכה מוטבעות בפלסטיק גומות ברוחב של כחצי מיקרון ובאורך של כ-0.8 עד 3 מיקרונים, והמרחק בין סיבוב לסיבוב של הספירלה הוא כ-1.6 מיקרון. קרן לייזר בנגן מוחזרת מהמשטח, והמעבר בין גומה למשטח שטוח משנה את עוצמת ההחזרה. מהשינויים האלה הנגן מפענח אחדות ואפסים. הגומות קרובות לגבול של מה שמיקרוסקופ אור יכול להפריד, ולכן הן נראות כאן מטושטשות. בתמונת מיקרוסקופ האלקטרונים של אותו נושא רואים אותן בחדות רבה.",
+   "fun_fact_he": "אם היו מותחים את הספירלה של תקליטור אחד לקו ישר, היא הייתה באורך של כחמישה קילומטרים."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "בד ארוג",
+    "תאי דם אדומים",
+    "שבב מחשב"
+   ],
+   "answer_he": "גומות בתקליטור"
+  },
+  "related": [
+   "m075",
+   "m052"
+  ],
+  "pair_id": "cd-pits",
+  "featured": false,
+  "width": 1920,
+  "height": 1919,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0",
+   "kind": "by",
+   "author": "Jan1959",
+   "source_url": "https://commons.wikimedia.org/wiki/File:CD_digital_coding_pits.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/CD_digital_coding_pits.jpg",
+   "credit_line": "Jan1959, CC BY 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m293",
+  "key": "paper-fibres",
+  "title_he": "סיבים בנייר בעבודת יד",
+  "title_en": "Fibres in handmade cattail paper",
+  "category": "tech",
+  "tags": [
+   "נייר",
+   "סיבים",
+   "צלולוזה",
+   "מיקרוסקופ קונפוקלי"
+  ],
+  "microscope": "light",
+  "technique": "confocal",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 2e-05,
+   "subject_size_label": "סיב ≈ 20 מיקרון (בערך)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "קצת פחות משליש מעובי שערה"
+  },
+  "text": {
+   "main_he": "דף נייר נראה חלק, אבל מקרוב הוא ערימה של סיבים דקים שמונחים זה על זה כמו קש. את הנייר הזה הכינו בעבודת יד מסיבים של צמח הסוף (Typha), שגדל ליד מים.",
+   "deep_he": "נייר עשוי מסיבי צלולוזה, החומר שממנו בנויים דפנות התאים של צמחים. מפרקים את הצמח במים לעיסה, פורשים אותה על רשת ומייבשים, והסיבים נדבקים זה לזה בקשרים כימיים חלשים. התמונה צולמה במיקרוסקופ קונפוקלי לייזר: קרן לייזר סורקת את הדגימה נקודה אחר נקודה, ורק אור שמגיע מעומק מסוים נקלט. כך מקבלים 'פרוסות' חדות בעומקים שונים ומצרפים אותן לתמונה אחת. הצבעים כאן הם צבעים מלאכותיים שהוספו במחשב כדי להבליט סיבים שונים.",
+   "fun_fact_he": "נייר רטוב נקרע בקלות, כי המים נכנסים בין הסיבים ומפרקים את הקשרים החלשים שמחזיקים אותם יחד."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "ערימת קש",
+    "סיבי שריר",
+    "חוטי כותנה"
+   ],
+   "answer_he": "סיבי נייר"
+  },
+  "related": [
+   "m015",
+   "m295"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1280,
+  "height": 1280,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Ckazilek",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Cattail-handmade-paper-1280.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cattail-handmade-paper-1280.jpg",
+   "credit_line": "Ckazilek, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m295",
+  "key": "velcro-light",
+  "title_he": "סקוטש נפתח",
+  "title_en": "Velcro hooks and loops",
+  "category": "tech",
+  "tags": [
+   "סקוטש",
+   "ווים",
+   "לולאות",
+   "המצאות"
+  ],
+  "microscope": "light",
+  "technique": "stereo",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 0.001,
+   "subject_size_label": "וו ≈ 1 מ\"מ (בערך)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 14 עוביי שערה"
+  },
+  "text": {
+   "main_he": "כך עובד סקוטש (וֶלְקְרוֹ). בצד אחד, האדום, יש ווים קטנים מפלסטיק קשיח. בצד השני, הלבן, יש סבך של לולאות רכות. כשלוחצים את הצדדים זה לזה, הווים נתפסים בלולאות. כאן רואים את הרגע שבו מושכים אותם זה מזה.",
+   "deep_he": "הסקוטש הוא דוגמה מפורסמת להמצאה בהשראת הטבע. המהנדס השווייצרי ז'ורז' דה מסטרל שם לב שקוצים של צמח הלפית נדבקים לפרווה של הכלב שלו. במיקרוסקופ הוא ראה שבקצה של כל קוץ יש וו זעיר. הווים בסקוטש עשויים בדרך כלל מסיבי ניילון שנחתכו, והלולאות מסיבים רכים ודקים יותר. כל וו לבד חלש, אבל אלפי ווים יחד מחזיקים חזק. הרעש המוכר כשפותחים סקוטש הוא קול של מאות לולאות שמשתחררות בבת אחת.",
+   "fun_fact_he": "השם Velcro מורכב משתי מילים בצרפתית: velours (קטיפה) ו-crochet (וו)."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "קוצים של צמח",
+    "רגלי חרק",
+    "שערות על עלה"
+   ],
+   "answer_he": "ווים של סקוטש"
+  },
+  "related": [
+   "m348",
+   "m015"
+  ],
+  "pair_id": "velcro",
+  "featured": false,
+  "width": 1280,
+  "height": 960,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Trazyanderson",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Velcro_photomicrograph.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Velcro_photomicrograph.jpg",
+   "credit_line": "Trazyanderson, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m348",
+  "key": "velcro-sem",
+  "title_he": "ווים ולולאות של סקוטש במיקרוסקופ אלקטרונים",
+  "title_en": "Velcro hooks and loops (SEM)",
+  "category": "tech",
+  "tags": [
+   "סקוטש",
+   "ווים",
+   "מיקרוסקופ אלקטרונים",
+   "סיבים"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": "≈ ×100",
+  "scale": {
+   "subject_size_m": 0.001,
+   "subject_size_label": "וו ≈ 1 מ\"מ (בערך)",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 14 עוביי שערה"
+  },
+  "text": {
+   "main_he": "אותו סקוטש במיקרוסקופ אלקטרונים. במרכז רואים וו עבה וחתוך, ומסביבו סבך של לולאות דקות. ברקע רואים גם את האריג שעליו הם תפורים.",
+   "deep_he": "במיקרוסקופ אלקטרונים סורק הכול נראה בגווני אפור, אבל עם עומק חד מאוד, ולכן אפשר לראות גם את הווים הקרובים וגם את האריג הרחוק. רואים שהקצה של הוו חתוך: בייצור מייצרים קודם לולאות מחוט ניילון עבה, ואז חותכים כל לולאה בצד אחד, וכך היא הופכת לוו. הלולאות בצד השני עשויות מסיבים דקים הרבה יותר, ולכן הן גמישות ונתפסות בקלות. הפס התחתון בתמונה מציג נתונים טכניים של המיקרוסקופ, למשל מתח הקרן והגדלה.",
+   "fun_fact_he": "נאס\"א השתמשה בסקוטש בתוכנית אפולו, כדי שהאסטרונאוטים יוכלו להצמיד חפצים לקירות החללית ושהם לא ירחפו בחוסר כבידה."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "סיבי נייר",
+    "שערות של חרק",
+    "חוטי כותנה"
+   ],
+   "answer_he": "ווים של סקוטש"
+  },
+  "related": [
+   "m295",
+   "m075"
+  ],
+  "pair_id": "velcro",
+  "featured": false,
+  "width": 1920,
+  "height": 1440,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 3.0",
+   "url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "kind": "by-sa",
+   "author": "Nicola Angeli/MUSE This file was uploaded by MUSE - Science Museum of Trento in cooperation with Wikimedia Italia.",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Velcro_-_SEM_MUSE.tif",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Velcro_-_SEM_MUSE.tif",
+   "credit_line": "Nicola Angeli/MUSE This file was uploaded by MUSE - Science Museum of Trento in cooperation with Wikimedia Italia., CC BY-SA 3.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ }
+]

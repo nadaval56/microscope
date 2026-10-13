@@ -1,0 +1,448 @@
+[
+  {
+    "key": "hooke-flea",
+    "commons_file": "File:HookeFlea01.jpg",
+    "category": "history",
+    "title_he": "הפרעוש של רוברט הוק",
+    "title_en": "Robert Hooke's flea (Micrographia, 1665)",
+    "tags": [
+      "הוק",
+      "מיקרוגרפיה",
+      "פרעוש",
+      "חרקים",
+      "המאה ה-17"
+    ],
+    "microscope": "illustration",
+    "technique": "illustration",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.002,
+      "subject_size_label": "≈ 2 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "בערך כמו 30 שערות אדם מונחות זו לצד זו"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זה אחד האיורים המפורסמים ביותר בתולדות המדע: פרעוש, כפי שראה אותו רוברט הוק דרך המיקרוסקופ שלו. האיור הופיע בשנת 1665 בספר \"מיקרוגרפיה\", ובפעם הראשונה אנשים ראו חרק זעיר בגודל של דף שלם. רואים את שריון הגוף המחולק לטבעות, את השערות הקשות ואת הרגליים האחוריות הארוכות שבזכותן הפרעוש קופץ.",
+      "deep_he": "\"מיקרוגרפיה\" (Micrographia, \"ציורים זעירים\") היה הספר הראשון שהציג לקהל הרחב את העולם שנגלה דרך המיקרוסקופ. הוק השתמש במיקרוסקופ מורכב, כלומר מיקרוסקופ עם יותר מעדשה אחת, והאיר את הדגימות בעזרת מנורת שמן וכדור זכוכית מלא מים שריכז את האור. מצלמה עוד לא הייתה, ולכן הוק הסתכל שוב ושוב וצייר; לפי האיורים שלו נחרטו לוחות נחושת שמהם הודפס הספר. הפרעוש הודפס על דף מתקפל, גדול יותר מעמוד הספר עצמו. האותיות על האיור (A, B, C...) מפנות להסברים בטקסט של הוק על חלקי הגוף. פרעוש בוגר אורכו בדרך כלל 1.5 עד 3.3 מילימטרים.",
+      "fun_fact_he": "סמואל פֶּפִּיס, שכתב יומן מפורסם בלונדון של המאה ה-17, קנה את הספר וישב לקרוא בו עד שתיים בלילה. ביומנו כתב שזה \"הספר המבריק ביותר שקראתי בחיי\"."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "פשפש מיטה",
+        "קרציה",
+        "חיפושית זעירה"
+      ],
+      "answer_he": "פרעוש"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "hooke-louse",
+      "hooke-cork"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-old-100)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Robert Hooke",
+      "credit_line": "Robert Hooke, Micrographia (1665), National Library of Wales, Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons file page (Schem. XXXIV, NLW scan, PD-old-100); https://en.wikipedia.org/wiki/Micrographia ; flea size https://en.wikipedia.org/wiki/Flea ; Pepys diary 21 Jan 1665 quoted in https://en.wikipedia.org/wiki/Micrographia"
+  },
+  {
+    "key": "hooke-louse",
+    "commons_file": "File:Louse diagram, Micrographia, Robert Hooke, 1667.jpg",
+    "category": "history",
+    "title_he": "כינה אוחזת בשערה — הוק, 1665",
+    "title_en": "Louse clinging to a hair (Hooke, Micrographia)",
+    "tags": [
+      "הוק",
+      "מיקרוגרפיה",
+      "כינה",
+      "שערה",
+      "חרקים"
+    ],
+    "microscope": "illustration",
+    "technique": "illustration",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0027,
+      "subject_size_label": "≈ 2–3 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "בערך כמו גרגר שומשום"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "גם האיור הזה מגיע מהספר \"מיקרוגרפיה\" של רוברט הוק. רואים בו כינה מלמטה, כשהיא נאחזת ברגליה בשערה אדם, הקו העבה שחוצה את התמונה באלכסון. בציפורניים המעוקלות שבקצות הרגליים הכינה נתפסת בשערה ולא נופלת. הכתם הכהה במרכז הגוף הוא מערכת העיכול שלה.",
+      "deep_he": "כינת ראש בוגרת אורכה בערך 2 עד 3 מילימטרים, ולכן הוק היה צריך מיקרוסקופ כדי לראות פרטים כמו הציפורניים, השערות הזעירות על הגוף והמחושים המחולקים לפרקים. כמו כל האיורים בספר, גם זה צויר ביד לפי מה שהוק ראה, ואחר כך נחרט על לוח נחושת לדפוס (Schem. XXXV בספר). הצל בצד ימין נוסף כדי שהגוף ייראה תלת-ממדי. בספר המקורי האיור מודפס על דף מתקפל, גדול פי ארבעה בערך מעמוד הספר. כדאי לשים לב ליחס הגדלים: השערה מצוירת עבה כמו מקל, אבל במציאות עוביה בערך 70 מיקרון, כלומר 70 אלפיות המילימטר, והכינה ארוכה ממנה בערך פי 40.",
+      "fun_fact_he": "הוק כתב שהניח כינה רעבה על ידו וצפה דרך המיקרוסקופ איך הדם שלו זורם לתוך הבטן השקופה שלה."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "פרעוש",
+        "קרדית אבק",
+        "פשפש מיטה"
+      ],
+      "answer_he": "כינה"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "hooke-flea",
+      "hooke-cork"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-old-100)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Robert Hooke",
+      "credit_line": "Robert Hooke, Micrographia (1665), National Library of Wales, Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons file page (Schem. XXXV, NLW, PD-old-100; file name says 1667 = later edition, description dates 1665); louse size https://en.wikipedia.org/wiki/Head_louse ; Hooke feeding louse: Micrographia Observ. LIV (https://www.gutenberg.org/ebooks/15491)"
+  },
+  {
+    "key": "hooke-cork",
+    "commons_file": "File:RobertHookeMicrographia1665.jpg",
+    "category": "history",
+    "title_he": "התאים הראשונים: שעם של הוק",
+    "title_en": "Hooke's cork cells (Micrographia, 1665)",
+    "tags": [
+      "הוק",
+      "תא",
+      "שעם",
+      "צמחים",
+      "המאה ה-17"
+    ],
+    "microscope": "illustration",
+    "technique": "illustration",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 3e-05,
+      "subject_size_label": "תא אחד ≈ 20–40 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "תא אחד הוא בערך חצי מעובי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "בעיגול השחור רואים שתי פרוסות דקות של שעם, כפי שראה אותן רוברט הוק. השעם נראה כמו כוורת של חדרים קטנים, והוק קרא להם cells, \"תאים\", על שם חדרים קטנים במנזר. מכאן הגיעה המילה \"תא\" שמשמשת עד היום את כל הביולוגים. למטה מצויר ענף של צמח המימוזה הביישנית.",
+      "deep_he": "הוק חתך בסכין חדה פרוסות דקות מאוד של שעם, שהוא קליפה של עץ אלון השעם, והניח אותן על רקע שחור כדי לראות את המבנה. פרוסה A נחתכה לרוחב ונראית כמו חלת דבש, ופרוסה B נחתכה לאורך ונראית כמו שורות של קופסאות. מה שהוק ראה היו רק הדפנות של תאים מתים, ריקים מבפנים. הוא לא ידע שכל היצורים החיים בנויים מתאים; את \"תורת התא\" ניסחו מדענים רק כ-170 שנה אחריו, בשנות ה-30 של המאה ה-19. גודלו של תא שעם בודד הוא כמה עשרות מיקרונים (מיקרון הוא אלפית המילימטר).",
+      "fun_fact_he": "הוק ספר את התאים בשורה וחישב שבאינץ' מעוקב אחד של שעם (בערך 16 סנטימטרים מעוקבים) יש יותר ממיליארד תאים."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "חלת דבש",
+        "קשקשי דג",
+        "רשת של קורי עכביש"
+      ],
+      "answer_he": "תאי שעם"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "hooke-flea",
+      "hooke-louse"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-old-auto-1923)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Robert Hooke",
+      "credit_line": "Robert Hooke, Micrographia (1665), Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons file page; https://en.wikipedia.org/wiki/Micrographia ; https://en.wikipedia.org/wiki/Cell_theory ; Micrographia Observ. XVIII (cell count >1,200 million per cubic inch) https://www.gutenberg.org/ebooks/15491"
+  },
+  {
+    "key": "leeuwenhoek-cyclops",
+    "commons_file": "File:Antoni van Leeuwenhoek - Letter from 1699-10-16 Cyclops.jpg",
+    "category": "history",
+    "title_he": "הסרטן הזעיר של לוונהוק",
+    "title_en": "Leeuwenhoek's Cyclops (letter of 16 October 1699)",
+    "tags": [
+      "לוונהוק",
+      "סרטנים",
+      "מים מתוקים",
+      "החברה המלכותית",
+      "המאה ה-17"
+    ],
+    "microscope": "illustration",
+    "technique": "illustration",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0015,
+      "subject_size_label": "≈ 1–2 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "בערך כמו 20 שערות אדם זו לצד זו"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "אנטוני ון לוונהוק, סוחר בדים מהעיר דלפט בהולנד, בנה בעצמו מיקרוסקופים קטנים עם עדשה אחת. באיור הזה, ממכתב שכתב בשנת 1699, רואים ציקלופ: סרטן זעיר שחי בבריכות ובשלוליות. משני צדי הזנב תלויים שני שקים מלאים ביצים, וזה סימן שזו נקבה. בראש רואים את שני המחושים הארוכים.",
+      "deep_he": "לוונהוק שלח לחברה המלכותית בלונדון כ-190 מכתבים בין 1673 ל-1723, ובהם תיאר כל מה שראה: חד-תאיים, חיידקים, תאי זרע, כדוריות דם ובעלי חיים זעירים כמו הציקלופ. הוא לא צייר בעצמו, אלא שכר צייר שעבד לצידו ושרטט את מה שלוונהוק הראה לו במיקרוסקופ. המיקרוסקופים שלו היו בעצם זכוכית מגדלת משוכללת מאוד: עדשה קטנטנה אחת בין שתי לוחיות מתכת, שמחזיקים צמוד לעין. אחד המיקרוסקופים ששרדו מגדיל פי 270 בערך, הרבה יותר ממיקרוסקופים מורכבים של אותה תקופה. בציור מופיעים שלושה חלקים: הנקבה מלמעלה (fig. 1), הגוף מהצד (fig. 2), ורגל אחת בהגדלה (fig. 3).",
+      "fun_fact_he": "לוונהוק שמר בסוד את הדרך שבה ליטש את העדשות שלו, וחוקרים מתווכחים עליה עד היום."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "דפניה",
+        "ארטמיה",
+        "זחל יתוש"
+      ],
+      "answer_he": "ציקלופ (סרטן זעיר)"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "donne-foucault-blood"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-old-70-expired)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Unknown draughtsman of Antoni van Leeuwenhoek",
+      "credit_line": "Draughtsman of Antoni van Leeuwenhoek (1699), Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons file page (source: The collected letters of Antoni van Leeuwenhoek, Part XII); https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek (190 letters, ~270x lens, secret methods); https://en.wikipedia.org/wiki/Cyclops_(genus) (size)"
+  },
+  {
+    "key": "donne-foucault-blood",
+    "commons_file": "File:A. Donne & L. Foucault, Cours de Microscopie Wellcome L0031078.jpg",
+    "category": "history",
+    "title_he": "הצילומים הראשונים של דם, 1845",
+    "title_en": "Human blood cells, Donné & Foucault atlas (1845), Plate I",
+    "tags": [
+      "דונה ופוקו",
+      "דאגרוטיפ",
+      "דם",
+      "צילום מיקרוסקופי",
+      "המאה ה-19"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 7.5e-06,
+      "subject_size_label": "כדורית דם ≈ 7.5 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "בערך פי 10 דק מעובי שערה"
+    },
+    "magnification": "≈ ×400",
+    "text": {
+      "main_he": "בשנת 1845 יצא לאור בפריז אטלס שבו הודפסו לראשונה בספר תמונות שצולמו דרך מיקרוסקופ. בשלושה מהעיגולים רואים כדוריות דם אדומות של אדם, ובעיגול השמאלי העליון רואים סרגל זעיר שבו מילימטר אחד מחולק ל-400 חלקים. את הצילומים עשה ליאון פוקו, עוזרו של הרופא אלפרד דונה.",
+      "deep_he": "הצילומים נעשו בשיטת הדאגרוטיפ, שהוצגה לעולם רק בשנת 1839: לוחית כסופה מלוטשת שהתמונה נוצרת עליה ישירות. לכל דאגרוטיפ יש עותק אחד בלבד ואי אפשר לשכפל אותו, ולכן כדי להדפיס את האטלס חרטו אמנים את התמונות על לוחות מתכת, בנאמנות מרבית לצילום. האטלס של \"קורס במיקרוסקופיה\" (Cours de microscopie) כלל 20 לוחות כאלה, ונחשב לספר הרפואה הראשון שאוייר על פי צילומים מיקרוסקופיים. הכיתוב על הלוח מציין הגדלה של פי 400. הסרגל הזעיר נועד לאפשר לקורא למדוד את גודל התאים, בדיוק כמו קנה המידה בתמונות מיקרוסקופ של היום.",
+      "fun_fact_he": "ליאון פוקו, הצלם של האטלס, התפרסם כמה שנים אחר כך בזכות \"המטוטלת של פוקו\", ניסוי שהראה בשנת 1851 שכדור הארץ מסתובב."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "גרגרי עמילן",
+        "תאי שמרים",
+        "גרגרי אבקה"
+      ],
+      "answer_he": "כדוריות דם אדומות"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "bentley-snowflakes",
+      "leeuwenhoek-cyclops"
+    ],
+    "license_seen": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Alfred Donné & Léon Foucault (Wellcome Collection)",
+      "credit_line": "Wellcome Collection, CC BY 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons file page (Plate I: Blood cells; Paris: J-B Baillière 1845; CC BY 4.0 Wellcome L0031078). Plate caption: 'Micromètre, millimètre divisé en 400 parties grossi 400 fois'. History: https://www.historyofinformation.com/detail.php?id=2866 ; https://www.artandmedicine.com/biblio/authors/Donne.html (Feb 1840 presentation, 1844 text, 1845 atlas, 20 plates engraved from daguerreotypes); https://en.wikipedia.org/wiki/Foucault_pendulum (1851). Technique set as light/brightfield because the plate reproduces transmitted-light photomicrographs, although the printed image itself is an engraving."
+  },
+  {
+    "key": "bentley-snowflakes",
+    "commons_file": "File:SnowflakesWilsonBentley.jpg",
+    "category": "history",
+    "title_he": "פתיתי השלג של בנטלי",
+    "title_en": "Snow crystals photographed by Wilson Bentley (1902)",
+    "tags": [
+      "בנטלי",
+      "פתיתי שלג",
+      "גבישים",
+      "צילום מיקרוסקופי",
+      "קרח"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.002,
+      "subject_size_label": "פתית אחד ≈ 1–4 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "פתית ממוצע רחב כמו 30 שערות אדם זו לצד זו"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "שנים-עשר פתיתי שלג, כל אחד עם שש זרועות וכל אחד שונה מכל האחרים. את התמונות צילם ויילסון בנטלי, חקלאי מוורמונט שבארצות הברית, שחיבר מצלמה למיקרוסקופ. ב-15 בינואר 1885 הוא הצליח לצלם פתית שלג בפעם הראשונה, ומאז צילם יותר מ-5,000 פתיתים.",
+      "deep_he": "פתית שלג הוא גביש קרח. מולקולות המים מסתדרות בקרח במבנה משושה, ולכן כמעט לכל פתית יש שש זרועות או שש פאות. צורת הפתית תלויה בטמפרטורה ובלחות שבהן גדל בענן: חלקם נראים כמו לוחיות משושות פשוטות, ואחרים כמו כוכבים מסועפים. בנטלי תפס את הפתיתים על משטח כהה, העביר אותם בזהירות לזכוכית נושאת, וצילם אותם במצלמת מפוח שהייתה מחוברת למיקרוסקופ, מהר, לפני שיימסו. במקור הרקע בתצלומים היה בהיר, ולכן כדי שהפתית יבלוט, בנטלי גירד באולר חד את הרקע מסביב לפתית על עותק של התשליל, וכך קיבל רקע שחור לגמרי. הלוח הזה פורסם בשנת 1902 בכתב העת של שירות מזג האוויר האמריקאי.",
+      "fun_fact_he": "בנטלי זכה לכינוי \"איש פתיתי השלג\". ספרו \"גבישי שלג\", עם 2,500 תצלומים, יצא לאור ב-1931, זמן קצר לפני מותו."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "גבישי מלח",
+        "פתיתי כפור על חלון",
+        "שלדי דיאטומאות"
+      ],
+      "answer_he": "פתיתי שלג"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "donne-foucault-blood"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-old-auto-1923)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Wilson Bentley",
+      "credit_line": "Wilson Bentley (1902), NOAA Photo Library, Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons file page (Plate XIX of 'Studies among the Snow Crystals', Monthly Weather Review annual summary 1902; NOAA wea02087); https://en.wikipedia.org/wiki/Wilson_Bentley (15 Jan 1885, >5,000 images, bellows camera, Snow Crystals 1931 with 2,500 photos); https://en.wikipedia.org/wiki/Snowflake (hexagonal ice, size). Background scraping on duplicate negatives with a penknife: https://publicdomainreview.org/essay/the-snowflake-man-of-vermont ; https://arxiv.org/pdf/1910.06389"
+  },
+  {
+    "key": "cajal-neuron",
+    "commons_file": "File:Celula gigante de la porcion inferior del asta de ammon Wellcome L0040799.jpg",
+    "category": "history",
+    "title_he": "תא עצב בציור של רמון אי קחאל",
+    "title_en": "Giant pyramidal neuron of the rabbit hippocampus, drawing by Ramón y Cajal",
+    "tags": [
+      "רמון אי קחאל",
+      "נוירון",
+      "מוח",
+      "היפוקמפוס",
+      "המאה ה-19"
+    ],
+    "microscope": "illustration",
+    "technique": "illustration",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 2e-05,
+      "subject_size_label": "גוף התא ≈ 20 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "גוף התא קטן בערך פי 3 מעובי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זה תא עצב, נוירון, מתוך המוח של ארנב, כפי שצייר אותו המדען הספרדי סנטיאגו רמון אי קחאל. במרכז נמצא גוף התא הכהה, וממנו יוצאים ענפים רבים כמו ענפים ושורשים של עץ. דרך הענפים האלה תא העצב מקבל מסרים מתאים אחרים, ודרך סיב ארוך אחד, האקסון (מסומן באות a), הוא שולח מסרים הלאה.",
+      "deep_he": "רמון אי קחאל צבע פרוסות של רקמת מוח בשיטות מיוחדות, שצובעות רק חלק קטן מהתאים אבל צובעות אותם בשלמותם, כולל כל הענפים. את התא הזה, מאזור במוח שנקרא \"קרן אמון\" (חלק מההיפוקמפוס), צבעו בשיטת אֶרליך-בֶּתֶה, שמשתמשת בצבע כחול-מתילן. קחאל ישב שעות מול המיקרוסקופ, שינה את המיקוד כדי לעקוב אחרי כל ענף, וצייר ביד את מה שראה. מתוך אלפי ציורים כאלה הוא הסיק שהמוח בנוי מתאים נפרדים שנוגעים זה בזה אבל אינם מחוברים לרשת אחת רציפה. זה הבסיס של \"תורת הנוירון\". הנקודות הקטנות לאורך הענפים, המסומנות באות d, הן עיבויים שקחאל תיאר בכיתוב שמתחת לציור.",
+      "fun_fact_he": "בילדותו קחאל רצה להיות צייר, ואביו התנגד. בסוף שילב את שני העולמות: הוא זכה בפרס נובל לרפואה ב-1906, וציוריו מוצגים היום בתערוכות אמנות."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "שורשי צמח",
+        "תפטיר של פטרייה",
+        "תא שריר"
+      ],
+      "answer_he": "תא עצב (נוירון)"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "haeckel-radiolaria"
+    ],
+    "license_seen": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Santiago Ramón y Cajal (Wellcome Collection)",
+      "credit_line": "Santiago Ramón y Cajal, Wellcome Collection, CC BY 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons file page (Wellcome L0040799, keywords Santiago Ramon y Cajal; caption Fig. 15 'Célula gigante de la porción inferior del asta de Ammon del conejo. Método de Ehrlich-Bethe. a axon; c colateral; d varicosidades'); https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal (artist ambition, Nobel 1906, neuron doctrine); https://www.nobelprize.org/prizes/medicine/1906/summary/"
+  },
+  {
+    "key": "haeckel-radiolaria",
+    "commons_file": "File:Haeckel Spumellaria.jpg",
+    "category": "history",
+    "title_he": "רדיולריות — אמנות הטבע של הקל",
+    "title_en": "Radiolarians (Spumellaria), Haeckel, Kunstformen der Natur",
+    "tags": [
+      "הקל",
+      "רדיולריות",
+      "חד-תאיים",
+      "ים",
+      "שלד זכוכית"
+    ],
+    "microscope": "illustration",
+    "technique": "illustration",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.00015,
+      "subject_size_label": "≈ 0.1–0.2 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "בערך פי 2 מעובי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "כל צורה בלוח הזה היא שלד של יצור חד-תאי אחד שחי בים, רדיולריה. השלדים בנויים מצורן, אותו חומר שממנו עשויה זכוכית, ויש בהם חורים, קוצים וזרועות בצורות מדהימות. את הלוח צייר הביולוג הגרמני ארנסט הקל לספרו \"צורות אמנות בטבע\".",
+      "deep_he": "רדיולריות הן חד-תאיים ימיים שגודלם בדרך כלל עשירית עד חמישית המילימטר. הן מייצרות לעצמן שלד מסיליקה (צורן דו-חמצני), ודרך החורים שבו שולחות שלוחות דקות שבעזרתן הן לוכדות מזון. כשהן מתות, השלדים שוקעים לקרקעית הים ויכולים להצטבר לשכבות עבות. הקל חקר אלפי מינים של רדיולריות, ובין השאר תיאר דגימות שנאספו במסע המחקר הימי של הספינה הבריטית \"צ'לנג'ר\". הספר \"צורות אמנות בטבע\" (Kunstformen der Natur) יצא בחוברות בין 1899 ל-1904 ובו 100 לוחות. הקל הדגיש את הסימטריה ואת היופי, ולפעמים \"סידר\" את הצורות מעט יותר ממה שהן בטבע.",
+      "fun_fact_he": "הקל הוא שהמציא את המילה \"אקולוגיה\", בשנת 1866."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "גרגרי אבקה",
+        "פתיתי שלג",
+        "נגיפים"
+      ],
+      "answer_he": "רדיולריות"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "haeckel-diatoms",
+      "cajal-neuron"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-old)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Ernst Haeckel",
+      "credit_line": "Ernst Haeckel, Kunstformen der Natur (1904), Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons file page (plate 91 Spumellaria, PD-old); https://en.wikipedia.org/wiki/Radiolaria (size 0.1–0.2 mm, silica skeleton, Haeckel/Challenger); https://en.wikipedia.org/wiki/Kunstformen_der_Natur (1899–1904, 100 plates); https://en.wikipedia.org/wiki/Ernst_Haeckel (coined ecology 1866)"
+  },
+  {
+    "key": "haeckel-diatoms",
+    "commons_file": "File:Haeckel Diatomea 4.jpg",
+    "category": "history",
+    "title_he": "דיאטומאות בציור של הקל",
+    "title_en": "Diatoms, Haeckel, Kunstformen der Natur",
+    "tags": [
+      "הקל",
+      "דיאטומאות",
+      "אצות",
+      "חד-תאיים",
+      "סימטריה"
+    ],
+    "microscope": "illustration",
+    "technique": "illustration",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 5e-05,
+      "subject_size_label": "≈ 20–200 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "רובן קטנות מעובי של שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "עיגולים, משולשים, כוכבים ואליפסות: כולם אצות חד-תאיות שנקראות דיאטומאות. כל אחת מהן חיה בתוך \"קופסה\" שקופה עשויה צורן, כמו זכוכית, ועליה דוגמאות של חורים ופסים. את הלוח צייר ארנסט הקל בתחילת המאה ה-20.",
+      "deep_he": "הקופסה של הדיאטומאה בנויה משני חצאים שנכנסים זה לתוך זה, כמו קופסת פטרי עם מכסה. הדוגמאות על הקופסה כל כך עדינות וקבועות, שבמאה ה-19 השתמשו בדיאטומאות כדי לבדוק את איכות העדשות של מיקרוסקופים: עדשה טובה הצליחה להפריד בין הפסים הצפופים. רוב הדיאטומאות גדולות מ-20 מיקרון ועד כ-200 מיקרון, ויש קטנות וגדולות מזה. הן חיות בים, באגמים ואפילו על אדמה לחה, ובזכות הפוטוסינתזה הן מייצרות חלק גדול מהחמצן שנוצר בכדור הארץ. הקל צייר כאן את הדיאטומאות מלמעלה ומהצד, ומספר כל אחת מצביע על שם המין שלה.",
+      "fun_fact_he": "לפי ההערכות, דיאטומאות מייצרות בין חמישית למחצית מכל החמצן שנוצר על פני כדור הארץ בכל שנה."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "רדיולריות",
+        "גרגרי אבקה",
+        "פתיתי שלג"
+      ],
+      "answer_he": "דיאטומאות"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "haeckel-radiolaria"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-old)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Ernst Haeckel",
+      "credit_line": "Ernst Haeckel, Kunstformen der Natur (1904), Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons file page (Kunstformen der Natur, Diatomea plate, PD-old); https://en.wikipedia.org/wiki/Diatom (size 2–2000 µm, generally 20–200 µm; 20–50% of O2 produced yearly; frustule two halves; use as test objects for microscope lenses)"
+  }
+]

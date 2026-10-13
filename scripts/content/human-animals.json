@@ -1,0 +1,849 @@
+[
+  {
+    "key": "red-blood-cells-light",
+    "commons_file": "File:Blood-rbcs.jpg",
+    "category": "human",
+    "title_he": "כדוריות דם אדומות במשטח דם",
+    "title_en": "Red blood cells in a blood smear",
+    "tags": [
+      "דם",
+      "כדוריות דם אדומות",
+      "המוגלובין",
+      "משטח דם"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 7.5e-06,
+      "subject_size_label": "≈ 7.5 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "בערך פי 9 קטנה מעובי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "כל עיגול ורדרד כאן הוא כדורית דם אדומה אחת. בטיפה זעירה של דם יש מיליוני כדוריות כאלה, והן נושאות חמצן מהריאות לכל פינה בגוף. המרכז שלהן בהיר יותר כי הן שקועות באמצע, כמו סוכריית מנטה לחוצה משני הצדדים.",
+      "deep_he": "כדי להכין משטח דם מורחים טיפת דם בשכבה דקה על זכוכית וצובעים אותה בצבע רייט, תערובת של אאוזין ומתילן כחול. כדורית דם אדומה היא דיסקית קעורה משני צדיה, בקוטר של כ-7.5 מיקרון (מיקרון הוא אלפית המילימטר). אין לה גרעין, וכמעט כל נפחה מלא בחלבון המוגלובין, שקושר חמצן בעזרת אטום ברזל. הצורה הקעורה מגדילה את שטח הפנים ומאפשרת לכדורית להתקפל ולהשתחל בנימים צרים ממנה. בכל מיקרוליטר דם (מילימטר מעוקב) יש כ-4 עד 6 מיליון כדוריות, וכל אחת חיה כ-120 יום לפני שהגוף מפרק אותה וממחזר את הברזל שבה.",
+      "fun_fact_he": "מח העצם שלנו מייצר בערך 2 מיליון כדוריות דם אדומות חדשות בכל שנייה."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "תאי שמרים",
+        "גרגרי עמילן",
+        "תאי לחי"
+      ],
+      "answer_he": "כדוריות דם אדומות"
+    },
+    "pair_id": "blood",
+    "related_keys": [
+      "blood-cells-sem",
+      "t-cell-sem"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Echinaceapallida",
+      "credit_line": "Echinaceapallida, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: 'erythrocytes (Blood smear with Wright's stain)'. RBC size/lifespan/count: https://en.wikipedia.org/wiki/Red_blood_cell ; production ~2 million/s: same article."
+  },
+  {
+    "key": "blood-cells-sem",
+    "commons_file": "File:SEM blood cells.jpg",
+    "category": "human",
+    "title_he": "תאי דם במיקרוסקופ אלקטרונים סורק",
+    "title_en": "Human blood cells (SEM)",
+    "tags": [
+      "דם",
+      "כדוריות דם אדומות",
+      "כדוריות דם לבנות",
+      "טסיות",
+      "SEM"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 7.5e-06,
+      "subject_size_label": "≈ 7.5 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "בערך פי 9 קטנה מעובי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "אותן כדוריות דם אדומות, אבל הפעם במיקרוסקופ אלקטרונים, ועכשיו אפשר לראות בבירור את צורת הדיסקית הקעורה. ביניהן מסתתרים כמה תאים כדוריים ומחוספסים: אלה כדוריות דם לבנות, חיילי מערכת החיסון. החלקיקים הקטנים והשטוחים הם טסיות, שעוזרות לדם להיקרש כשנפצעים.",
+      "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים סורק (SEM), שמעביר אלומת אלקטרונים על פני הדגימה ובונה ממנה תמונה תלת-ממדית של פני השטח. לפני הצילום מייבשים את התאים ומצפים אותם בשכבה דקיקה של מתכת, כי הצילום נעשה בוואקום. לכן התמונה בשחור-לבן: אלקטרונים אינם נושאים צבע. לפי המכון הלאומי לסרטן בארה\"ב רואים כאן כדוריות אדומות, כמה כדוריות לבנות (לימפוציטים, מונוציט ונויטרופיל) והרבה טסיות דמויות דיסקית. כדורית לבנה גדולה מכדורית אדומה, והטסיות קטנות בהרבה, בקוטר של 2 עד 3 מיקרון בערך. כל תאי הדם האלה נוצרים במח העצם.",
+      "fun_fact_he": "אם סופרים תאים, רוב התאים בגוף שלנו הם כדוריות דם אדומות: כ-25 טריליון מתוך כ-30 טריליון תאים."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "תאי שמרים",
+        "גרגרי אבקה",
+        "נבגי פטרייה"
+      ],
+      "answer_he": "תאי דם"
+    },
+    "pair_id": "blood",
+    "related_keys": [
+      "red-blood-cells-light",
+      "t-cell-sem"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-USGov, National Cancer Institute)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Bruce Wetzel and Harry Schaefer, National Cancer Institute",
+      "credit_line": "Bruce Wetzel and Harry Schaefer, National Cancer Institute, Public domain (PD-USGov, National Cancer Institute), via Wikimedia Commons"
+    },
+    "source_note": "Commons description (NCI Visuals Online id 2129) lists RBCs, lymphocytes, a monocyte, a neutrophil and platelets. Platelet size: https://en.wikipedia.org/wiki/Platelet ; cell counts: Sender, Fuchs & Milo 2016, PLoS Biol 14(8):e1002533."
+  },
+  {
+    "key": "t-cell-sem",
+    "commons_file": "File:Healthy Human T Cell.jpg",
+    "category": "human",
+    "title_he": "תא T של מערכת החיסון",
+    "title_en": "Human T lymphocyte (T cell)",
+    "tags": [
+      "מערכת החיסון",
+      "לימפוציט",
+      "תא T",
+      "דם",
+      "SEM"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": true,
+    "scale": {
+      "subject_size_m": 7e-06,
+      "subject_size_label": "≈ 7 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "בערך בגודל של כדורית דם אדומה; כעשרה כאלה זה לצד זה ברוחב שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "הכדור הפרוע הזה הוא תא T, אחד מתאי ההגנה החשובים בגוף. תאי T מסיירים בדם ומזהים תאים שנדבקו בנגיף או השתבשו. הקפלים והבליטות על פני התא עוזרים לו לגעת בתאים אחרים ו\"לבדוק\" אותם.",
+      "deep_he": "תא T הוא סוג של לימפוציט, כלומר כדורית דם לבנה, והאות T באה מבלוטת התימוס שבחזה, שבה התאים האלה מבשילים. יש כמה סוגים: תאי T \"עוזרים\" מתאמים את התגובה החיסונית, ותאי T \"קוטלים\" משמידים ישירות תאים נגועים. התא בתמונה נלקח מתורם בריא וצולם במיקרוסקופ אלקטרונים סורק במכון NIAID האמריקאי. הצבעים הכחול והצהוב נוספו מאוחר יותר במחשב: המיקרוסקופ עצמו מפיק תמונה בשחור-לבן. הבליטות הדקות על הקרום מגדילות את שטח הפנים של התא ועוזרות לו להיצמד לתאים אחרים.",
+      "fun_fact_he": "בלוטת התימוס, ה\"בית הספר\" של תאי T, פעילה במיוחד בילדות ומתכווצת בהדרגה בבגרות."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "גרגר אבקה",
+        "תא סרטני",
+        "נבג פטרייה"
+      ],
+      "answer_he": "תא T"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "blood-cells-sem",
+      "red-blood-cells-light"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-USGov-HHS-NIH)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "NIAID/NIH",
+      "credit_line": "NIAID/NIH, Public domain (PD-USGov-HHS-NIH), via Wikimedia Commons"
+    },
+    "source_note": "Commons description: 'SEM of a human T lymphocyte ... from the immune system of a healthy donor. Credit: NIAID'. Lymphocyte size ~7 µm (small lymphocytes 7-10 µm): https://en.wikipedia.org/wiki/Lymphocyte ; thymus: https://en.wikipedia.org/wiki/Thymus"
+  },
+  {
+    "key": "neuron-golgi",
+    "commons_file": "File:Pyramidal hippocampal neuron 40x.jpg",
+    "category": "human",
+    "title_he": "תא עצב בצביעת גולג'י",
+    "title_en": "Golgi-stained pyramidal neuron",
+    "tags": [
+      "מוח",
+      "תא עצב",
+      "נוירון",
+      "היפוקמפוס",
+      "צביעה"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 2e-05,
+      "subject_size_label": "≈ 20 מיקרון (גוף התא)",
+      "field_width_m": null,
+      "comparison_he": "בערך 3.5 גופי תאים כאלה זה לצד זה ברוחב שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זה תא עצב, נוירון, ממוח של אדם. מגוף התא הכהה יוצאים ענפים ארוכים, הדנדריטים, שקולטים אותות מתאי עצב אחרים. אם מסתכלים מקרוב רואים עליהם \"קוצים\" זעירים: כל אחד מהם הוא נקודת מפגש עם תא עצב אחר.",
+      "deep_he": "הנוירון צולם בהיפוקמפוס, אזור במוח שחשוב ליצירת זיכרונות, מדגימה של מטופל שסבל מאפילפסיה. התא צבוע בשיטת גולג'י, שהמציא החוקר האיטלקי קמילו גולג'י ב-1873: הרקמה ספוגה במלחי כסף, ובתוך חלק קטן ואקראי מהתאים שוקע משקע שחור שממלא את כל התא. כך תא אחד בולט על רקע בהיר, עם כל הענפים שלו. זו בדיוק הסיבה שהשיטה כל כך שימושית: אם כל התאים היו נצבעים, היינו רואים רק סבך כהה. הצורה המשולשת של גוף התא נתנה לתאים האלה את שמם, \"תאי פירמידה\". במוח האדם יש בערך 86 מיליארד נוירונים.",
+      "fun_fact_he": "גולג'י וסנטיאגו רמון אי קחאל חלקו את פרס נובל ב-1906, למרות שהתווכחו בחריפות: רמון אי קחאל, שהשתמש בשיטה של גולג'י, הוכיח שהמוח בנוי מתאים נפרדים, וגולג'י עצמו לא השתכנע."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "תפטיר של פטרייה",
+        "שערות שורש",
+        "תא שריר"
+      ],
+      "answer_he": "תא עצב"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "cheek-cells",
+      "t-cell-sem"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 2.5",
+      "url": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "author": "MethoxyRoxy",
+      "credit_line": "MethoxyRoxy, CC BY-SA 2.5, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: 'Golgi stained pyramidal neuron in the hippocampus of an epileptic patient. 40 times magnification.' Golgi method: https://en.wikipedia.org/wiki/Golgi%27s_method ; Nobel 1906: https://www.nobelprize.org/prizes/medicine/1906/summary/ ; 86 billion neurons: Azevedo et al. 2009."
+  },
+  {
+    "key": "compact-bone-osteon",
+    "commons_file": "File:Connective Tissue Compact Bone (41068142774).jpg",
+    "category": "human",
+    "title_he": "אוסטאון בעצם דחוסה",
+    "title_en": "Osteon in compact bone",
+    "tags": [
+      "עצם",
+      "שלד",
+      "אוסטאון",
+      "רקמה"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0002,
+      "subject_size_label": "≈ 0.2 מ\"מ (קוטר אוסטאון)",
+      "field_width_m": null,
+      "comparison_he": "ברוחב של בערך 3 שערות זו לצד זו"
+    },
+    "magnification": "≈ ×200",
+    "text": {
+      "main_he": "העצם שלנו נראית מוצקה ומשעממת, אבל בפנים היא בנויה כמו טבעות של גזע עץ. במרכז יש תעלה שבה עוברים כלי דם ועצבים, וסביבה טבעות של חומר עצם. הכתמים הכהים הקטנים הם חללים שבהם גרים תאי העצם.",
+      "deep_he": "מבנה כזה נקרא אוסטאון, או מערכת הברס, על שם הרופא האנגלי קלופטון הברס שתיאר את התעלות בעצם ב-1691. בתמונה רואים חתך רוחב בעצם אדם שנוסרה ושויפה עד שנעשתה דקה מספיק כדי שאור יעבור דרכה. התעלה השחורה במרכז היא תעלת הברס, ומסביבה שכבות קונצנטריות של עצם. בכל כתם כהה, הנקרא לקונה, ישב בחיים תא עצם (אוסטאוציט). הקווים הדקיקים שיוצאים מהכתמים הם תעלות זעירות שדרכן התאים מחוברים זה לזה ומקבלים חומרי מזון. קוטרו של אוסטאון הוא בערך 0.2 מילימטר, ועצם דחוסה בנויה מאלפי אוסטאונים צפופים.",
+      "fun_fact_he": "העצמות שלנו מתחדשות כל הזמן: בכל שנה מתחלף בערך עשירית מהשלד של אדם מבוגר."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "חתך בגזע עץ",
+        "סלע משקע",
+        "חתך בסחוס"
+      ],
+      "answer_he": "עצם דחוסה"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "intestinal-villi",
+      "hair-sem"
+    ],
+    "license_seen": {
+      "name": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Berkshire Community College Bioscience Image Library",
+      "credit_line": "Berkshire Community College Bioscience Image Library, CC0, via Wikimedia Commons"
+    },
+    "source_note": "Flickr/Commons description: 'cross section: ground human bone, magnification: 200x'. Osteon: https://en.wikipedia.org/wiki/Osteon ; bone remodeling ~10%/year: https://en.wikipedia.org/wiki/Bone_remodeling"
+  },
+  {
+    "key": "intestinal-villi",
+    "commons_file": "File:Cross-section histology of small intestinal villi of the terminal ileum.jpg",
+    "category": "human",
+    "title_he": "סיסים במעי הדק",
+    "title_en": "Small intestinal villi (cross-section)",
+    "tags": [
+      "מעי",
+      "עיכול",
+      "סיסים",
+      "רקמה",
+      "צביעה"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0007,
+      "subject_size_label": "≈ 0.5–1 מ\"מ (אורך סיס)",
+      "field_width_m": null,
+      "comparison_he": "סיס אחד ארוך כמו 7 עד 14 שערות שמונחות זו לצד זו"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "דופן המעי הדק מכוסה ב\"אצבעות\" זעירות שנקראות סיסים. כאן הם נחתכו לרוחב, וכל מצולע ורוד הוא סיס אחד. בזכות הסיסים שטח הפנים של המעי גדול מאוד, וכך הוא יכול לספוג יותר מזון.",
+      "deep_he": "הדגימה נלקחה מהחלק האחרון של המעי הדק ונצבעה בצביעת H&E, הצביעה הנפוצה ביותר במעבדות: ההמטוקסילין צובע גרעיני תאים בסגול-כחול, והאאוזין צובע את שאר הרקמה בוורוד. כל סיס עטוף בשורה של תאים מוארכים, והגרעינים שלהם יוצרים את ה\"קרניים\" הסגולות לאורך השוליים. האליפסות הלבנות ביניהם הן תאי גביע, שמפרישים ריר שמגן על דופן המעי. בליבת כל סיס עוברים נימי דם וכלי לימפה שמובילים את המזון שנספג אל שאר הגוף. אורכו של סיס הוא בערך חצי מילימטר עד מילימטר.",
+      "fun_fact_he": "בספרי לימוד ישנים נכתב שהשטח הפנימי של המעי הוא כמו מגרש טניס, אבל מדידה מ-2014 מצאה שהוא כ-30 מ\"ר, בערך כמו חדר גדול. עדיין מרשים!"
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "תאי עלה",
+        "חתך בכליה",
+        "רקמת ריאה"
+      ],
+      "answer_he": "סיסי המעי הדק"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "compact-bone-osteon",
+      "cheek-cells"
+    ],
+    "license_seen": {
+      "name": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mikael Häggström, M.D.",
+      "credit_line": "Mikael Häggström, M.D., CC0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: 'Cross-section histology of small intestinal villi of the terminal ileum. H&E stain.' Villus length/structure: https://en.wikipedia.org/wiki/Intestinal_villus ; surface area ~32 m2: Helander & Fändriks 2014, Scand J Gastroenterol 49(6):681-689."
+  },
+  {
+    "key": "cheek-cells",
+    "commons_file": "File:Human Cheek Cells (Methylene Blue Stain).jpg",
+    "category": "human",
+    "title_he": "תאי לחי צבועים במתילן כחול",
+    "title_en": "Human cheek cells (methylene blue)",
+    "tags": [
+      "תאים",
+      "לחי",
+      "גרעין התא",
+      "צביעה",
+      "ניסוי בבית ספר"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 5e-05,
+      "subject_size_label": "≈ 50 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "קצת פחות מעובי שערה"
+    },
+    "magnification": "≈ ×400",
+    "text": {
+      "main_he": "מספיק לגרד בעדינות את פנים הלחי עם מקל אוזניים כדי לקבל אלפי תאים כאלה. אלה תאים שטוחים שמצפים את פנים הפה. הנקודה הכהה בתוך כל תא היא הגרעין, \"ספריית ההוראות\" של התא.",
+      "deep_he": "תאי הלחי הם תאי אפיתל קשקשי: תאים שטוחים ודקים שמסודרים בשכבות ומגינים על רירית הפה. הם כמעט שקופים, ולכן צובעים אותם במתילן כחול, צבע שנקשר בחוזקה לחומר התורשתי וגורם לגרעין להיראות כהה יותר משאר התא. התמונה צולמה במיקרוסקופ אור רגיל בהגדלה של פי 400. רואים כאן שתאים מתקפלים בקלות, כי הם דקים מאוד. קוטרו של תא לחי הוא בערך 50 מיקרון, ולכן הוא אחד התאים הגדולים והנוחים לצפייה בגוף. זה ניסוי קלאסי בשיעורי ביולוגיה, ואפשר לעשות אותו גם במיקרוסקופ ביתי.",
+      "fun_fact_he": "בבדיקות DNA רבות לא צריך לקחת דם: מספיק למרוח מקלון על פנים הלחי, כי בכל תא לחי יש עותק מלא של החומר התורשתי."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "תאי קליפת בצל",
+        "אמבות",
+        "תאי שמרים"
+      ],
+      "answer_he": "תאי לחי"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "red-blood-cells-light",
+      "neuron-golgi"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Fritzmann2002",
+      "credit_line": "Fritzmann2002, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: 'Human Cheek Cells stained with Methylene Blue under 400x magnification'. Buccal squamous epithelium ~40-60 µm: https://en.wikipedia.org/wiki/Stratified_squamous_epithelium ; buccal swab DNA: https://en.wikipedia.org/wiki/Buccal_swab"
+  },
+  {
+    "key": "hair-sem",
+    "commons_file": "File:CSIRO ScienceImage 8115 Human hair and Merino wool fibre.jpg",
+    "category": "human",
+    "title_he": "שערת אדם לצד סיב צמר",
+    "title_en": "Human hair and Merino wool fibre (SEM)",
+    "tags": [
+      "שערה",
+      "קרטין",
+      "צמר",
+      "SEM"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 7e-05,
+      "subject_size_label": "≈ 70 מיקרון (עובי שערה)",
+      "field_width_m": null,
+      "comparison_he": "עבה פי 4 בערך מסיב צמר מרינו דק, וברוחב של כ-9 כדוריות דם אדומות"
+    },
+    "magnification": "≈ ×1,000",
+    "text": {
+      "main_he": "השערה למטה היא שערת אדם, והסיב הדק למעלה הוא סיב צמר של כבשת מרינו. במיקרוסקופ אלקטרונים רואים ששערה אינה חלקה בכלל: היא מכוסה בקשקשים שטוחים שחופפים זה לזה, כמו רעפים על גג.",
+      "deep_he": "שערה עשויה בעיקר מחלבון קשיח בשם קרטין, אותו חלבון שממנו בנויות הציפורניים. השכבה החיצונית שלה, הקוטיקולה, בנויה מתאים מתים ושטוחים, והקצוות שלהם פונים לכיוון קצה השערה. עובייה של שערת ראש הוא בדרך כלל 50 עד 100 מיקרון, ואילו סיב של צמר מרינו \"סופר-דק\" עבה פחות מ-19 מיקרון. הקשקשים של הצמר בולטים יותר ונתפסים זה בזה, ולכן צמר מתלבד כשמכבסים אותו במים חמים. התמונה צולמה במיקרוסקופ אלקטרונים סורק בהגדלה של פי 1,000 בערך, והיא בשחור-לבן כי זה הצבע האמיתי של תמונות אלקטרונים.",
+      "fun_fact_he": "שיער הראש צומח בערך סנטימטר אחד בחודש, ועל הקרקפת יש בממוצע כ-100,000 שערות."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "סיב כותנה",
+        "חוט עכביש",
+        "סיב נייר"
+      ],
+      "answer_he": "שערת אדם"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "cheek-cells",
+      "compact-bone-osteon"
+    ],
+    "license_seen": {
+      "name": "CC BY 3.0",
+      "url": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "CSIRO",
+      "credit_line": "CSIRO, CC BY 3.0, via Wikimedia Commons"
+    },
+    "source_note": "CSIRO ScienceImage 8115: 'SEM image showing the difference in size and texture between a superfine Merino wool fibre (top) and a human hair'; image bar shows x1.0k, 50 µm. Hair diameter/keratin/cuticle: https://en.wikipedia.org/wiki/Hair ; superfine merino <18.5 µm: https://en.wikipedia.org/wiki/Merino ; growth ~1 cm/month."
+  },
+  {
+    "key": "tardigrade-light",
+    "commons_file": "File:Milnesium tardigradum.jpg",
+    "category": "tiny-animals",
+    "title_he": "דוב מים במיקרוסקופ אור",
+    "title_en": "Tardigrade Milnesium tardigradum (light microscope)",
+    "tags": [
+      "דוב מים",
+      "טרדיגרד",
+      "שרידות",
+      "בעלי חיים זעירים"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0007,
+      "subject_size_label": "≈ 0.7 מ\"מ (עד כ-1 מ\"מ)",
+      "field_width_m": null,
+      "comparison_he": "ארוך כמו 10 שערות שמונחות זו לצד זו"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "תכירו את דוב המים, אחד מבעלי החיים העמידים בעולם. יש לו שמונה רגליים קצרות עם טפרים, והוא חי בטיפות מים שעל טחב ועל חזזיות. הגוף שלו שקוף למחצה, ולכן אפשר לראות בתוכו את מערכת העיכול.",
+      "deep_he": "בתמונה מופיע המין Milnesium tardigradum, אחד מדובי המים הגדולים: הוא יכול להגיע לאורך של כמילימטר. בניגוד לרוב קרוביו, שאוכלים צמחים ואצות, הוא טורף ואוכל גלגליות, תולעים זעירות ואפילו דובי מים אחרים. בצד ימין רואים את הראש עם הפה הצר, ובתוך הגוף את מערכת העיכול ותאי אגירה עגולים. כשסביבתו מתייבשת, דוב מים מאבד כמעט את כל המים בגופו ומתכנס למצב רדום הנקרא \"חבית\" (tun), ובמצב הזה הוא יכול לשרוד שנים. את השם \"דוב מים קטן\" נתן לו הכומר הגרמני יוהאן גצה ב-1773, בגלל ההליכה המתנדנדת. הצילום נעשה במיקרוסקופ אור בשדה בהיר, כלומר אור שעובר דרך הדגימה.",
+      "fun_fact_he": "ב-2007 נשלחו דובי מים מהמין הזה לחלל, ממש מחוץ לחללית. חלקם שרדו את הוואקום ואפילו את קרינת השמש החזקה."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "גלגלית",
+        "קרדית אבק",
+        "זחל חרק"
+      ],
+      "answer_he": "דוב מים"
+    },
+    "pair_id": "tardigrade",
+    "related_keys": [
+      "tardigrade-sem",
+      "rotifer",
+      "dust-mite-sem"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Hoddyfool",
+      "credit_line": "Hoddyfool, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: 'The mega-beast of the Tardigrades, up to 1mm long'. Species facts: https://en.wikipedia.org/wiki/Milnesium_tardigradum ; Goeze 1773 & cryptobiosis: https://en.wikipedia.org/wiki/Tardigrade ; space exposure (FOTON-M3, 2007): Jönsson et al. 2008, Current Biology 18(17):R729."
+  },
+  {
+    "key": "tardigrade-sem",
+    "commons_file": "File:SEM image of Milnesium tardigradum in active state - journal.pone.0045682.g001-2.png",
+    "category": "tiny-animals",
+    "title_he": "דוב מים במיקרוסקופ אלקטרונים",
+    "title_en": "Tardigrade Milnesium tardigradum (SEM)",
+    "tags": [
+      "דוב מים",
+      "טרדיגרד",
+      "SEM",
+      "בעלי חיים זעירים"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0007,
+      "subject_size_label": "≈ 0.7 מ\"מ (עד כ-1 מ\"מ)",
+      "field_width_m": null,
+      "comparison_he": "ארוך כמו 10 שערות שמונחות זו לצד זו"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זה אותו מין של דוב מים, הפעם במיקרוסקופ אלקטרונים. עכשיו הוא נראה כמו דובון קטן ושמנמן: רואים את קפלי העור, את ארבעת זוגות הרגליים ואת הטפרים הזעירים בקצותיהן.",
+      "deep_he": "מיקרוסקופ אלקטרונים סורק מראה רק את פני השטח, אבל בפרטים חדים ובתחושה תלת-ממדית שקשה לקבל במיקרוסקופ אור. מצד שני, הדגימה חייבת להיות יבשה ובוואקום, ולכן אי אפשר לצלם כך בעל חיים חי. בתמונה דוב המים במצב פעיל, עם רגליים פרושות; הראש משמאל, והטפרים בולטים בקצה הרגליים. בקצה הראש יש פה ובו שני מחטים חדים (סטילטים) שבעזרתם הוא דוקר את טרפו. התמונה פורסמה ב-2012 במחקר שהשווה את החלבונים של דובי מים פעילים, של דובי מים יבשים במצב \"חבית\" ושל עוברים. התמונה בגווני אפור, ללא צבע מלאכותי.",
+      "fun_fact_he": "השם המדעי טרדיגרדה פירושו \"הולך לאט\" באיטלקית, שם שנתן להם המדען לזארו ספלנצאני."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "קרדית אבק",
+        "זחל זבוב",
+        "פרעוש"
+      ],
+      "answer_he": "דוב מים"
+    },
+    "pair_id": "tardigrade",
+    "related_keys": [
+      "tardigrade-light",
+      "dust-mite-sem",
+      "flea-sem"
+    ],
+    "license_seen": {
+      "name": "CC BY 2.5",
+      "url": "https://creativecommons.org/licenses/by/2.5/",
+      "author": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012)",
+      "credit_line": "Schokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012), CC BY 2.5, via Wikimedia Commons"
+    },
+    "source_note": "Schokraie et al. 2012, PLoS ONE 7(9):e45682, doi:10.1371/journal.pone.0045682 (proteome of active, anhydrobiotic and embryonic states). Stylets and Spallanzani naming: https://en.wikipedia.org/wiki/Tardigrade"
+  },
+  {
+    "key": "dust-mite-sem",
+    "commons_file": "File:CSIRO ScienceImage 11085 A scanning electron micrograph of a female dust mite.jpg",
+    "category": "tiny-animals",
+    "title_he": "קרדית אבק הבית",
+    "title_en": "House dust mite (SEM)",
+    "tags": [
+      "קרדית",
+      "אבק",
+      "אלרגיה",
+      "עכבישנים",
+      "SEM"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0003,
+      "subject_size_label": "≈ 0.25–0.5 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "בערך כעובי של שלושה דפי A4 מונחים זה על זה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "השותפה הסודית שלנו למיטה: קרדית אבק. היא כל כך קטנה שאי אפשר לראות אותה בעין, והיא ניזונה מקשקשי עור שאנחנו משירים כל הזמן. יש לה שמונה רגליים, כי היא קרובה של העכבישים ולא חרק.",
+      "deep_he": "בתמונה נקבה של קרדית אבק הבית, שאורכה 0.25 עד 0.5 מילימטר. הקרדיות חיות במזרנים, בכריות, בשטיחים ובווילונות, ואוכלות פירורי עור ושאר חומר אורגני שבאבק. רוב האנשים לא מרגישים בהן, אבל חלבונים שנמצאים בגוף שלהן ובעיקר בגללים שלהן גורמים לאלרגיות ולהתקפי אסתמה אצל חלק מהאנשים. בתמונה רואים את העור המקומט והמפוספס, את השערות הארוכות שמשמשות לחישה ואת הרגליים המפרקיות. הצילום נעשה במיקרוסקופ אלקטרונים סורק, ולכן הוא בשחור-לבן.",
+      "fun_fact_he": "קרדיות אבק לא שותות: הן סופגות אדי מים ישירות מהאוויר. לכן הן משגשגות בבתים לחים. הן נמצאו אפילו בתחנת החלל מיר."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "פרעוש",
+        "כינה",
+        "דוב מים"
+      ],
+      "answer_he": "קרדית אבק"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "tardigrade-sem",
+      "flea-sem"
+    ],
+    "license_seen": {
+      "name": "CC BY 3.0",
+      "url": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Matt Colloff, CSIRO",
+      "credit_line": "Matt Colloff, CSIRO, CC BY 3.0, via Wikimedia Commons"
+    },
+    "source_note": "CSIRO ScienceImage 11085 description (size 0.25-0.5 mm, diet, allergens, Mir). Commons category: Dermatophagoides pteronyssinus. Water vapour uptake: https://en.wikipedia.org/wiki/House_dust_mite"
+  },
+  {
+    "key": "fly-eye-sem",
+    "commons_file": "File:Drosophilidae compound eye edit1.jpg",
+    "category": "tiny-animals",
+    "title_he": "עין מורכבת של זבוב פירות",
+    "title_en": "Fruit fly compound eye (SEM)",
+    "tags": [
+      "עין מורכבת",
+      "זבוב",
+      "חרקים",
+      "ראייה",
+      "SEM"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 1.5e-05,
+      "subject_size_label": "≈ 15 מיקרון (עדשה אחת)",
+      "field_width_m": 0.000167,
+      "comparison_he": "כל \"כיפה\" קטנה פי 5 בערך מעובי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "כל כיפה עגולה כאן היא עדשה קטנה, חלק מעין של זבוב פירות. העין של הזבוב בנויה ממאות \"עיניים קטנות\" כאלה, וכל אחת קולטת חלק קטן מהעולם. בין העדשות בולטות שערות דקות שמרגישות מגע ורוח.",
+      "deep_he": "עין מורכבת בנויה מיחידות הנקראות אומטידיות. לכל אומטידיה יש עדשה משלה ומתחתיה תאים רגישים לאור, והמוח מרכיב מכל הנקודות תמונה אחת, קצת כמו פסיפס. בעין של זבוב הפירות יש בערך 750 עד 800 יחידות כאלה. לפי פס קנה המידה בתמונה, כל עדשה רחבה בערך 15 מיקרון. השערות שבין העדשות הן איברי חישה מכניים שמגינים על העין. הצילום נעשה במיקרוסקופ אלקטרונים סורק במתקן המיקרוסקופיה של מכללת דרטמות' בארה\"ב.",
+      "fun_fact_he": "זבוב הפירות הוא כוכב של מחקר גנטי: ב-1995 גילו חוקרים שהפעלה של גן אחד במקום הלא נכון גורמת לזבוב לגדל עיניים נוספות על הרגליים ועל הכנפיים."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "ביצי חרק",
+        "פני עלה",
+        "מושבת חיידקים"
+      ],
+      "answer_he": "עין של זבוב"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "ant-head-sem",
+      "butterfly-scales-light"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-user, Dartmouth College)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Louisa Howard, Dartmouth Electron Microscope Facility",
+      "credit_line": "Louisa Howard, Dartmouth Electron Microscope Facility, Public domain (PD-user, Dartmouth College), via Wikimedia Commons"
+    },
+    "source_note": "Commons: Dartmouth REMF, JEOL 35C SEM, PD-user. Scale bar (20 µm) measured on 960px thumbnail: 115 px -> field width ≈ 167 µm; facets ≈ 85 px ≈ 15 µm. Ommatidia count: https://en.wikipedia.org/wiki/Drosophila_melanogaster ; ectopic eyes: Halder, Callaerts & Gehring 1995, Science 267:1788."
+  },
+  {
+    "key": "butterfly-scales-light",
+    "commons_file": "File:Transition of scales color on a butterfly wing (around 30x magnification).jpg",
+    "category": "tiny-animals",
+    "title_he": "קשקשים על כנף פרפר",
+    "title_en": "Butterfly wing scales",
+    "tags": [
+      "פרפר",
+      "כנף",
+      "קשקשים",
+      "צבע",
+      "חרקים"
+    ],
+    "microscope": "light",
+    "technique": "stereo",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0001,
+      "subject_size_label": "≈ 0.1 מ\"מ (קשקש אחד)",
+      "field_width_m": null,
+      "comparison_he": "קשקש אחד ארוך בערך כעובי של דף A4"
+    },
+    "magnification": "≈ ×30",
+    "text": {
+      "main_he": "כנף של פרפר מכוסה באלפי קשקשים זעירים, מסודרים בשורות כמו רעפים על גג. לכל קשקש יש צבע אחד בלבד, ויחד הם יוצרים את הדוגמה של הכנף, כמו פיקסלים במסך. כאן רואים איך פס כתום עובר לפס כהה ואז לפס בהיר.",
+      "deep_he": "קשקשי הכנף הם שערות שהשתטחו במהלך האבולוציה, ולכן השם המדעי של סדרת הפרפרים, Lepidoptera, פירושו ביוונית \"כנפי קשקשים\". הצבע של חלק מהקשקשים נוצר מפיגמנטים, חומרי צבע כימיים, ושל אחרים ממבנים זעירים שמפזרים אור ויוצרים ברק מתכתי (צבע מבני). בקצה של כל קשקש רואים שוניים קטנות, כמו שיניים של מסור. התמונה צולמה דרך מיקרוסקופ בהגדלה של פי 30 בערך, והיא בנויה מכ-100 צילומים שכל אחד מהם חד בעומק אחר; המחשב חיבר מכולם תמונה חדה אחת. השיטה הזו נקראת focus stacking.",
+      "fun_fact_he": "ה\"אבקה\" שנשארת על האצבעות כשנוגעים בפרפר היא בעצם קשקשים שנתלשו מהכנף."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "נוצה של ציפור",
+        "קשקשים של דג",
+        "עלי כותרת"
+      ],
+      "answer_he": "קשקשי כנף פרפר"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "fly-eye-sem",
+      "ant-head-sem"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Paweł Wałasiewicz",
+      "credit_line": "Paweł Wałasiewicz, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: '30x magnification ... stacking around 100 exposures through microscope (focus stacking)'. Species not given. Scales as modified setae, pigment vs structural colour, Lepidoptera etymology: https://en.wikipedia.org/wiki/Lepidoptera . Technique 'stereo' is an assumption (reflected light at 30x)."
+  },
+  {
+    "key": "daphnia",
+    "commons_file": "File:Kiivrik (Daphnia).jpg",
+    "category": "tiny-animals",
+    "title_he": "פרעוש מים (דפניה)",
+    "title_en": "Water flea (Daphnia)",
+    "tags": [
+      "פרעוש מים",
+      "דפניה",
+      "סרטנים",
+      "פלנקטון",
+      "מים מתוקים"
+    ],
+    "microscope": "light",
+    "technique": "darkfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.002,
+      "subject_size_label": "≈ 1–3 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "ארוך כמו כמעט 30 שערות שמונחות זו לצד זו"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "למרות השם, פרעוש מים אינו פרעוש בכלל: זה סרטן זעיר, קרוב רחוק של הסרטנים והחסילונים. הגוף שלו שקוף, ולכן אפשר לראות בתוכו את מערכת העיכול הירוקה, המלאה באצות שאכל, ואת העובר הכתום שגדל בכיס על הגב.",
+      "deep_he": "דפניה חיה בבריכות ובאגמים של מים מתוקים, והיא אחד מבעלי החיים הנפוצים בפלנקטון. היא שוחה בעזרת זוג מחושים גדולים ומסועפים, בתנועות קופצניות שהזכירו לחוקרים פרעוש. בראש יש עין מורכבת אחת וכהה, ובתוך הקונכייה השקופה עוברים מזון ומים בזכות רגליים שמסננות אצות וחיידקים. הצילום נעשה דרך מיקרוסקופ על רקע שחור, עם אור מבזק מהצד, ולכן הדפניה נראית זוהרת, בדומה לשיטת שדה כהה. התמונה נבנתה מצילומים רבים בעומקים שונים כדי שכל הגוף יהיה חד.",
+      "fun_fact_he": "כשדפניה מרגישה בריח של טורפים במים, חלק מהמינים מגדלים \"קסדה\" או קוץ ארוך שמקשים על הטורף לבלוע אותם."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "חסילון ים",
+        "גלגלית",
+        "זחל יתוש"
+      ],
+      "answer_he": "פרעוש מים"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "rotifer",
+      "tardigrade-light"
+    ],
+    "license_seen": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Janek Lass",
+      "credit_line": "Janek Lass, CC BY 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: Daphnia, 8x objective, pond in Rakvere (Estonia), black background, reflected speedlight flash, focus stacking; orange embryo in brood pouch, greenish gut. Daphnia biology and inducible defences: https://en.wikipedia.org/wiki/Daphnia . Technique set to 'darkfield' as closest match (dark background, side flash)."
+  },
+  {
+    "key": "rotifer",
+    "commons_file": "File:The Rotifer Notholca sp.jpg",
+    "category": "tiny-animals",
+    "title_he": "גלגלית (רוטיפר)",
+    "title_en": "Rotifer (Notholca sp.)",
+    "tags": [
+      "גלגלית",
+      "רוטיפר",
+      "מים מתוקים",
+      "ריסים",
+      "בעלי חיים זעירים"
+    ],
+    "microscope": "light",
+    "technique": "dic",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.00015,
+      "subject_size_label": "≈ 0.1–0.2 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "ארוכה כמו שתי שערות שמונחות זו לצד זו"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "הגלגלית היא אחד מבעלי החיים הקטנים בעולם, ובכל זאת יש לה פה, לסתות, קיבה ועין. בראש שלה יש עטרה של שערות זעירות שזזות כל הזמן, ונראות כמו גלגל מסתובב. מכאן השם שלה.",
+      "deep_he": "בתמונה גלגלית מהסוג Notholca, שחיה בתוך מעין שריון שקוף הנקרא לוריקה. בצד שמאל רואים את הריסים, שערות מיקרוסקופיות שתנועתן יוצרת זרם מים שמביא מזון אל הפה, ואת נקודת העין האדומה. מתחת לראש נמצאות לסתות שרירתיות (מסטקס) שטוחנות את המזון, והגוש החום-זהוב הוא הקיבה. הצילום נעשה בשיטת DIC (ניגוד התאבכות דיפרנציאלי), שמבליטה הבדלים זעירים בעובי ובחומר של דגימה שקופה ונותנת לה מראה כמעט תלת-ממדי. כבר אנטוני ון לוונהוק תיאר גלגליות במכתביו, וכיום מוכרים כ-2,000 מינים.",
+      "fun_fact_he": "ב-2021 הצליחו חוקרים להחיות גלגליות שהיו קפואות בקרקע הקפואה של סיביר כ-24,000 שנה."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "פרמציום",
+        "דוב מים",
+        "ביצת חרק"
+      ],
+      "answer_he": "גלגלית"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "daphnia",
+      "tardigrade-light"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Wiedehopf20",
+      "credit_line": "Wiedehopf20, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: 'Notholca is living in a lorica. You see the cilia, the eye, the mastax and the stomach ... interference contrast and flash'. Rotifer biology: https://en.wikipedia.org/wiki/Rotifer ; 24,000-year bdelloid revival: Shmakova et al. 2021, Current Biology 31(11):R712."
+  },
+  {
+    "key": "flea-sem",
+    "commons_file": "File:Flea Scanning Electron Micrograph False Color.jpg",
+    "category": "tiny-animals",
+    "title_he": "פרעוש",
+    "title_en": "Flea (colorized SEM)",
+    "tags": [
+      "פרעוש",
+      "חרקים",
+      "טפילים",
+      "קפיצה",
+      "SEM"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": true,
+    "scale": {
+      "subject_size_m": 0.002,
+      "subject_size_label": "≈ 1.5–3 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "בערך בגודל של גרגר חול גס"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "הפרעוש הוא חרק בלי כנפיים, אבל הוא אלוף הקפיצה: הוא יכול לקפוץ למרחק של בערך פי 100 מאורך גופו. הגוף שלו צר ושטוח מהצדדים, כך שקל לו לחמוק בין שערות של כלב או חתול.",
+      "deep_he": "פרעושים הם טפילים שניזונים מדם של יונקים ועופות. רגלי הקפיצה האחוריות שלהם ארוכות וחזקות, ובתוך הגוף יש כרית של חלבון גמיש מאוד בשם רזילין, שאוגרת אנרגיה כמו קפיץ ומשחררת אותה בבת אחת. בתמונה רואים את הלוחות הקשים שמכסים את הגוף ואת הזיפים הרבים שפונים לאחור ועוזרים לפרעוש להיאחז בפרווה. הצילום נעשה במיקרוסקופ אלקטרונים סורק במרכז לבקרת מחלות בארה\"ב (CDC), והצבעים הוורוד והחום נוספו מאוחר יותר. פרעושים יכולים להעביר מחלות, למשל את חיידק הדבר, ולכן חשוב לטפל בהם בחיות המחמד.",
+      "fun_fact_he": "פרעוש הוא אחד מגיבורי ספר המיקרוסקופ המפורסם הראשון: רוברט הוק צייר פרעוש ענק בספרו \"מיקרוגרפיה\" ב-1665."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "כינה",
+        "פשפש מיטה",
+        "קרדית"
+      ],
+      "answer_he": "פרעוש"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "dust-mite-sem",
+      "ant-head-sem"
+    ],
+    "license_seen": {
+      "name": "Public domain (PD-USGov-HHS-CDC)",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "CDC/Janice Haney Carr",
+      "credit_line": "CDC/Janice Haney Carr, Public domain (PD-USGov-HHS-CDC), via Wikimedia Commons"
+    },
+    "source_note": "CDC PHIL #11436 (via Commons), false-colour SEM, PD. Flea anatomy, resilin, jump distance ~100x body length (cat flea ~19 cm, Cadiergues et al. 2000): https://en.wikipedia.org/wiki/Flea ; Hooke's Micrographia: https://en.wikipedia.org/wiki/Micrographia"
+  },
+  {
+    "key": "ant-head-sem",
+    "commons_file": "File:Cabeza de hormiga vista bajo el microscopio electrónico de barrido.jpg",
+    "category": "tiny-animals",
+    "title_he": "ראש של נמלה",
+    "title_en": "Ant head (SEM)",
+    "tags": [
+      "נמלה",
+      "חרקים",
+      "עין מורכבת",
+      "מחושים",
+      "SEM"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0007,
+      "subject_size_label": "≈ 0.5–1 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "רחב כמו 10 שערות בערך שמונחות זו לצד זו"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זה פרצוף של נמלה, מקרוב מאוד. בצדדים בולטות שתי עיניים מורכבות, באמצע יוצאים המחושים, ולמטה נמצאות הלסתות החזקות שבעזרתן היא נושאת מזון, חופרת ונלחמת.",
+      "deep_he": "הראש של הנמלה מכוסה בשלד חיצוני קשה, ועליו פזורות שערות קצרות רבות שמשמשות לחישה. העיניים המורכבות בנויות מעשרות עד מאות עדשות קטנות, כמו אצל זבוב, אבל אצל נמלים רבות הראייה אינה החוש החשוב ביותר. חשובים יותר המחושים: בעזרתם הנמלה מריחה, טועמת ומרגישה, וגם מזהה חומרים כימיים בשם פרומונים, שבהם הנמלים \"מדברות\" זו עם זו, למשל כדי לסמן שביל אל מזון. התמונה צולמה במיקרוסקופ אלקטרונים סורק והשתתפה בתחרות הצילום המדעי של ויקימדיה ב-2023. היא בגווני אפור, ללא צבע מלאכותי.",
+      "fun_fact_he": "לנמלת \"דרקולה\" (Mystrium camillae) יש את התנועה המהירה ביותר שנמדדה בעולם החי: הלסתות שלה נסגרות במהירות של כ-90 מטר בשנייה."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "ראש של זבוב",
+        "ראש של דבורה",
+        "ראש של חיפושית"
+      ],
+      "answer_he": "ראש של נמלה"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "fly-eye-sem",
+      "flea-sem"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+      "credit_line": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: 'Ant head observed under a scanning electron microscope', Wiki Science Competition 2023; species not given. Ant senses/pheromones: https://en.wikipedia.org/wiki/Ant ; Dracula ant 90 m/s: Larabee et al. 2018, Royal Society Open Science 5:181447."
+  }
+]

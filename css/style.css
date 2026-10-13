@@ -521,10 +521,10 @@ details.deep .deep-body { padding: 0 16px 14px; color: var(--text-2); }
 /* ------------------------------------------------------------------- scale */
 .scale-page { position: relative; }
 .scale-hud {
-  position: sticky; top: calc(var(--header-h) + 10px); z-index: 20; display: flex; justify-content: center; pointer-events: none; height: 0;
+  position: sticky; top: calc(var(--header-h) + 10px); z-index: 45; display: flex; justify-content: center; pointer-events: none; height: 0;
 }
 .scale-hud .hud {
-  pointer-events: auto; display: flex; align-items: center; gap: 14px; background: color-mix(in srgb, var(--surface) 88%, transparent); backdrop-filter: blur(10px);
+  pointer-events: auto; display: flex; align-items: center; gap: 14px; background: var(--surface); height: 54px;
   border: 1px solid var(--border); border-radius: 999px; padding: 8px 10px 8px 18px; box-shadow: var(--shadow-lg); flex-wrap: nowrap;
 }
 .hud-size { font-family: var(--font-head); font-weight: 700; font-size: 1.3rem; min-width: 7.5em; text-align: center; font-variant-numeric: tabular-nums; }
@@ -532,7 +532,7 @@ details.deep .deep-body { padding: 0 16px 14px; color: var(--text-2); }
 .hud input[type=range] { width: min(36vw, 260px); direction: ltr; accent-color: var(--brand); }
 .scale-track { position: relative; margin-top: 70px; }
 .scale-axis { position: absolute; top: 0; bottom: 0; left: 50%; width: 4px; margin-left: -2px; border-radius: 2px; background: linear-gradient(to bottom, var(--light) 0%, var(--light) var(--abbe, 70%), var(--electron) var(--abbe, 70%), var(--probe) 100%); opacity: .6; }
-.scale-tick { position: absolute; left: 50%; transform: translate(-50%, -50%); font-family: var(--font-head); font-size: .85rem; font-weight: 700; color: var(--text-3); background: var(--bg); padding: 2px 8px; border-radius: 999px; border: 1px solid var(--border); z-index: 2; white-space: nowrap; direction: ltr; }
+.scale-tick { position: absolute; left: 50%; transform: translate(-50%, -50%); font-family: var(--font-head); font-size: .85rem; font-weight: 700; color: var(--text-3); background: var(--bg); padding: 2px 8px; border-radius: 999px; border: 1px solid var(--border); z-index: 2; white-space: nowrap; }
 .scale-tick.minor { font-size: .72rem; font-weight: 500; opacity: .75; }
 .scale-limit { position: absolute; inset-inline: 0; height: 0; border-top: 2px dashed var(--lim); z-index: 1; }
 .scale-limit .lbl { position: absolute; top: -14px; inset-inline-start: 0; background: var(--bg); color: var(--lim); font-family: var(--font-head); font-weight: 700; font-size: .9rem; padding: 2px 10px; border: 1px solid var(--lim); border-radius: 999px; }
@@ -550,7 +550,7 @@ details.deep .deep-body { padding: 0 16px 14px; color: var(--text-2); }
 .scale-item .sc-txt span { font-size: .85rem; color: var(--text-3); }
 .scale-item.ref .sc-card { border-style: dashed; background: var(--bg-2); }
 .scale-item .sc-txt .ref-tag { color: var(--brand); font-weight: 700; font-size: .75rem; }
-.unit-toast { position: fixed; bottom: 22px; left: 50%; translate: -50% 0; z-index: 40; max-width: min(92vw, 520px); background: var(--text); color: var(--bg); padding: 12px 18px; border-radius: 14px; box-shadow: var(--shadow-lg); font-size: 1rem; line-height: 1.5; opacity: 0; transform: translateY(20px); transition: opacity .4s, transform .4s var(--ease); pointer-events: none; }
+.unit-toast { position: fixed; bottom: 22px; left: 50%; translate: -50% 0; z-index: 40; width: max-content; max-width: min(92vw, 520px); background: var(--text); color: var(--bg); padding: 12px 18px; border-radius: 14px; box-shadow: var(--shadow-lg); font-size: 1rem; line-height: 1.5; opacity: 0; transform: translateY(20px); transition: opacity .4s, transform .4s var(--ease); pointer-events: none; }
 .unit-toast.show { opacity: 1; transform: none; }
 .unit-toast b { font-family: var(--font-head); }
 @media (max-width: 700px) {
@@ -558,7 +558,8 @@ details.deep .deep-body { padding: 0 16px 14px; color: var(--text-2); }
   .hud-size { font-size: 1.05rem; min-width: 6.5em; }
   .scale-hud .hud { padding: 6px 8px 6px 12px; gap: 8px; }
   .hud .hud-unit { display: none; }
-  .scale-limit .lbl { inset-inline-start: 0; max-width: calc(100% - 60px); }
+  .scale-limit .lbl { inset-inline-start: 0; max-width: calc(100% - 90px); }
+  .scale-tick { font-size: .72rem; padding: 1px 6px; }
 }
 
 /* ------------------------------------------------------------------- misc */

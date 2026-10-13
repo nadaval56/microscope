@@ -40,13 +40,13 @@ function layout() {
   const total = (TOP - BOTTOM) * H;
   track.style.height = `${total + 60}px`;
 
-  const axisX = narrow ? W - 22 : W / 2;
+  const axisX = narrow ? W - 80 : W / 2;
   let html = `<div class="scale-axis" style="left:${axisX - 2}px;margin:0;--abbe:${(yOf(2e-7) / total) * 100}%"></div>`;
   for (let e = TOP; e >= BOTTOM; e--) {
     for (const k of [1, 2, 5]) {
       const m = k * 10 ** e;
       if (Math.log10(m) > TOP || Math.log10(m) < BOTTOM) continue;
-      html += `<span class="scale-tick ${k === 1 ? '' : 'minor'}" style="top:${yOf(m)}px;left:${axisX}px">${formatSize(m, false).replace(' ', '&nbsp;')}</span>`;
+      html += `<span class="scale-tick ${k === 1 ? '' : 'minor'}" style="top:${yOf(m)}px;left:${narrow ? axisX + 8 : axisX}px;${narrow ? 'transform:translate(0,-50%);' : ''}">${formatSize(m, false).replace(' ', '&nbsp;')}</span>`;
     }
   }
   for (const L of LIMITS) {
@@ -61,9 +61,9 @@ function layout() {
     const yTrue = yOf(it.m);
     let y = Math.max(yTrue - cardH / 2, nextFree[side]);
     nextFree[side] = y + cardH + gap;
-    const cw = narrow ? W - 70 : Math.min(330, W / 2 - 40);
+    const cw = narrow ? axisX - 30 : Math.min(330, W / 2 - 40);
     // RTL page: side 0 = right of the axis on desktop
-    const left = narrow ? axisX - 30 - cw : side === 0 ? axisX + 28 : axisX - 28 - cw;
+    const left = narrow ? 0 : side === 0 ? axisX + 28 : axisX - 28 - cw;
     it.y = y;
     const edgeX = narrow ? left + cw : side === 0 ? left : left + cw;
     lines.push(`<line x1="${axisX}" y1="${yTrue}" x2="${edgeX}" y2="${y + cardH / 2}"/>`, `<circle cx="${axisX}" cy="${yTrue}" r="4.5"/>`);
