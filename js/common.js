@@ -78,8 +78,17 @@ export const MICROSCOPE = {
   illustration: { he: 'איור היסטורי', short: 'איור' },
 };
 
-export function esc(s) {
+// Number ranges ("1609–1625", "0.5–1") get reversed inside RTL text; wrap them in a
+// left-to-right isolate (U+2066 … U+2069) so they read in the right order.
+const RANGE = /\d+(?:[.,]\d+)?\s*[–-]\s*\d+(?:[.,]\d+)?/g;
+/** Escape for attributes that must stay byte-exact (URLs, ids). */
+export function escAttr(s) {
   return String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+export function esc(s) {
+  return String(s ?? '')
+    .replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]))
+    .replace(RANGE, '\u2066$&\u2069');
 }
 
 /** Hebrew size label from metres: "≈ 30 מיקרון", "≈ 0.2 מ\"מ", "≈ 100 ננומטר" */

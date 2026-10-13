@@ -431,12 +431,15 @@ details.deep .deep-body { padding: 0 16px 14px; color: var(--text-2); }
 
 /* ----------------------------------------------------------------- history */
 .tl-filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
-.timeline { position: relative; padding: 10px 0; }
-.timeline::before { content: ""; position: absolute; top: 0; bottom: 0; inset-inline-start: 50%; width: 2px; background: var(--border); transform: translateX(50%); }
-.tl-item { position: relative; width: 50%; padding-inline-end: 36px; margin-bottom: 26px; }
-.tl-item.photography { margin-inline-start: 50%; padding-inline-end: 0; padding-inline-start: 36px; }
-.tl-item::before { content: ""; position: absolute; top: 22px; inset-inline-end: -8px; width: 14px; height: 14px; border-radius: 50%; background: var(--tl, var(--brand)); border: 3px solid var(--bg); z-index: 1; }
-.tl-item.photography::before { inset-inline-end: auto; inset-inline-start: -6px; }
+.timeline { position: relative; display: grid; grid-template-columns: 1fr 1fr; gap: 0 64px; align-items: start; }
+.timeline::before { content: ""; position: absolute; top: 0; bottom: 0; left: 50%; width: 2px; margin-left: -1px; background: var(--border); }
+.tl-col { display: flex; flex-direction: column; gap: 26px; }
+.tl-col + .tl-col { padding-top: 90px; }
+.tl-item { position: relative; }
+.tl-item::before { content: ""; position: absolute; top: 22px; width: 14px; height: 14px; border-radius: 50%; background: var(--tl, var(--brand)); border: 3px solid var(--bg); z-index: 1; }
+.tl-col:first-child .tl-item::before { inset-inline-end: -41px; }
+.tl-col + .tl-col .tl-item::before { inset-inline-start: -41px; }
+.tl-track { font-size: .78rem; font-weight: 700; font-family: var(--font-head); color: var(--brand); margin-inline-start: 8px; vertical-align: middle; }
 .tl-item .card { border-top: 3px solid var(--tl, var(--brand)); }
 .tl-item .tl-img { aspect-ratio: 16/9; background: #000; overflow: hidden; }
 .tl-item .tl-img img { width: 100%; height: 100%; object-fit: cover; }
@@ -457,9 +460,10 @@ details.deep .deep-body { padding: 0 16px 14px; color: var(--text-2); }
 .track-legend span { display: inline-flex; gap: 8px; align-items: center; }
 .track-legend i { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
 @media (max-width: 760px) {
-  .timeline::before { inset-inline-start: 8px; transform: none; }
-  .tl-item, .tl-item.photography { width: auto; margin-inline-start: 0; padding-inline-start: 34px; padding-inline-end: 0; }
-  .tl-item::before, .tl-item.photography::before { inset-inline-start: 2px; inset-inline-end: auto; }
+  .timeline { grid-template-columns: 1fr; padding-inline-start: 30px; }
+  .timeline::before { left: auto; inset-inline-start: 8px; margin: 0; }
+  .tl-col + .tl-col { padding-top: 0; }
+  .tl-col:first-child .tl-item::before, .tl-col + .tl-col .tl-item::before { inset-inline-start: -28px; inset-inline-end: auto; }
 }
 
 /* ------------------------------------------------------------------- quiz */

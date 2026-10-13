@@ -90,6 +90,51 @@
   source: "File:Speed Bumps Less Important Than Potholes for Graphene (5941083850).jpg"
   category: tech
   status: "accepted"
+- key: hooke-flea
+  id: m395
+  source: "File:HookeFlea01.jpg"
+  category: history
+  status: "accepted"
+- key: hooke-louse
+  id: m311
+  source: "File:Louse diagram, Micrographia, Robert Hooke, 1667.jpg"
+  category: history
+  status: "accepted"
+- key: hooke-cork
+  id: m205
+  source: "File:RobertHookeMicrographia1665.jpg"
+  category: history
+  status: "accepted"
+- key: leeuwenhoek-cyclops
+  id: m378
+  source: "File:Antoni van Leeuwenhoek - Letter from 1699-10-16 Cyclops.jpg"
+  category: history
+  status: "accepted"
+- key: donne-foucault-blood
+  id: m036
+  source: "File:A. Donne & L. Foucault, Cours de Microscopie Wellcome L0031078.jpg"
+  category: history
+  status: "accepted"
+- key: bentley-snowflakes
+  id: m334
+  source: "File:SnowflakesWilsonBentley.jpg"
+  category: history
+  status: "accepted"
+- key: cajal-neuron
+  id: m363
+  source: "File:Celula gigante de la porcion inferior del asta de ammon Wellcome L0040799.jpg"
+  category: history
+  status: "accepted"
+- key: haeckel-radiolaria
+  id: m320
+  source: "File:Haeckel Spumellaria.jpg"
+  category: history
+  status: "accepted"
+- key: haeckel-diatoms
+  id: m042
+  source: "File:Haeckel Diatomea 4.jpg"
+  category: history
+  status: "accepted"
 - key: red-blood-cells-light
   id: m014
   source: "File:Blood-rbcs.jpg"

@@ -113,6 +113,7 @@ def classify_license(short: str) -> str | None:
 
 
 def strip_tags(s: str) -> str:
+    s = re.sub(r"<style.*?</style>", " ", s, flags=re.S)
     s = re.sub(r"<br\s*/?>", " ", s)
     s = re.sub(r"<[^>]+>", "", s)
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
@@ -135,7 +136,10 @@ def commons_page_info(title: str, refresh: bool = False) -> dict:
     m = re.search(r'id="fileinfotpl_aut"[^>]*>.*?</td>\s*<td[^>]*>(.*?)</td>', page_u, re.S)
     if m:
         author = strip_tags(m.group(1))
-    author = re.sub(r"\s*\(talk\s*·?\s*contribs\)", "", author)[:200]
+    author = re.sub(r"\s*\(talk\s*·?\s*contribs\)", "", author)
+    # Creator templates add life dates, roles and links; keep the name part
+    author = re.split(r"\s+(?:Description|Date of birth|Alternative names|Link back to Creator)", author)[0]
+    author = re.sub(r"\s*\(\d{3,4}[–-]\d{3,4}\)", "", author).strip()[:160]
 
     desc = ""
     m = re.search(r'class="description[^"]*"[^>]*>(.*?)</div>', page_u, re.S)
@@ -243,6 +247,17 @@ def assign_ids(keys: list[str], id_map: dict) -> dict:
 
 
 # ---------------------------------------------------------------------------- main
+AUTHOR_OVERRIDES = json.loads((ROOT / "scripts" / "author_overrides.json").read_text("utf-8"))
+
+
+def clean_author(key: str, parsed: str, fallback: str = "") -> str:
+    if key in AUTHOR_OVERRIDES:
+        return AUTHOR_OVERRIDES[key]
+    a = re.sub(r"\s*\(?\btalk\b\)?\s*", " ", parsed).strip(" ,·")
+    a = re.sub(r"\s{2,}", " ", a)
+    return a or fallback or "Unknown author"
+
+
 def credit_line(author: str, lic: dict) -> str:
     who = author or "Unknown author"
     return f"{who}, {lic['name']}, via Wikimedia Commons"
@@ -315,6 +330,7 @@ def main() -> int:
             prev = old.get(iid, {})
             made, w, h = prev.get("widths", MICRO_WIDTHS), prev.get("width", 1200), prev.get("height", 900)
         file_url, _ = upload_paths(info["name"])
+        info["author"] = clean_author(key, info["author"], (e.get("license_seen") or {}).get("author", ""))
         record = {
             "id": iid,
             "key": key,
@@ -395,6 +411,7 @@ def main() -> int:
                 else:
                     made, w, h = HISTORY_WIDTHS, 1200, 900
                 file_url, _ = upload_paths(info["name"])
+                info["author"] = clean_author("timeline:" + ev["key"], info["author"])
                 ev["image"] = {
                     "src": f"img/history/{stem}", "widths": made, "width": w, "height": h,
                     "alt_he": ev.get("image_alt_he") or ev["title_he"],

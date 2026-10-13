@@ -1,4 +1,4 @@
-import { getImages, getCategories, getTechniques, imgSrc, imgSrcset, esc, icon, badgesFor, cardHTML, formatSI, MICROSCOPE, DEV, niceNum } from '../common.js';
+import { escAttr, getImages, getCategories, getTechniques, imgSrc, imgSrcset, esc, icon, badgesFor, cardHTML, formatSI, MICROSCOPE, DEV, niceNum } from '../common.js';
 
 const dev = DEV ? '&dev=1' : '';
 
@@ -29,9 +29,9 @@ function sizeComparison(img) {
 
 function creditHTML(lic) {
   if (!lic) return '';
-  const kind = lic.kind === 'pd' ? '' : ` · <a class="lic" href="${esc(lic.url)}" rel="license noopener">${esc(lic.name)}</a>`;
+  const kind = lic.kind === 'pd' ? '' : ` · <a class="lic" href="${escAttr(lic.url)}" rel="license noopener">${esc(lic.name)}</a>`;
   return `<div class="credit"><b>קרדיט:</b> <bdi>${esc(lic.author || 'לא ידוע')}</bdi>${kind}${lic.kind === 'pd' ? ` · ${esc(lic.name)}` : ''}
-    · <a href="${esc(lic.source_url)}" rel="noopener">מקור: Wikimedia Commons ${icon('ext').replace('<svg', '<svg style="width:13px;height:13px;display:inline;vertical-align:-1px"')}</a>
+    · <a href="${escAttr(lic.source_url)}" rel="noopener">מקור: Wikimedia Commons ${icon('ext').replace('<svg', '<svg style="width:13px;height:13px;display:inline;vertical-align:-1px"')}</a>
     · <span class="ltr">${esc(lic.modifications || '')}</span></div>`;
 }
 

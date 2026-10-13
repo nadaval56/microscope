@@ -1,1 +1,855 @@
-[]
+[
+ {
+  "key": "janssen",
+  "year": 1590,
+  "year_label": "בערך 1590",
+  "title_he": "המיקרוסקופ המורכב הראשון?",
+  "text_he": "יצרני משקפיים בעיר מידלבורג שבהולנד גילו שאם מציבים שתי עדשות זו אחרי זו בתוך צינור, אפשר להגדיל עצמים קטנים הרבה יותר מאשר בעדשה אחת. ההמצאה מיוחסת להנס ולזכריאס יאנסן, אב ובנו. זה העיקרון של המיקרוסקופ המורכב, שמשמש עד היום.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": true,
+  "dispute_note_he": "הטענה שיאנסן המציא את המיקרוסקופ בשנת 1590 הועלתה רק ב-1655, בידי בנו של זכריאס, והיסטוריונים רבים מפקפקים בה. התיעוד הוודאי הראשון של מיקרוסקופ מורכב הוא מ-1619 בלונדון, של מכשיר שבנה הממציא ההולנדי קורנליס דרבל.",
+  "commons_file": "File:Jaansen Microscope.jpg",
+  "image_alt_he": "העתק מהמאה ה-19 של צינור אופטי מתכתי שמיוחס לזכריאס יאנסן",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zacharias_Janssen",
+   "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology",
+   "https://en.wikipedia.org/wiki/Microscope"
+  ],
+  "image": {
+   "src": "img/history/h-janssen",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 960,
+   "alt_he": "העתק מהמאה ה-19 של צינור אופטי מתכתי שמיוחס לזכריאס יאנסן",
+   "license": {
+    "name": "Public domain",
+    "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Alan Hawk, National Museum of Health and Medicine",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jaansen_Microscope.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Jaansen_Microscope.jpg",
+    "credit_line": "Alan Hawk, National Museum of Health and Medicine, Public domain, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "galileo",
+  "year": 1624,
+  "year_label": "1609–1625",
+  "title_he": "גלילאו וה\"עין הקטנה\"",
+  "text_he": "גלילאו גליליי, שכיוון טלסקופ לשמיים בשנת 1609, השתמש בכלים דומים גם כדי להגדיל עצמים קרובים. בשנת 1624 שלח מיקרוסקופ משופר, שאותו כינה occhiolino (\"עין קטנה\"), לפדריקו צ'זי, מייסד אקדמיית לינצ'יי ברומא. בשנת 1625 טבע חברו ג'ובאני פאבר את השם \"מיקרוסקופ\".",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": true,
+  "dispute_note_he": "לא ברור מתי בדיוק גלילאו התחיל להשתמש בכלי כמיקרוסקופ, ואם השתמש בטלסקופ הפוך או בכלי נפרד. התאריכים 1609–1625 מסמנים את התקופה כולה.",
+  "commons_file": "File:Galilean Compound Microscop, Museo Galileo, Florence, Inv. 3429, 224113.jpg",
+  "image_alt_he": "מיקרוסקופ מורכב בסגנון של גלילאו, עשוי קרטון, עור ועץ, במוזיאון גלילאו בפירנצה (נבנה במחצית השנייה של המאה ה-17)",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology",
+   "https://en.wikipedia.org/wiki/Galileo_Galilei",
+   "https://commons.wikimedia.org/wiki/File:Galilean_Compound_Microscop,_Museo_Galileo,_Florence,_Inv._3429,_224113.jpg"
+  ],
+  "image": {
+   "src": "img/history/h-galileo",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 1924,
+   "alt_he": "מיקרוסקופ מורכב בסגנון של גלילאו, עשוי קרטון, עור ועץ, במוזיאון גלילאו בפירנצה (נבנה במחצית השנייה של המאה ה-17)",
+   "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Zde",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Galilean_Compound_Microscop%2C_Museo_Galileo%2C_Florence%2C_Inv._3429%2C_224113.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Galilean_Compound_Microscop%2C_Museo_Galileo%2C_Florence%2C_Inv._3429%2C_224113.jpg",
+    "credit_line": "Zde, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "hooke",
+  "year": 1665,
+  "year_label": "1665",
+  "title_he": "הוק, \"מיקרוגרפיה\" והמילה \"תא\"",
+  "text_he": "רוברט הוק פרסם בלונדון את הספר \"מיקרוגרפיה\", ובו איורים מדויקים ומרהיבים של פרעוש, כינה, עין של זבוב ופרוסת שעם. בשעם הוא ראה חדרים קטנים וקרא להם cells, \"תאים\". הספר הפך לרב-מכר והראה לציבור הרחב שיש עולם שלם שאי אפשר לראות בעין.",
+  "type": "discovery",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Hooke-microscope.png",
+  "image_alt_he": "איור מתוך מיקרוגרפיה של המיקרוסקופ של הוק, לצד מנורת שמן וכדור זכוכית מלא מים שמרכז את האור",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Micrographia",
+   "https://en.wikipedia.org/wiki/Robert_Hooke",
+   "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology"
+  ],
+  "image": {
+   "src": "img/history/h-hooke",
+   "widths": [
+    400
+   ],
+   "width": 960,
+   "height": 1064,
+   "alt_he": "איור מתוך מיקרוגרפיה של המיקרוסקופ של הוק, לצד מנורת שמן וכדור זכוכית מלא מים שמרכז את האור",
+   "license": {
+    "name": "Public domain",
+    "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Robert Hooke",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hooke-microscope.png",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Hooke-microscope.png",
+    "credit_line": "Robert Hooke, Public domain, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "leeuwenhoek",
+  "year": 1676,
+  "year_label": "1674–1676",
+  "title_he": "לוונהוק מגלה \"חיות קטנטנות\"",
+  "text_he": "אנטוני ון לוונהוק, סוחר בדים מדלפט, בנה מיקרוסקופים פשוטים עם עדשה אחת זעירה שהגדילה עד פי 270 בערך. בשנת 1674 תיאר יצורים חד-תאיים במי אגם, ובמכתב מ-1676 לחברה המלכותית בלונדון תיאר \"חיות קטנטנות\" (animalcules) רבות במים. הוא היה הראשון שראה חיידקים וחד-תאיים, ולכן הוא נחשב לאבי המיקרוביולוגיה.",
+  "type": "discovery",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Anthonie van Leeuwenhoek (1632-1723). Natuurkundige te Delft Rijksmuseum SK-A-957.jpeg",
+  "image_alt_he": "דיוקן של אנטוני ון לוונהוק, ציור שמן של יאן ורקולייה, מוזיאון הרייקס באמסטרדם",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+   "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology",
+   "https://www.britannica.com/biography/Antonie-van-Leeuwenhoek"
+  ],
+  "image": {
+   "src": "img/history/h-leeuwenhoek",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 1518,
+   "alt_he": "דיוקן של אנטוני ון לוונהוק, ציור שמן של יאן ורקולייה, מוזיאון הרייקס באמסטרדם",
+   "license": {
+    "name": "Public domain",
+    "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Jan Verkolje (I)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg",
+    "credit_line": "Jan Verkolje (I), Public domain, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "camera-lucida",
+  "year": 1806,
+  "year_label": "1806",
+  "title_he": "קמרה לוצידה: לצייר את מה שרואים",
+  "text_he": "לפני שהיו מצלמות, הדרך היחידה לתעד את מה שרואים במיקרוסקופ הייתה לצייר. בשנת 1806 רשם ויליאם הייד וולסטון פטנט על קמרה לוצידה, מנסרה קטנה שמאפשרת לראות בבת אחת את הדגימה ואת דף הנייר, וכך \"להעתיק\" את הקווים בדיוק. מכשירים כאלה חוברו למיקרוסקופים ושימשו מדענים במשך יותר ממאה שנה.",
+  "type": "instrument",
+  "track": "photography",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Microscope with camera lucida-MHS 462-IMG 3907-white.jpg",
+  "image_alt_he": "מיקרוסקופ פליז עתיק שמחוברת אליו קמרה לוצידה, במוזיאון לתולדות המדע בז'נבה",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Camera_lucida",
+   "https://www.britannica.com/technology/camera-lucida"
+  ],
+  "image": {
+   "src": "img/history/h-camera-lucida",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 1280,
+   "alt_he": "מיקרוסקופ פליז עתיק שמחוברת אליו קמרה לוצידה, במוזיאון לתולדות המדע בז'נבה",
+   "license": {
+    "name": "CC BY-SA 3.0 fr",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en",
+    "author": "Constant Verick",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Microscope_with_camera_lucida-MHS_462-IMG_3907-white.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Microscope_with_camera_lucida-MHS_462-IMG_3907-white.jpg",
+    "credit_line": "Constant Verick, CC BY-SA 3.0 fr, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "talbot",
+  "year": 1839,
+  "year_label": "1839",
+  "title_he": "צילומי המיקרוסקופ הראשונים",
+  "text_he": "מיד עם המצאת הצילום, ניסו חלוצי הצילום לצלם גם דרך מיקרוסקופ. הממציא הבריטי ויליאם הנרי פוקס טלבוט יצר בשנת 1839 \"ציורים פוטוגניים\" של תחרה ושל כנפי חרקים, שהוגדלו ב\"מיקרוסקופ שמש\", מכשיר שמקרין תמונה מוגדלת בעזרת אור השמש. החשיפה נמשכה זמן רב, והתמונות היו מטושטשות, אבל הן הוכיחו שאפשר לצלם את העולם הזעיר.",
+  "type": "photography",
+  "track": "photography",
+  "disputed": true,
+  "dispute_note_he": "לא מוסכם מי צילם ראשון דרך מיקרוסקופ. טלבוט עצמו ערך ניסויים בצילום כבר באמצע שנות ה-30, הכומר הבריטי ג'וזף בנקרופט ריד התנסה בצילום מיקרוסקופי בסוף שנות ה-30, ואלפרד דונה הציג דאגרוטיפים מיקרוסקופיים בפריז בפברואר 1840.",
+  "commons_file": "File:Lace in the Solar Microscope, 400 times magnified in surface MET DP202222.jpg",
+  "image_alt_he": "דף אלבום ובו תצלום מוקדם של תחרה מוגדלת במיקרוסקופ שמש, 1839, מאוסף מוזיאון המטרופוליטן",
+  "sources": [
+   "https://www.metmuseum.org/art/collection/search/289203",
+   "https://en.wikipedia.org/wiki/Henry_Fox_Talbot",
+   "https://en.wikipedia.org/wiki/Joseph_Bancroft_Reade",
+   "https://www.historyofinformation.com/detail.php?id=2866"
+  ],
+  "image": {
+   "src": "img/history/h-talbot",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 1596,
+   "alt_he": "דף אלבום ובו תצלום מוקדם של תחרה מוגדלת במיקרוסקופ שמש, 1839, מאוסף מוזיאון המטרופוליטן",
+   "license": {
+    "name": "CC0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "William Henry Fox Talbot",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Lace_in_the_Solar_Microscope%2C_400_times_magnified_in_surface_MET_DP202222.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lace_in_the_Solar_Microscope%2C_400_times_magnified_in_surface_MET_DP202222.jpg",
+    "credit_line": "William Henry Fox Talbot, CC0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "donne-foucault",
+  "year": 1845,
+  "year_label": "1840–1845",
+  "title_he": "דונה ופוקו: אטלס הצילומים הראשון",
+  "text_he": "הרופא הצרפתי אלפרד דונה הציג באקדמיה הצרפתית למדעים בפברואר 1840 צילומים של דגימות במיקרוסקופ, בשיטת הדאגרוטיפ החדשה. עם עוזרו ליאון פוקו פרסם ב-1845 אטלס עם 20 לוחות של דם, חלב ותאים. דאגרוטיפ אי אפשר לשכפל, ולכן הצילומים נחרטו בנאמנות על לוחות מתכת לדפוס.",
+  "type": "photography",
+  "track": "photography",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:A. Donne & L. Foucault, Cours de Microscopie Wellcome L0031079.jpg",
+  "image_alt_he": "לוח מתוך האטלס של דונה ופוקו: ארבעה שדות ראייה עגולים של מיקרוסקופ ובהם תאים",
+  "sources": [
+   "https://www.historyofinformation.com/detail.php?id=2866",
+   "https://www.artandmedicine.com/biblio/authors/Donne.html",
+   "https://en.wikipedia.org/wiki/Alfred_Fran%C3%A7ois_Donn%C3%A9"
+  ],
+  "image": {
+   "src": "img/history/h-donne-foucault",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 1587,
+   "alt_he": "לוח מתוך האטלס של דונה ופוקו: ארבעה שדות ראייה עגולים של מיקרוסקופ ובהם תאים",
+   "license": {
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Alfred Donné & Léon Foucault (Wellcome Collection)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:A._Donne_%26_L._Foucault%2C_Cours_de_Microscopie_Wellcome_L0031079.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/A._Donne_%26_L._Foucault%2C_Cours_de_Microscopie_Wellcome_L0031079.jpg",
+    "credit_line": "Alfred Donné & Léon Foucault (Wellcome Collection), CC BY 4.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "abbe",
+  "year": 1873,
+  "year_label": "1873",
+  "title_he": "אבה מגלה את גבול האור",
+  "text_he": "הפיזיקאי ארנסט אבה, שעבד עם יצרן המיקרוסקופים קרל צייס בעיר ינה, הראה שיש גבול לפרטים שמיקרוסקופ אור יכול להבחין בהם, ושהגבול תלוי באורך הגל של האור. פרטים קטנים מבערך 200 ננומטר מתמזגים לכתם אחד, ולא משנה כמה טובות העדשות. הגבול הזה הוביל, עשרות שנים מאוחר יותר, להמצאת מיקרוסקופ האלקטרונים ולשיטות הסופר-רזולוציה.",
+  "type": "discovery",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Ernst-Abbe-Denkmal Jena Fürstengraben - 20140802 125709.jpg",
+  "image_alt_he": "הנוסחה של אבה לגבול ההפרדה, חרוטה באבן על אנדרטה לזכרו בעיר ינה בגרמניה",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diffraction-limited_system",
+   "https://en.wikipedia.org/wiki/Ernst_Abbe",
+   "https://www.britannica.com/biography/Ernst-Abbe"
+  ],
+  "image": {
+   "src": "img/history/h-abbe",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 720,
+   "alt_he": "הנוסחה של אבה לגבול ההפרדה, חרוטה באבן על אנדרטה לזכרו בעיר ינה בגרמניה",
+   "license": {
+    "name": "CC0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Daniel Mietchen",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ernst-Abbe-Denkmal_Jena_F%C3%BCrstengraben_-_20140802_125709.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ernst-Abbe-Denkmal_Jena_F%C3%BCrstengraben_-_20140802_125709.jpg",
+    "credit_line": "Daniel Mietchen, CC0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "koch",
+  "year": 1877,
+  "year_label": "1877",
+  "title_he": "קוך מצלם חיידקים",
+  "text_he": "הרופא הגרמני רוברט קוך פרסם בשנת 1877 את הצילומים הראשונים של חיידקים דרך מיקרוסקופ. באותו מאמר תיאר איך מורחים חיידקים בשכבה דקה על זכוכית, מייבשים וצובעים אותם, שיטות שמשמשות במעבדות עד היום. קוך התעקש לא לרטש את הצילומים, כדי שכל אחד יוכל לראות שהם אמיתיים.",
+  "type": "photography",
+  "track": "photography",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:RobertKoch cropped.jpg",
+  "image_alt_he": "דיוקן שחור-לבן של רוברט קוך, עם משקפיים וזקן לבן",
+  "sources": [
+   "https://www.artandmedicine.com/biblio/authors/Koch.html",
+   "https://www.pharmazeutische-zeitung.de/ausgabe-212010/bakterien-im-bild/",
+   "https://en.wikipedia.org/wiki/Robert_Koch"
+  ],
+  "image": {
+   "src": "img/history/h-koch",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 1796,
+   "alt_he": "דיוקן שחור-לבן של רוברט קוך, עם משקפיים וזקן לבן",
+   "license": {
+    "name": "Public domain",
+    "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Unknown author",
+    "source_url": "https://commons.wikimedia.org/wiki/File:RobertKoch_cropped.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RobertKoch_cropped.jpg",
+    "credit_line": "Unknown author, Public domain, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "bentley",
+  "year": 1885,
+  "year_label": "1885",
+  "title_he": "בנטלי מצלם פתית שלג",
+  "text_he": "ב-15 בינואר 1885 הצליח ויילסון בנטלי, חקלאי צעיר מוורמונט, לצלם פתית שלג דרך מיקרוסקופ שאליו חיבר מצלמת מפוח. במשך כ-46 שנה צילם יותר מ-5,000 פתיתים, ותמונותיו הפכו לסמל של \"אין שני פתיתים זהים\". ב-1931 יצא ספרו \"גבישי שלג\" עם 2,500 תצלומים.",
+  "type": "photography",
+  "track": "photography",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Wilson A Bentley.jpg",
+  "image_alt_he": "דיוקן ישן של ויילסון בנטלי, גבר עם שפם בחליפה, בתוך מסגרת אליפטית",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wilson_Bentley",
+   "https://publicdomainreview.org/essay/the-snowflake-man-of-vermont"
+  ],
+  "image": {
+   "src": "img/history/h-bentley",
+   "widths": [
+    400
+   ],
+   "width": 960,
+   "height": 1304,
+   "alt_he": "דיוקן ישן של ויילסון בנטלי, גבר עם שפם בחליפה, בתוך מסגרת אליפטית",
+   "license": {
+    "name": "Public domain",
+    "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Unknown author",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wilson_A_Bentley.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wilson_A_Bentley.jpg",
+    "credit_line": "Unknown author, Public domain, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "kohler",
+  "year": 1893,
+  "year_label": "1893",
+  "title_he": "תאורת קלר",
+  "text_he": "אוגוסט קלר, שעבד בחברת צייס, פרסם בשנת 1893 שיטה להאיר את הדגימה באופן אחיד לגמרי, בלי שצורת נורת האור תופיע בתמונה. השיטה היא \"צעד חובה\" בכל מעבדה עד היום, ובזכותה המיקרוסקופ מגיע לחדות המרבית שלו. היא חשובה במיוחד לצילום, כי כל אי-אחידות באור נראית מיד בתמונה.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:August Köhler (1866-1948) (8527804902).jpg",
+  "image_alt_he": "דיוקן שחור-לבן של אוגוסט קלר, עם משקפיים וזקן לבן",
+  "sources": [
+   "https://en.wikipedia.org/wiki/K%C3%B6hler_illumination",
+   "https://en.wikipedia.org/wiki/August_K%C3%B6hler"
+  ],
+  "image": {
+   "src": "img/history/h-kohler",
+   "widths": [
+    400
+   ],
+   "width": 960,
+   "height": 1367,
+   "alt_he": "דיוקן שחור-לבן של אוגוסט קלר, עם משקפיים וזקן לבן",
+   "license": {
+    "name": "CC BY-SA 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "ZEISS Microscopy from Germany",
+    "source_url": "https://commons.wikimedia.org/wiki/File:August_K%C3%B6hler_%281866-1948%29_%288527804902%29.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/August_K%C3%B6hler_%281866-1948%29_%288527804902%29.jpg",
+    "credit_line": "ZEISS Microscopy from Germany, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "film-color",
+  "year": 1907,
+  "year_label": "1907–1935",
+  "title_he": "סרט צילום וצבע",
+  "text_he": "בשנת 1907 הוציאו האחים לומייר לשוק את האוטוכרום, השיטה המסחרית הראשונה לצילום בצבע, ובשנת 1935 הופיע סרט השקופיות הצבעוני קודאכרום. בשנים האלה החליפו סרטי צילום ומצלמות קטנות, כמו מצלמת לייקה (1925), את לוחות הזכוכית הכבדים. מעכשיו אפשר היה לצלם דרך המיקרוסקופ בקלות רבה יותר, ובצבעים.",
+  "type": "photography",
+  "track": "photography",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": null,
+  "image_alt_he": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Autochrome_Lumi%C3%A8re",
+   "https://en.wikipedia.org/wiki/Kodachrome",
+   "https://en.wikipedia.org/wiki/Leica_Camera"
+  ]
+ },
+ {
+  "key": "fluorescence",
+  "year": 1911,
+  "year_label": "1911",
+  "title_he": "מיקרוסקופ הפלואורסצנציה",
+  "text_he": "אוסקר היימשטט בנה מיקרוסקופ שמאיר את הדגימה באור אולטרה-סגול ומראה רק את האור שהדגימה עצמה פולטת בחזרה. חומרים מסוימים \"זוהרים\" באור כזה בצבעים בוהקים על רקע שחור. בהמשך המאה ה-20 למדו לצבוע בחומרים זוהרים חלקים מסוימים בתא, וכך נולדו התמונות הצבעוניות של תאים שמוכרות לנו היום.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": true,
+  "dispute_note_he": "מקורות שונים מייחסים את מיקרוסקופ הפלואורסצנציה הראשון להיימשטט (1911), להנס להמן (1913), או לניסויים קודמים של אוגוסט קלר ומוריץ פון רוהר עם אור אולטרה-סגול (1904–1905).",
+  "commons_file": null,
+  "image_alt_he": null,
+  "sources": [
+   "https://www.deutsche-biographie.de/sfz28878.html",
+   "https://www.deutsche-biographie.de/sfz49793.html",
+   "https://en.wikipedia.org/wiki/Fluorescence_microscope"
+  ]
+ },
+ {
+  "key": "zernike-phase",
+  "year": 1930,
+  "year_label": "1930–1941",
+  "title_he": "זרניקה וניגוד הפאזה",
+  "text_he": "תאים חיים כמעט שקופים, ולכן במיקרוסקופ רגיל קשה לראות אותם בלי לצבוע (ולרוב גם להרוג) אותם. הפיזיקאי ההולנדי פריץ זרניקה גילה ב-1930 דרך להפוך הבדלים זעירים בדרך שבה האור עובר בתא להבדלים בבהירות. חברת צייס התחילה לייצר מיקרוסקופי ניגוד פאזה רק ב-1941, ובשנת 1953 זכה זרניקה בפרס נובל לפיזיקה.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Zernike.jpg",
+  "image_alt_he": "דיוקן שחור-לבן של פריץ זרניקה, משנת פרס הנובל 1953",
+  "sources": [
+   "https://www.nobelprize.org/prizes/physics/1953/zernike/biographical/",
+   "https://www.nobelprize.org/prizes/physics/1953/summary/",
+   "https://en.wikipedia.org/wiki/Phase-contrast_microscopy"
+  ],
+  "image": {
+   "src": "img/history/h-zernike-phase",
+   "widths": [
+    400
+   ],
+   "width": 960,
+   "height": 1358,
+   "alt_he": "דיוקן שחור-לבן של פריץ זרניקה, משנת פרס הנובל 1953",
+   "license": {
+    "name": "Public domain",
+    "url": "",
+    "author": "Nobel foundation",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Zernike.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Zernike.jpg",
+    "credit_line": "Nobel foundation, Public domain, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "ruska-knoll",
+  "year": 1931,
+  "year_label": "1931",
+  "title_he": "מיקרוסקופ האלקטרונים הראשון",
+  "text_he": "מקס קנול וארנסט רוסקה בברלין בנו מיקרוסקופ שבמקום אור משתמש באלומת אלקטרונים, ובמקום עדשות זכוכית ב\"עדשות\" מגנטיות. ב-1931 קיבלו בו תמונות מוגדלות של רשת מתכת זעירה, וב-1933 בנה רוסקה מיקרוסקופ שעבר לראשונה את כושר ההפרדה של מיקרוסקופ אור. בסוף שנות ה-30 החלה חברת סימנס לייצר מיקרוסקופי אלקטרונים למכירה.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": true,
+  "dispute_note_he": "ריינהולד רודנברג מחברת סימנס הגיש פטנטים על מיקרוסקופ אלקטרונים ב-1932, והשאלה מי \"הממציא\" שנויה במחלוקת. כמקובל, מיוחסת ההמצאה לקנול ולרוסקה, שבנו את המכשיר בפועל.",
+  "commons_file": "File:Ernst Ruska Electron Microscope - Deutsches Museum - Munich-edit.jpg",
+  "image_alt_he": "מיקרוסקופ אלקטרונים מוקדם של ארנסט רוסקה, עמוד מתכת גבוה על בסיס שחור, במוזיאון הגרמני במינכן",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Electron_microscope",
+   "https://en.wikipedia.org/wiki/Ernst_Ruska",
+   "https://en.wikipedia.org/wiki/Reinhold_Rudenberg",
+   "https://www.nobelprize.org/prizes/physics/1986/ruska/biographical/"
+  ],
+  "image": {
+   "src": "img/history/h-ruska-knoll",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 2202,
+   "alt_he": "מיקרוסקופ אלקטרונים מוקדם של ארנסט רוסקה, עמוד מתכת גבוה על בסיס שחור, במוזיאון הגרמני במינכן",
+   "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "J Brew",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ernst_Ruska_Electron_Microscope_-_Deutsches_Museum_-_Munich-edit.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ernst_Ruska_Electron_Microscope_-_Deutsches_Museum_-_Munich-edit.jpg",
+    "credit_line": "J Brew, CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "nomarski-dic",
+  "year": 1955,
+  "year_label": "1952–1955",
+  "title_he": "DIC: תאים שנראים תלת-ממדיים",
+  "text_he": "הפיזיקאי ז'ורז' נומרסקי פיתח בצרפת שיטה שבה האור מתפצל לשתי קרניים צמודות, שעוברות בדגימה כמעט באותו מקום ואז מתאחדות. ההבדלים ביניהן הופכים לצללים, והתאים נראים כאילו הם מוארים מהצד ובולטים כמו תבליט. ב-1955 פרסם את הבסיס התאורטי לשיטה, שנקראת DIC.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": null,
+  "image_alt_he": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Differential_interference_contrast_microscopy",
+   "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology"
+  ]
+ },
+ {
+  "key": "minsky-confocal",
+  "year": 1957,
+  "year_label": "1957",
+  "title_he": "פטנט המיקרוסקופ הקונפוקלי",
+  "text_he": "מרווין מינסקי, שהתפרסם אחר כך כאחד מאבות הבינה המלאכותית, בנה ב-1955 מיקרוסקופ שבו חריר זעיר חוסם את כל האור שמגיע מחוץ לשכבה שבמוקד. ב-1957 הגיש עליו פטנט, שאושר ב-1961. כך אפשר \"לפרוס\" דגימה עבה לשכבות אופטיות דקות ולבנות ממנה תמונה תלת-ממדית. השיטה המריאה רק בשנות ה-80, עם לייזרים ומחשבים.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Minsky Confocal Reflection Microscope.png",
+  "image_alt_he": "שרטוט מתוך הפטנט של מרווין מינסקי: מסלול האור במיקרוסקופ הקונפוקלי",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Confocal_microscopy",
+   "https://patents.google.com/patent/US3013467A/en",
+   "https://en.wikipedia.org/wiki/Marvin_Minsky"
+  ],
+  "image": {
+   "src": "img/history/h-minsky-confocal",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 668,
+   "alt_he": "שרטוט מתוך הפטנט של מרווין מינסקי: מסלול האור במיקרוסקופ הקונפוקלי",
+   "license": {
+    "name": "Public domain",
+    "url": "",
+    "author": "Marvin Minsky (inventor), Ameter & Levy (Attorneys)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Minsky_Confocal_Reflection_Microscope.png",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Minsky_Confocal_Reflection_Microscope.png",
+    "credit_line": "Marvin Minsky (inventor), Ameter & Levy (Attorneys), Public domain, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "stereoscan",
+  "year": 1965,
+  "year_label": "1965",
+  "title_he": "SEM מסחרי ראשון",
+  "text_he": "מיקרוסקופ האלקטרונים הסורק (SEM) מעביר אלומת אלקטרונים דקה על פני הדגימה, נקודה אחר נקודה, ונותן תמונה שנראית תלת-ממדית. אחרי שנים של מחקר באוניברסיטת קיימברידג' בהובלת צ'רלס אוטלי, מכרה חברת Cambridge Instrument את ה-Stereoscan, ה-SEM המסחרי הראשון, והמכשיר הראשון נשלח לחברת דופונט.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": true,
+  "dispute_note_he": "מנפרד פון ארדנה בנה מיקרוסקופ אלקטרונים סורק כבר ב-1937, וחברת JEOL היפנית הציגה דגם מסחרי משלה ב-1966, כך שהתואר \"ראשון\" תלוי בהגדרה. 1965 היא השנה המקובלת לשיווק ה-Stereoscan.",
+  "commons_file": "File:Stereoscan MK1 (19515061054).jpg",
+  "image_alt_he": "תצלום שחור-לבן של מיקרוסקופ Stereoscan Mk1: עמוד אלקטרונים ולוח בקרה גדול עם מסכים וכפתורים",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scanning_electron_microscope",
+   "https://commons.wikimedia.org/wiki/File:Stereoscan_MK1_(19515061054).jpg",
+   "https://en.wikipedia.org/wiki/JEOL"
+  ],
+  "image": {
+   "src": "img/history/h-stereoscan",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 925,
+   "alt_he": "תצלום שחור-לבן של מיקרוסקופ Stereoscan Mk1: עמוד אלקטרונים ולוח בקרה גדול עם מסכים וכפתורים",
+   "license": {
+    "name": "CC BY-SA 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "ZEISS Microscopy from Germany",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Stereoscan_MK1_%2819515061054%29.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Stereoscan_MK1_%2819515061054%29.jpg",
+    "credit_line": "ZEISS Microscopy from Germany, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "ccd",
+  "year": 1969,
+  "year_label": "1969",
+  "title_he": "חיישן ה-CCD: הצילום הופך דיגיטלי",
+  "text_he": "וילארד בויל וג'ורג' סמית ממעבדות בל המציאו את ה-CCD, שבב שהופך אור לאותות חשמליים בפיקסלים. חיישנים כאלה, ואחריהם חיישני CMOS, החליפו בהדרגה את סרטי הצילום, ובשנות ה-90 וה-2000 הפכו מצלמות דיגיטליות למיקרוסקופ לדבר שגרתי. על ההמצאה זכו בויל וסמית בפרס נובל לפיזיקה לשנת 2009.",
+  "type": "photography",
+  "track": "photography",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Delta-Doped Charged Coupled Devices (CCD) for Ultra-Violet and Visible Detection.jpg",
+  "image_alt_he": "שבב CCD מרובע בתוך מסגרת זהב, מוחזק בין שתי אצבעות",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Charge-coupled_device",
+   "https://www.nobelprize.org/prizes/physics/2009/summary/"
+  ],
+  "image": {
+   "src": "img/history/h-ccd",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 1166,
+   "alt_he": "שבב CCD מרובע בתוך מסגרת זהב, מוחזק בין שתי אצבעות",
+   "license": {
+    "name": "Public domain",
+    "url": "",
+    "author": "NASA / JPL-Caltech",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Delta-Doped_Charged_Coupled_Devices_%28CCD%29_for_Ultra-Violet_and_Visible_Detection.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Delta-Doped_Charged_Coupled_Devices_%28CCD%29_for_Ultra-Violet_and_Visible_Detection.jpg",
+    "credit_line": "NASA / JPL-Caltech, Public domain, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "stm",
+  "year": 1981,
+  "year_label": "1981",
+  "title_he": "מיקרוסקופ המנהור הסורק: לראות אטומים",
+  "text_he": "גרד ביניג והיינריך רורר ממעבדת IBM בציריך בנו מיקרוסקופ שאין בו אור ואין בו עדשות. מחט חדה מאוד, שבקצה שלה לפעמים אטום אחד, עוברת מעל פני השטח במרחק של כננומטר, וזרם חשמלי זעיר שעובר בין המחט למשטח מגלה את מקומם של האטומים. בפעם הראשונה אפשר היה \"לראות\" אטומים בודדים על פני משטח.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:First STM.jpg",
+  "image_alt_he": "מיקרוסקופ המנהור הסורק הראשון, מכלול מתכתי עם חוטים, מוצג במוזיאון הגרמני במינכן",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scanning_tunneling_microscope",
+   "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology",
+   "https://www.nobelprize.org/prizes/physics/1986/summary/"
+  ],
+  "image": {
+   "src": "img/history/h-stm",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 960,
+   "alt_he": "מיקרוסקופ המנהור הסורק הראשון, מכלול מתכתי עם חוטים, מוצג במוזיאון הגרמני במינכן",
+   "license": {
+    "name": "CC BY-SA 2.0",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "J Brew",
+    "source_url": "https://commons.wikimedia.org/wiki/File:First_STM.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/First_STM.jpg",
+    "credit_line": "J Brew, CC BY-SA 2.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "afm",
+  "year": 1986,
+  "year_label": "1986",
+  "title_he": "מיקרוסקופ הכוח האטומי",
+  "text_he": "ביניג, יחד עם קלווין קוויט וכריסטוף גרבר, המציא את מיקרוסקופ הכוח האטומי (AFM). מחט זעירה בקצה של זרוע גמישה \"ממששת\" את פני הדגימה, ולייזר מודד כמה הזרוע עולה ויורדת. בניגוד ל-STM, הוא עובד גם על חומרים שלא מוליכים חשמל, ואפילו על דגימות ביולוגיות בתוך נוזל.",
+  "type": "instrument",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": null,
+  "image_alt_he": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atomic_force_microscopy",
+   "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology"
+  ]
+ },
+ {
+  "key": "nobel-1986",
+  "year": 1986,
+  "year_label": "1986",
+  "title_he": "נובל לפיזיקה: אלקטרונים ואטומים",
+  "text_he": "פרס נובל לפיזיקה לשנת 1986 חולק בין שתי המצאות. מחצית ניתנה לארנסט רוסקה על תכנון מיקרוסקופ האלקטרונים הראשון, 55 שנה אחרי שבנה אותו. המחצית השנייה ניתנה לגרד ביניג ולהיינריך רורר על מיקרוסקופ המנהור הסורק, חמש שנים בלבד אחרי שהופעל.",
+  "type": "nobel",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": null,
+  "image_alt_he": null,
+  "sources": [
+   "https://www.nobelprize.org/prizes/physics/1986/summary/"
+  ]
+ },
+ {
+  "key": "nobel-2008-gfp",
+  "year": 2008,
+  "year_label": "2008",
+  "title_he": "נובל לכימיה: החלבון הזוהר GFP",
+  "text_he": "אוסמו שימומורה גילה ב-1962 חלבון שזוהר באור ירוק במדוזה Aequorea victoria. מרטין צ'לפי הראה שאפשר להכניס את הגן שלו ליצורים אחרים, ורוג'ר צ'ן יצר ממנו חלבונים זוהרים בצבעים רבים. כך אפשר \"לסמן\" חלבון או תא ולראות אותו זוהר במיקרוסקופ פלואורסצנציה בתוך יצור חי. השלושה זכו בפרס נובל לכימיה לשנת 2008.",
+  "type": "nobel",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Aequorea victoria.jpg",
+  "image_alt_he": "מדוזה שקופה מהמין Aequorea victoria על רקע מים כחולים",
+  "sources": [
+   "https://www.nobelprize.org/prizes/chemistry/2008/summary/",
+   "https://en.wikipedia.org/wiki/Green_fluorescent_protein"
+  ],
+  "image": {
+   "src": "img/history/h-nobel-2008-gfp",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 960,
+   "alt_he": "מדוזה שקופה מהמין Aequorea victoria על רקע מים כחולים",
+   "license": {
+    "name": "CC BY-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Mnolf",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aequorea_victoria.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Aequorea_victoria.jpg",
+    "credit_line": "Mnolf, CC BY-SA 3.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "foldscope",
+  "year": 2014,
+  "year_label": "2014",
+  "title_he": "מיקרוסקופ מנייר וצילום בטלפון",
+  "text_he": "היום מצלמת הטלפון החכם יכולה לצלם דרך העינית של מיקרוסקופ, או דרך עדשה קטנה שמצמידים אליה. בשנת 2014 פרסמו מנו פרקש ועמיתיו מאוניברסיטת סטנפורד את ה-Foldscope, מיקרוסקופ שמקפלים מנייר כמו אוריגמי, ושעלות החלקים שלו פחות מדולר. כך כל ילד יכול לחקור ולצלם את העולם הזעיר.",
+  "type": "photography",
+  "track": "photography",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Aufgebautes Foldscope.jpg",
+  "image_alt_he": "מיקרוסקופ Foldscope מקופל מנייר בצבע תכלת, עם עדשה קטנה במרכז",
+  "sources": [
+   "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098781",
+   "https://en.wikipedia.org/wiki/Foldscope"
+  ],
+  "image": {
+   "src": "img/history/h-foldscope",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 960,
+   "alt_he": "מיקרוסקופ Foldscope מקופל מנייר בצבע תכלת, עם עדשה קטנה במרכז",
+   "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Sockenpaket",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aufgebautes_Foldscope.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Aufgebautes_Foldscope.jpg",
+    "credit_line": "Sockenpaket, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "nobel-2014-superres",
+  "year": 2014,
+  "year_label": "2014",
+  "title_he": "נובל לכימיה: מעבר לגבול של אבה",
+  "text_he": "במשך יותר ממאה שנה חשבו שמיקרוסקופ אור לא יכול להבחין בפרטים קטנים מבערך 200 ננומטר. אריק בציג, שטפן הל וויליאם מרנר מצאו דרכים לעקוף את הגבול: מדליקים ומכבים מולקולות זוהרות בצורה מבוקרת, וכך מגיעים לפרטים של עשרות ננומטרים בלבד. על פיתוח מיקרוסקופיית הפלואורסצנציה ברזולוציית-על זכו בפרס נובל לכימיה לשנת 2014.",
+  "type": "nobel",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:STED Confocal Comparison 50nm HWFM.png",
+  "image_alt_he": "השוואה בין תמונה במיקרוסקופ קונפוקלי לתמונת STED של סיבי אקטין זוהרים בתא: בתמונת ה-STED הסיבים חדים הרבה יותר",
+  "sources": [
+   "https://www.nobelprize.org/prizes/chemistry/2014/summary/",
+   "https://en.wikipedia.org/wiki/Super-resolution_microscopy"
+  ],
+  "image": {
+   "src": "img/history/h-nobel-2014-superres",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 1011,
+   "alt_he": "השוואה בין תמונה במיקרוסקופ קונפוקלי לתמונת STED של סיבי אקטין זוהרים בתא: בתמונת ה-STED הסיבים חדים הרבה יותר",
+   "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Howard Vindin",
+    "source_url": "https://commons.wikimedia.org/wiki/File:STED_Confocal_Comparison_50nm_HWFM.png",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/STED_Confocal_Comparison_50nm_HWFM.png",
+    "credit_line": "Howard Vindin, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ },
+ {
+  "key": "nobel-2017-cryoem",
+  "year": 2017,
+  "year_label": "2017",
+  "title_he": "נובל לכימיה: קריו-מיקרוסקופיית אלקטרונים",
+  "text_he": "במיקרוסקופ אלקטרונים רגיל הדגימה מתייבשת ונפגעת. ז'אק דובושה למד להקפיא מולקולות במהירות כזו שהמים סביבן הופכים ל\"זכוכית\" של קרח בלי גבישים, יואכים פרנק פיתח שיטה לצרף אלפי תמונות של מולקולות לתמונה תלת-ממדית אחת, וריצ'רד הנדרסון הראה שאפשר להגיע כך כמעט לרמת האטומים. השלושה זכו בפרס נובל לכימיה לשנת 2017.",
+  "type": "nobel",
+  "track": "microscopy",
+  "disputed": false,
+  "dispute_note_he": null,
+  "commons_file": "File:Titan Krios University of Leeds.jpg",
+  "image_alt_he": "מיקרוסקופ קריו-אלקטרונים גדול מדגם Titan Krios, ארון אפור בגובה של חדר, באוניברסיטת לידס",
+  "sources": [
+   "https://www.nobelprize.org/prizes/chemistry/2017/summary/",
+   "https://en.wikipedia.org/wiki/Cryogenic_electron_microscopy"
+  ],
+  "image": {
+   "src": "img/history/h-nobel-2017-cryoem",
+   "widths": [
+    400,
+    1200
+   ],
+   "width": 1280,
+   "height": 1920,
+   "alt_he": "מיקרוסקופ קריו-אלקטרונים גדול מדגם Titan Krios, ארון אפור בגובה של חדר, באוניברסיטת לידס",
+   "license": {
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Hiramano92",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Titan_Krios_University_of_Leeds.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Titan_Krios_University_of_Leeds.jpg",
+    "credit_line": "Hiramano92, CC BY-SA 4.0, via Wikimedia Commons",
+    "modifications": "Resized, converted to WebP"
+   }
+  }
+ }
+]

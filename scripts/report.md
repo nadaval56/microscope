@@ -1,6 +1,6 @@
 # Image pipeline report
 
-Accepted: **35**  ·  Rejected: **0**
+Accepted: **44**  ·  Rejected: **0**
 
 | category | light | electron | probe | illustration | total |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@ Accepted: **35**  ·  Rejected: **0**
 | tiny-animals | 4 | 5 | 0 | 0 | 9 |
 | crystals | 5 | 3 | 1 | 0 | 9 |
 | tech | 5 | 3 | 1 | 0 | 9 |
-| history | 0 | 0 | 0 | 0 | 0 |
+| history | 2 | 0 | 0 | 7 | 9 |
 
 ## Rejected
 
