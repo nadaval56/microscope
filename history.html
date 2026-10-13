@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="he" dir="rtl" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>היסטוריה · מיקרוקוסמוס</title>
+<meta name="description" content="ציר הזמן של המיקרוסקופ ושל הצילום דרך המיקרוסקופ.">
+<meta name="theme-color" content="#0f1419">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="he_IL">
+<meta property="og:title" content="היסטוריה · מיקרוקוסמוס">
+<meta property="og:description" content="ציר הזמן של המיקרוסקופ ושל הצילום דרך המיקרוסקופ.">
+<meta property="og:image" content="img/og-default.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700&family=Rubik:wght@500;600;700&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<script>try{var t=JSON.parse(localStorage.getItem('mk:theme'))}catch(e){}document.documentElement.dataset.theme=t||'dark';</script>
+<script type="module" src="js/pages/history.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">דילוג לתוכן</a>
+<header id="site-header"></header>
+<main id="main">
+  <div class="container page-head">
+    <span class="eyebrow">היסטוריה</span>
+    <h1>400 שנה של הצצה לעולם הזעיר</h1>
+    <p>מעדשות ליטוש של סוחר בדים הולנדי ועד מכונות שרואות אטומים. בציר יש שני מסלולים: <b>המיקרוסקופ</b> עצמו, ו<b>הצילום</b>, כלומר איך תיעדו את מה שראו.</p>
+  </div>
+  <section class="container" aria-label="ציר זמן">
+    <div class="track-legend">
+      <span><i style="background:var(--light)"></i>מכשיר חדש</span>
+      <span><i style="background:var(--ok)"></i>תגלית</span>
+      <span><i style="background:#f5d76e"></i>פרס נובל</span>
+      <span><i style="background:var(--brand)"></i>מסלול הצילום</span>
+    </div>
+    <div class="tl-filters chips" id="tl-filters" role="group" aria-label="סינון אירועים"></div>
+    <div class="timeline" id="timeline"><div class="loading">טוען…</div></div>
+  </section>
+</main>
+<footer id="site-footer"></footer>
+</body>
+</html>
