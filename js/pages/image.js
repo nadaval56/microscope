@@ -205,7 +205,7 @@ async function main() {
         </div>
         <div class="scale-strip">${icon('ruler').replace('<svg', '<svg style="width:20px;height:20px"')}
           ${img.scale?.subject_size_label ? `<span>גודל אמיתי: <b>${esc(img.scale.subject_size_label)}</b></span>` : ''}
-          ${img.scale?.field_width_m ? `<span class="muted">· רוחב השדה כולו ${esc(formatSI(img.scale.field_width_m))}</span>` : ''}
+          ${img.scale?.field_width_m ? `<span class="muted">· רוחב השדה כולו <span class="ltr">${esc(formatSI(img.scale.field_width_m))}</span></span>` : ''}
         </div>
         ${creditHTML(img.license)}
       </div>

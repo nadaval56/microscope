@@ -339,7 +339,7 @@ bdi { unicode-bidi: isolate; }
 }
 .viewer.dragging { cursor: grabbing; }
 .viewer img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: contain; transform-origin: 0 0; will-change: transform; pointer-events: none; }
-.viewer-controls { position: absolute; bottom: 10px; inset-inline-end: 10px; display: flex; gap: 6px; z-index: 2; }
+.viewer-controls { position: absolute; bottom: 10px; inset-inline-start: 10px; display: flex; gap: 6px; z-index: 2; }
 .viewer-controls button { width: 38px; height: 38px; border-radius: 10px; border: 1px solid rgba(255,255,255,.2); background: rgba(10,14,18,.7); color: #fff; display: grid; place-items: center; cursor: pointer; backdrop-filter: blur(6px); }
 .viewer-controls button:hover { background: rgba(30,40,50,.9); }
 .viewer-controls svg { width: 18px; height: 18px; }
