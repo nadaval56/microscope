@@ -177,7 +177,7 @@ function answer(k) {
     ok = k === smaller;
     img = q.pair[smaller];
     const other = q.pair[1 - smaller];
-    root().querySelectorAll('.q-two button').forEach((btn, i) => { btn.classList.add(i === smaller ? 'correct' : (i === k ? 'wrong' : '')); btn.disabled = true; });
+    root().querySelectorAll('.q-two button').forEach((btn, i) => { if (i === smaller) btn.classList.add('correct'); else if (i === k) btn.classList.add('wrong'); btn.disabled = true; });
     const ratio = other.scale.subject_size_m / img.scale.subject_size_m;
     extra = `<p style="margin:0">${esc(img.quiz?.answer_he || img.title_he)}: <b>${esc(img.scale.subject_size_label || '')}</b>. ${esc(other.quiz?.answer_he || other.title_he)}: <b>${esc(other.scale.subject_size_label || '')}</b>. ההפרש: בערך פי ${ratio >= 10 ? Math.round(ratio) : Math.round(ratio * 10) / 10}.</p>`;
   } else {
