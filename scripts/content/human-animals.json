@@ -394,7 +394,10 @@
       "author": "CSIRO",
       "credit_line": "CSIRO, CC BY 3.0, via Wikimedia Commons"
     },
-    "source_note": "CSIRO ScienceImage 8115: 'SEM image showing the difference in size and texture between a superfine Merino wool fibre (top) and a human hair'; image bar shows x1.0k, 50 µm. Hair diameter/keratin/cuticle: https://en.wikipedia.org/wiki/Hair ; superfine merino <18.5 µm: https://en.wikipedia.org/wiki/Merino ; growth ~1 cm/month."
+    "source_note": "CSIRO ScienceImage 8115: 'SEM image showing the difference in size and texture between a superfine Merino wool fibre (top) and a human hair'; image bar shows x1.0k, 50 µm. Hair diameter/keratin/cuticle: https://en.wikipedia.org/wiki/Hair ; superfine merino <18.5 µm: https://en.wikipedia.org/wiki/Merino ; growth ~1 cm/month.",
+    "crop": {
+      "bottom": 0.085
+    }
   },
   {
     "key": "tardigrade-light",
@@ -594,7 +597,10 @@
       "author": "Louisa Howard, Dartmouth Electron Microscope Facility",
       "credit_line": "Louisa Howard, Dartmouth Electron Microscope Facility, Public domain (PD-user, Dartmouth College), via Wikimedia Commons"
     },
-    "source_note": "Commons: Dartmouth REMF, JEOL 35C SEM, PD-user. Scale bar (20 µm) measured on 960px thumbnail: 115 px -> field width ≈ 167 µm; facets ≈ 85 px ≈ 15 µm. Ommatidia count: https://en.wikipedia.org/wiki/Drosophila_melanogaster ; ectopic eyes: Halder, Callaerts & Gehring 1995, Science 267:1788."
+    "source_note": "Commons: Dartmouth REMF, JEOL 35C SEM, PD-user. Scale bar (20 µm) measured on 960px thumbnail: 115 px -> field width ≈ 167 µm; facets ≈ 85 px ≈ 15 µm. Ommatidia count: https://en.wikipedia.org/wiki/Drosophila_melanogaster ; ectopic eyes: Halder, Callaerts & Gehring 1995, Science 267:1788.",
+    "crop": {
+      "bottom": 0.03
+    }
   },
   {
     "key": "butterfly-scales-light",

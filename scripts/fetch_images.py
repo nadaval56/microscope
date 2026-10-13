@@ -332,6 +332,12 @@ def main() -> int:
         if not args.no_images:
             try:
                 img = download_source(info, max(MICRO_WIDTHS), refresh=args.refresh)
+                crop = e.get("crop") or {}
+                if crop:
+                    # trim caption strips / instrument data bars (fractions of the image size)
+                    w0, h0 = img.size
+                    img = img.crop((round(w0 * crop.get("left", 0)), round(h0 * crop.get("top", 0)),
+                                    w0 - round(w0 * crop.get("right", 0)), h0 - round(h0 * crop.get("bottom", 0))))
                 made = write_variants(img, IMG_MICRO, iid, MICRO_WIDTHS)
                 w, h = img.size
             except Exception as ex:  # noqa: BLE001
@@ -377,7 +383,8 @@ def main() -> int:
                 "source_url": info["page_url"],
                 "file_url": file_url,
                 "credit_line": credit_line(info["author"], lic),
-                "modifications": "Resized, converted to WebP",
+                "modifications": ("Cropped (caption/data bar removed), resized, converted to WebP"
+                                  if e.get("crop") else "Resized, converted to WebP"),
             },
             # License verified automatically from the file page; content written and reviewed
             # by the build. Flip to false to hide an image from the public site.

@@ -220,6 +220,91 @@
   source: "File:Cabeza de hormiga vista bajo el microscopio electrónico de barrido.jpg"
   category: tiny-animals
   status: "accepted"
+- key: ecoli-sem
+  id: m396
+  source: "File:E. coli Bacteria (7316101966).jpg"
+  category: microbes
+  status: "accepted"
+- key: mrsa-sem
+  id: m188
+  source: "File:Methicillin-Resistant Staphylococcus Aureus (MRSA) Bacteria colorized scanning electron micrograph - 44.jpg"
+  category: microbes
+  status: "accepted"
+- key: gram-stain-mixed
+  id: m185
+  source: "File:Gram stain 01.jpg"
+  category: microbes
+  status: "accepted"
+- key: bacillus-gram
+  id: m157
+  source: "File:Bacillus subtilis Gram stain.jpg"
+  category: microbes
+  status: "accepted"
+- key: sars-cov-2-tem
+  id: m279
+  source: "File:Novel Coronavirus SARS-CoV-2 - 53827311942.jpg"
+  category: microbes
+  status: "accepted"
+- key: ebola-tem
+  id: m020
+  source: "File:Ebola Virus Particles (8).jpg"
+  category: microbes
+  status: "accepted"
+- key: phage-t2-tem
+  id: m238
+  source: "File:Enterobacteria phage T2 transmission electron micrograph.jpg"
+  category: microbes
+  status: "accepted"
+- key: yeast-sem
+  id: m362
+  source: "File:Saccharomyces cerevisiae SEM.jpg"
+  category: microbes
+  status: "accepted"
+- key: anabaena-heterocyst
+  id: m268
+  source: "File:Anabaena AUTH 0299 100x .jpg"
+  category: microbes
+  status: "accepted"
+- key: hela-cytoskeleton
+  id: m169
+  source: "File:HeLa-Tubulin-HSP60-Fibrillarin-DNA.jpg"
+  category: cells
+  status: "accepted"
+- key: fibroblast-actin-mito
+  id: m237
+  source: "File:Cells with nuclei in blue, mitochondria in green, and the actin cytoskeleton in red (19124186316).jpg"
+  category: cells
+  status: "accepted"
+- key: onion-root-mitosis
+  id: m258
+  source: "File:Onion root mitosis.jpg"
+  category: cells
+  status: "accepted"
+- key: hela-mitosis-phase
+  id: m079
+  source: "File:Cell culture (HeLa cells) (261 18) Cell culture (HeLa cells) - metaphase, telophase.jpg"
+  category: cells
+  status: "accepted"
+- key: metaphase-chromosomes
+  id: m321
+  source: "File:Metaphase1.jpg"
+  category: cells
+  status: "accepted"
+- key: b-cell-tem
+  id: m209
+  source: "File:Human B Lymphocyte (28942386960).jpg"
+  category: cells
+  status: "accepted"
+- key: mitochondria-tem
+  id: m256
+  source: "File:Abnormal Mouse Mitochondria (44402464170).jpg"
+  category: cells
+  status: "accepted"
+- key: cilia-cross-section
+  id: m280
+  source: "File:Bronchiolar area cilia cross-sections 2.jpg"
+  category: cells
+  status: "accepted"
 - key: diatoms-darkfield
   id: m072
   source: "File:Diatoms through the microscope.jpg"

@@ -1,5 +1,564 @@
 [
  {
+  "id": "m020",
+  "key": "ebola-tem",
+  "title_he": "נגיף האבולה",
+  "title_en": "Ebola virus particles (TEM)",
+  "category": "microbes",
+  "tags": [
+   "נגיפים",
+   "אבולה",
+   "מיקרוסקופ אלקטרונים חודר",
+   "צבע מלאכותי"
+  ],
+  "microscope": "electron",
+  "technique": "tem",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 8e-08,
+   "subject_size_label": "≈ 80 ננומטר עובי",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "עובי החוט קטן פי 25 בערך מאורכו של חיידק אי-קולי, ואורך החוט עצמו הוא בדרך כלל כחצי מאורך החיידק"
+  },
+  "text": {
+   "main_he": "החוטים והטבעות הירוקים הם נגיפי אבולה. בניגוד לרוב הנגיפים, שהם כמעט עגולים, האבולה ארוך ודק כמו חוט, ולפעמים מתעקל לצורת טבעת או סימן שאלה. כאן רואים אותם יוצאים מתאים שבהם התרבו (בחום).",
+   "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים חודר (TEM), ב\"פרוסה\" דקה מאוד של תאים שגודלו במעבדה, תאי כליה של קוף. הצבעים נוספו אחר כך: הנגיפים נצבעו בירוק והתאים בחום. עובי כל חוט הוא בערך 80 ננומטר (ננומטר הוא מיליונית המילימטר), ואורכו בדרך כלל קרוב למיקרון אחד. העיגולים הקטנים הם חוטים שנחתכו לרוחב, כמו פרוסות של צינור. הנגיף נקרא על שם נהר האבולה ברפובליקה הדמוקרטית של קונגו, ליד המקום שבו זוהה לראשונה בשנת 1976. כיום יש חיסון מאושר נגד הזן הנפוץ של המחלה.",
+   "fun_fact_he": "נגיף האבולה שייך למשפחת ה\"פילו-וירוסים\". \"פילום\" בלטינית פירושו חוט, בדיוק הצורה שרואים בתמונה."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "חוטי ציאנובקטריה",
+    "סיבי שלד התא",
+    "חיידקים בצורת מקל"
+   ],
+   "answer_he": "נגיף האבולה"
+  },
+  "related": [
+   "m279",
+   "m238"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1923,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 2.0",
+   "url": "https://creativecommons.org/licenses/by/2.0",
+   "kind": "by",
+   "author": "NIAID",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Ebola_Virus_Particles_%288%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ebola_Virus_Particles_%288%29.jpg",
+   "credit_line": "NIAID, CC BY 2.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m157",
+  "key": "bacillus-gram",
+  "title_he": "חיידקי באצילוס סובטיליס",
+  "title_en": "Bacillus subtilis (Gram stain)",
+  "category": "microbes",
+  "tags": [
+   "חיידקים",
+   "קרקע",
+   "צביעת גרם",
+   "מיקרוסקופ אור"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 3e-06,
+   "subject_size_label": "≈ כמה מיקרונים אורך",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 20 עד 30 חיידקים כאלה בשורה ישתוו לעובי של שערה"
+  },
+  "text": {
+   "main_he": "המקלות הסגולים הם חיידקי באצילוס סובטיליס, חיידקים שחיים באדמה. לפעמים הם נשארים מחוברים אחרי ההתחלקות ויוצרים שרשראות ארוכות, כמו שרואים כאן. כשהתנאים קשים, החיידק מסוגל להפוך לנבג עמיד במיוחד.",
+   "deep_he": "הדגימה נצבעה בצביעת גרם וצולמה במיקרוסקופ אור. הצבע הסגול מראה שזהו חיידק \"גרם-חיובי\", כלומר בעל דופן עבה שמחזיקה את הצבע. באצילוס סובטיליס הוא חיידק בצורת מקל, באורך של כמה מיקרונים (מיקרון הוא אלפית המילימטר). כשחסרים מזון או מים הוא בונה בתוכו נבג פנימי (אנדוספור), מעין \"כספת\" שמגינה על החומר התורשתי. נבגים כאלה שורדים חום, ייבוש וקרינה, ויכולים להתעורר לחיים אחרי שנים. בגלל שקל לגדל אותו ואינו מזיק לאדם, הוא אחד החיידקים הנחקרים ביותר.",
+   "fun_fact_he": "זן של החיידק הזה משמש ביפן להכנת נאטו, מאכל מסורתי של פולי סויה מותססים בעלי מרקם דביק ונמתח."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "חיידקי סטרפטוקוק",
+    "חיידקי E. coli",
+    "חוטי ציאנובקטריה"
+   ],
+   "answer_he": "חיידקי באצילוס סובטיליס"
+  },
+  "related": [
+   "m185",
+   "m396"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1418,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 3.0",
+   "url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "kind": "by-sa",
+   "author": "Riraq25",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Bacillus_subtilis_Gram_stain.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bacillus_subtilis_Gram_stain.jpg",
+   "credit_line": "Riraq25, CC BY-SA 3.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m185",
+  "key": "gram-stain-mixed",
+  "title_he": "צביעת גרם של חיידקים",
+  "title_en": "Gram stain: Staphylococcus aureus and E. coli",
+  "category": "microbes",
+  "tags": [
+   "חיידקים",
+   "צביעת גרם",
+   "מיקרוסקופ אור",
+   "מעבדה"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": "≈ ×1,000",
+  "scale": {
+   "subject_size_m": 1e-06,
+   "subject_size_label": "≈ 1 מיקרון (כדור סגול)",
+   "field_width_m": 5.8e-05,
+   "pixel_size_m": 3.717948717948718e-08,
+   "comparison_he": "רוחב התמונה כולה, בערך 58 מיקרון, קטן מעובי של שערה"
+  },
+  "text": {
+   "main_he": "כאן רואים שני סוגי חיידקים באותה דגימה: כדורים סגולים (סטפילוקוק) ומקלות ורודים (אי-קולי). הצבעים אמיתיים: הם נוצרו מצבעים כימיים שמוסיפים לדגימה. כך רופאים במעבדה מבחינים במהירות בין שתי קבוצות גדולות של חיידקים.",
+   "deep_he": "השיטה נקראת צביעת גרם, על שם הרופא הדני הנס כריסטיאן גרם שפיתח אותה בשנת 1884. צובעים את הדגימה בצבע סגול, שוטפים באלכוהול ואז צובעים בצבע ורוד. לחיידקים \"גרם-חיוביים\", כמו סטפילוקוק, יש דופן עבה שמחזיקה את הצבע הסגול. לחיידקים \"גרם-שליליים\", כמו אי-קולי, יש דופן דקה יותר וקרום חיצוני, האלכוהול שוטף מהם את הסגול, והם נצבעים בוורוד. התמונה צולמה במיקרוסקופ אור בהגדלה של פי 1,000, ופס קנה המידה מסמן 10 מיקרון. ההבדל בדופן חשוב גם לרפואה, כי אנטיביוטיקות שונות פועלות טוב יותר על קבוצה אחת או על השנייה.",
+   "fun_fact_he": "צביעת גרם מבוצעת עד היום בבתי חולים כמעט כמו לפני כ-140 שנה, וכל התהליך לוקח דקות ספורות."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "כדוריות דם בדגימה",
+    "נבגי פטרייה צבועים",
+    "תאי לחי צבועים"
+   ],
+   "answer_he": "צביעת גרם של חיידקים"
+  },
+  "related": [
+   "m188",
+   "m396",
+   "m157"
+  ],
+  "pair_id": "staph",
+  "featured": false,
+  "width": 1560,
+  "height": 1170,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "CC BY-SA 3.0",
+   "url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "kind": "by-sa",
+   "author": "Y tambe",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Gram_stain_01.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gram_stain_01.jpg",
+   "credit_line": "Y tambe, CC BY-SA 3.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m188",
+  "key": "mrsa-sem",
+  "title_he": "חיידקי סטפילוקוק",
+  "title_en": "Staphylococcus aureus (MRSA) bacteria (SEM)",
+  "category": "microbes",
+  "tags": [
+   "חיידקים",
+   "סטפילוקוק",
+   "עמידות לאנטיביוטיקה",
+   "צבע מלאכותי"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 1e-06,
+   "subject_size_label": "≈ 1 מיקרון",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 70 כדורים כאלה בשורה ישתוו לעובי של שערה"
+  },
+  "text": {
+   "main_he": "הכדורים הירוקים הם חיידקי סטפילוקוק זהוב. הם נוטים להיצמד זה לזה באשכולות, כמו ענבים, ומכאן שמם: \"סטפילה\" ביוונית פירושו אשכול ענבים. הזן שבתמונה, MRSA, עמיד לחלק מהאנטיביוטיקות.",
+   "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים סורק (SEM) במעבדה של המכון האמריקאי לאלרגיה ולמחלות זיהומיות (NIAID). מיקרוסקופ אלקטרונים רואה רק גוונים של אפור, ולכן הצבעים הירוק והכחול נוספו אחר כך במחשב, כדי להבדיל בין החיידקים לרקע. כל חיידק הוא כדור שקוטרו בערך מיקרון אחד (אלפית המילימטר). רואים כאן גם זוגות של כדורים צמודים: אלה חיידקים שבאמצע התחלקות. MRSA הוא קיצור של \"סטפילוקוק זהוב עמיד למתיצילין\", אנטיביוטיקה ממשפחת הפניצילין. העמידות התפתחה בתהליך של ברירה טבעית, ולכן חשוב להשתמש באנטיביוטיקה רק כשצריך.",
+   "fun_fact_he": "בערך אחד מכל שלושה אנשים נושא סטפילוקוק זהוב באף, בדרך כלל בלי לחלות בכלל."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "חיידקי סטרפטוקוק",
+    "תאי שמרים",
+    "גרגרי אבקה"
+   ],
+   "answer_he": "חיידקי סטפילוקוק"
+  },
+  "related": [
+   "m185",
+   "m396"
+  ],
+  "pair_id": "staph",
+  "featured": false,
+  "width": 1920,
+  "height": 1655,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 2.0",
+   "url": "https://creativecommons.org/licenses/by/2.0",
+   "kind": "by",
+   "author": "NIAID",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Methicillin-Resistant_Staphylococcus_Aureus_%28MRSA%29_Bacteria_colorized_scanning_electron_micrograph_-_44.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Methicillin-Resistant_Staphylococcus_Aureus_%28MRSA%29_Bacteria_colorized_scanning_electron_micrograph_-_44.jpg",
+   "credit_line": "NIAID, CC BY 2.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m238",
+  "key": "phage-t2-tem",
+  "title_he": "בקטריופאג' T2",
+  "title_en": "Bacteriophage T2 (TEM)",
+  "category": "microbes",
+  "tags": [
+   "נגיפים",
+   "בקטריופאג'",
+   "חיידקים",
+   "מיקרוסקופ אלקטרונים חודר"
+  ],
+  "microscope": "electron",
+  "technique": "tem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 2e-07,
+   "subject_size_label": "≈ 200 ננומטר",
+   "field_width_m": 3.1e-07,
+   "pixel_size_m": 1.6145833333333333e-10,
+   "comparison_he": "בערך 10 נגיפים כאלה, זה אחר זה, ישתוו לאורך של חיידק אי-קולי אחד"
+  },
+  "text": {
+   "main_he": "זה נראה כמו חללית קטנה, אבל זה נגיף שתוקף חיידקים, בקטריופאג' (\"אוכל חיידקים\"). הראש מלא בחומר תורשתי, והזנב משמש כמו מזרק. הפאג' נוחת על חיידק אי-קולי, מזריק לתוכו את ה-DNA שלו, והופך את החיידק למפעל של פאגים חדשים.",
+   "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים חודר (TEM) בשיטה שנקראת צביעה שלילית: מורחים מלח של מתכת כבדה (אורניום) שעוטף את הנגיף, וכך קווי המתאר שלו בולטים על הרקע. התמונה לא נצבעה. פס קנה המידה מסמן 100 ננומטר (ננומטר הוא מיליונית המילימטר), כך שראש הנגיף ארוך בערך 100 ננומטר, וכל הנגיף כולל הזנב בערך פי שניים מזה. על הזנב רואים את הדוגמה של חלבונים שמסודרים בטבעות, ובקצהו את הבסיס שנצמד לחיידק. סביב הפאג' מפוזרים שאריות של חיידקים, ואולי גם סיבי זנב שהתנתקו. בשנת 1952 השתמשו החוקרים הרשי וצ'ייס בפאג' T2 כדי להוכיח שהחומר התורשתי הוא DNA ולא חלבון.",
+   "fun_fact_he": "פאגים הם הישויות הביולוגיות הנפוצות ביותר על פני כדור הארץ: לפי ההערכות יש בעולם כ-10 בחזקת 31 פאגים, יותר מכל החיידקים יחד."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "נגיף הקורונה",
+    "חלבון מוטורי בתא",
+    "חיידק עם שוטון"
+   ],
+   "answer_he": "בקטריופאג' T2"
+  },
+  "related": [
+   "m396",
+   "m279",
+   "m020"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1920,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "SnaxMikn",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Enterobacteria_phage_T2_transmission_electron_micrograph.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Enterobacteria_phage_T2_transmission_electron_micrograph.jpg",
+   "credit_line": "SnaxMikn, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m268",
+  "key": "anabaena-heterocyst",
+  "title_he": "ציאנובקטריה אנבנה",
+  "title_en": "Cyanobacterium Anabaena with heterocysts",
+  "category": "microbes",
+  "tags": [
+   "ציאנובקטריה",
+   "פוטוסינתזה",
+   "חנקן",
+   "מיקרוסקופ אור"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 6e-06,
+   "subject_size_label": "≈ 5–8 מיקרון לתא",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "כל \"חרוז\" בשרשרת הוא תא בגודל דומה לכדורית דם אדומה"
+  },
+  "text": {
+   "main_he": "השרשראות האלה הן מושבות של ציאנובקטריה בשם אנבנה. כל \"חרוז\" בשרשרת הוא חיידק אחד, והם מחוברים זה לזה כמו קרונות של רכבת. כמו צמחים, הם מייצרים מזון בעזרת אור השמש.",
+   "deep_he": "ציאנובקטריה (שנקראו פעם \"אצות כחוליות\") הם חיידקים שמבצעים פוטוסינתזה ומשחררים חמצן. התמונה צולמה במיקרוסקופ אור רגיל, ופס קנה המידה בפינה מסמן 20 מיקרון. החץ מצביע על תא מיוחד, גדול ובהיר יותר, שנקרא הטרוציסט. בתאים האלה החיידק קולט חנקן מהאוויר והופך אותו לחומר מזין. האנזים שעושה זאת נהרס במגע עם חמצן, ולכן ההטרוציסט עוטף את עצמו בדופן עבה ומפסיק לייצר חמצן בעצמו. זו חלוקת עבודה בין תאים, כמעט כמו ביצור רב-תאי.",
+   "fun_fact_he": "לפני יותר משני מיליארד שנה, ציאנובקטריה הם שמילאו את האטמוספרה של כדור הארץ בחמצן. גם הכלורופלסטים בתאי הצמחים הם צאצאים רחוקים שלהם."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "אצה ירוקה חוטית",
+    "שרשרת סטרפטוקוקים",
+    "תפטיר של פטרייה"
+   ],
+   "answer_he": "ציאנובקטריה אנבנה"
+  },
+  "related": [
+   "m157"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1439,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "Giannakc1997",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Anabaena_AUTH_0299_100x_.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Anabaena_AUTH_0299_100x_.jpg",
+   "credit_line": "Giannakc1997, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m279",
+  "key": "sars-cov-2-tem",
+  "title_he": "נגיף הקורונה",
+  "title_en": "SARS-CoV-2 virus particles (TEM)",
+  "category": "microbes",
+  "tags": [
+   "נגיפים",
+   "קורונה",
+   "מיקרוסקופ אלקטרונים חודר",
+   "צבע מלאכותי"
+  ],
+  "microscope": "electron",
+  "technique": "tem",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 1e-07,
+   "subject_size_label": "≈ 100 ננומטר",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 700 נגיפים כאלה בשורה ישתוו לעובי של שערה אחת"
+  },
+  "text": {
+   "main_he": "העיגולים הצהובים הם חלקיקים של נגיף SARS-CoV-2, הנגיף שגרם למגפת הקורונה. נגיף קטן בהרבה מחיידק, ואי אפשר לראות אותו במיקרוסקופ אור רגיל. ה\"הילה\" סביב כל חלקיק היא שכבת חלבונים בולטים, שבזכותה הנגיף נקרא \"קורונה\", כלומר כתר.",
+   "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים חודר (TEM), שבו אלומת אלקטרונים עוברת דרך דגימה דקה מאוד. הצבעים הצהוב והוורוד נוספו במחשב: המיקרוסקופ עצמו רואה רק גוונים של אפור. קוטר כל חלקיק הוא בערך 100 ננומטר (ננומטר הוא מיליונית המילימטר), כלומר פי 20 בערך קטן מחיידק אי-קולי. על פני הנגיף בולטים חלבוני \"ספייק\", שבעזרתם הוא נצמד לתאים בגוף ונכנס אליהם. מערכת החיסון לומדת לזהות את החלבונים האלה, ובדיוק עליהם מבוססים רוב החיסונים נגד המחלה. החלקיקים שבתמונה בודדו מחולה וצולמו במעבדה של NIAID במרילנד שבארצות הברית.",
+   "fun_fact_he": "נגיף הוא לא תא: אין לו מנגנון לייצר אנרגיה או חלבונים, והוא מתרבה רק בתוך תא חי שהוא \"משתלט\" עליו."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "נגיף השפעת",
+    "חיידקי סטפילוקוק",
+    "נבגי פטרייה"
+   ],
+   "answer_he": "נגיף הקורונה"
+  },
+  "related": [
+   "m020",
+   "m238"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1408,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 2.0",
+   "url": "https://creativecommons.org/licenses/by/2.0",
+   "kind": "by",
+   "author": "NIAID",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2_-_53827311942.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Novel_Coronavirus_SARS-CoV-2_-_53827311942.jpg",
+   "credit_line": "NIAID, CC BY 2.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m362",
+  "key": "yeast-sem",
+  "title_he": "שמרי אפייה",
+  "title_en": "Baker's yeast, Saccharomyces cerevisiae (SEM)",
+  "category": "microbes",
+  "tags": [
+   "שמרים",
+   "פטריות",
+   "אפייה",
+   "מיקרוסקופ אלקטרונים סורק"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 5e-06,
+   "subject_size_label": "≈ 5 מיקרון",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "קצת יותר קטן מכדורית דם אדומה. בערך 14 תאים כאלה בשורה ישתוו לעובי של שערה"
+  },
+  "text": {
+   "main_he": "אלה תאי שמרים, אותם שמרים שמכניסים לבצק כדי שיתפח. השמרים הם פטריות זעירות שבנויות מתא אחד. הם מתרבים בהנצה: מן התא צומח \"בועה\" קטנה, תא בת, שגדלה ונפרדת ממנו.",
+   "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים סורק (SEM) ונשארה בשחור-לבן. אורכו של תא שמרים הוא בערך 5 מיקרון (מיקרון הוא אלפית המילימטר), ופס קנה המידה בפינה מסמן 5 מיקרון. על כמה תאים רואים גבשושיות קטנות: אלה תאי בת שמתחילים להנץ. הטבעות העגולות על פני התאים הן \"צלקות הנצה\", סימנים שנשארים בדופן התא בכל מקום שממנו נפרד תא בת. לפי מספר הצלקות אפשר לדעת כמה פעמים התא כבר התרבה. בבצק השמרים מפרקים סוכר ומשחררים פחמן דו-חמצני, והבועות של הגז הן שגורמות לבצק לתפוח.",
+   "fun_fact_he": "שמרי האפייה היו היצור הראשון בעל גרעין תא שכל הגנום שלו פוענח, בשנת 1996. יש להם כ-6,000 גנים."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "גרגרי אבקה",
+    "ביצי חרקים",
+    "חיידקי סטפילוקוק"
+   ],
+   "answer_he": "שמרי אפייה"
+  },
+  "related": [
+   "m188",
+   "m396"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1240,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 3.0",
+   "url": "https://creativecommons.org/licenses/by/3.0",
+   "kind": "by",
+   "author": "Mogana Das Murtey and Patchamuthu Ramasamy",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Saccharomyces_cerevisiae_SEM.jpg",
+   "credit_line": "Mogana Das Murtey and Patchamuthu Ramasamy, CC BY 3.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m396",
+  "key": "ecoli-sem",
+  "title_he": "חיידקי E. coli",
+  "title_en": "Escherichia coli bacteria (SEM)",
+  "category": "microbes",
+  "tags": [
+   "חיידקים",
+   "מעיים",
+   "מיקרוסקופ אלקטרונים סורק",
+   "מתג"
+  ],
+  "microscope": "electron",
+  "technique": "sem",
+  "colorized": false,
+  "magnification": "≈ ×15,000",
+  "scale": {
+   "subject_size_m": 2e-06,
+   "subject_size_label": "≈ 2 מיקרון אורך",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 35 חיידקים כאלה, מונחים קצה אל קצה, ישתוו לעובי של שערה אחת"
+  },
+  "text": {
+   "main_he": "אלה חיידקי אי-קולי (E. coli), חיידקים בצורת מקל שחיים במעיים של בני אדם ובעלי חיים. רובם לא מזיקים ואפילו עוזרים לנו. בתנאים טובים במעבדה חיידק כזה מתחלק לשניים בערך כל 20 דקות.",
+   "deep_he": "החיידקים צולמו במיקרוסקופ אלקטרונים סורק (SEM), שמקרין אלומה דקה של אלקטרונים על פני הדגימה ובונה תמונה תלת-ממדית של המשטח. התמונה נשארה בשחור-לבן, כפי שהמיקרוסקופ רואה אותה. כל חיידק ארוך בערך 2 מיקרון (מיקרון הוא אלפית המילימטר) ועבה בערך חצי מיקרון. בפינה התחתונה נראה פס קנה המידה של המכשיר: ×15,000 ו-2 מיקרון. החיידקים גודלו בתרבית במעבדה והוצמדו לזכוכית דקה לפני הצילום. אי-קולי הוא אחד היצורים הנחקרים ביותר במדע, וממנו למדנו הרבה על הגנים ועל האופן שבו תאים מייצרים חלבונים.",
+   "fun_fact_he": "אי-קולי משמש כ\"מפעל\" זעיר: חיידקים שהוכנס להם הגן של אינסולין אנושי מייצרים כבר עשרות שנים אינסולין לחולי סוכרת."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "חיידקי סלמונלה",
+    "חיידקי באצילוס",
+    "חיידקי לקטובצילוס"
+   ],
+   "answer_he": "חיידקי E. coli"
+  },
+  "related": [
+   "m185",
+   "m238",
+   "m157"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1615,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "",
+   "kind": "pd",
+   "author": "NIAID",
+   "source_url": "https://commons.wikimedia.org/wiki/File:E._coli_Bacteria_%287316101966%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/E._coli_Bacteria_%287316101966%29.jpg",
+   "credit_line": "NIAID, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
   "id": "m008",
   "key": "euglena-ehrenbergii",
   "title_he": "אאוגלנה — חצי צמח, חצי חיה",
@@ -536,7 +1095,7 @@
   "pair_id": null,
   "featured": true,
   "width": 1920,
-  "height": 1571,
+  "height": 1492,
   "widths": [
    400,
    1200,
@@ -550,7 +1109,7 @@
    "source_url": "https://commons.wikimedia.org/wiki/File:Actinomma-antarctica_hg.jpg",
    "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Actinomma-antarctica_hg.jpg",
    "credit_line": "Hannes Grobe/AWI, CC BY 3.0, via Wikimedia Commons",
-   "modifications": "Resized, converted to WebP"
+   "modifications": "Cropped (caption/data bar removed), resized, converted to WebP"
   },
   "verified": true
  },
@@ -783,7 +1342,7 @@
   "pair_id": null,
   "featured": false,
   "width": 1920,
-  "height": 1538,
+  "height": 1407,
   "widths": [
    400,
    1200,
@@ -797,7 +1356,7 @@
    "source_url": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_8115_Human_hair_and_Merino_wool_fibre.jpg",
    "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/CSIRO_ScienceImage_8115_Human_hair_and_Merino_wool_fibre.jpg",
    "credit_line": "CSIRO, CC BY 3.0, via Wikimedia Commons",
-   "modifications": "Resized, converted to WebP"
+   "modifications": "Cropped (caption/data bar removed), resized, converted to WebP"
   },
   "verified": true
  },
@@ -1046,6 +1605,503 @@
    "source_url": "https://commons.wikimedia.org/wiki/File:Healthy_Human_T_Cell.jpg",
    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Healthy_Human_T_Cell.jpg",
    "credit_line": "NIAID/NIH, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m079",
+  "key": "hela-mitosis-phase",
+  "title_he": "תאי HeLa מתחלקים",
+  "title_en": "Dividing HeLa cells (phase contrast)",
+  "category": "cells",
+  "tags": [
+   "מיטוזה",
+   "חלוקת תא",
+   "ניגוד פאזה",
+   "תאי HeLa"
+  ],
+  "microscope": "light",
+  "technique": "phase",
+  "colorized": false,
+  "magnification": "≈ ×6,000 (בהדפסה ברוחב 26 ס\"מ)",
+  "scale": {
+   "subject_size_m": 1.5e-05,
+   "subject_size_label": "≈ 15 מיקרון (תא מעוגל בחלוקה)",
+   "field_width_m": 4.3e-05,
+   "pixel_size_m": 2.2395833333333333e-08,
+   "comparison_he": "רוחב התמונה כולה, בערך 43 מיקרון, הוא קצת יותר ממחצית העובי של שערה"
+  },
+  "text": {
+   "main_he": "רוב התאים כאן נחים, ובתוכם רואים גרעין סגלגל. אבל שלושה תאים התעגלו ונראים כמו בועות בהירות: הם באמצע חלוקה. בבועה הגדולה משמאל הכרומוזומים מסודרים בפס אחד, ובשתי הבועות הצמודות מימין תא אחד כמעט סיים להתחלק לשניים.",
+   "deep_he": "התמונה צולמה במיקרוסקופ ניגוד פאזה (phase contrast), שיטה שהופכת הבדלים זעירים בעובי ובצפיפות של חלקי התא להבדלים בבהירות. בזכותה אפשר לראות תאים חיים ושקופים בלי לצבוע אותם. התא המעוגל משמאל נמצא במטאפאזה: הכרומוזומים מסודרים בשורה באמצע התא. שני התאים הצמודים מימין נמצאים בטלופאזה: בכל אחד מהם יש כבר קבוצת כרומוזומים משלו, ורק \"גשר\" דק עדיין מחבר ביניהם. בתאים הנחים רואים בתוך הגרעין כתמים בהירים, הגרעינונים, שבהם התא מרכיב את הריבוזומים. פס קנה המידה מסמן 10 מיקרון (מיקרון הוא אלפית המילימטר).",
+   "fun_fact_he": "תאי HeLa מתחלקים בערך פעם ביום. מאז 1951 גידלו מהם במעבדות ברחבי העולם כמויות עצומות של תאים, שכולם צאצאים של תאים מאישה אחת, הנרייטה לאקס."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "תאי לחי בצביעה",
+    "תאי שמרים מנצים",
+    "ביצית מופרית מתחלקת"
+   ],
+   "answer_he": "תאי HeLa מתחלקים"
+  },
+  "related": [
+   "m258",
+   "m321",
+   "m169"
+  ],
+  "pair_id": "mitosis",
+  "featured": false,
+  "width": 1920,
+  "height": 1229,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 3.0",
+   "url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "kind": "by-sa",
+   "author": "Doc. RNDr. Josef Reischig, CSc.",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Cell_culture_%28HeLa_cells%29_%28261_18%29_Cell_culture_%28HeLa_cells%29_-_metaphase%2C_telophase.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cell_culture_%28HeLa_cells%29_%28261_18%29_Cell_culture_%28HeLa_cells%29_-_metaphase%2C_telophase.jpg",
+   "credit_line": "Doc. RNDr. Josef Reischig, CSc., CC BY-SA 3.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m169",
+  "key": "hela-cytoskeleton",
+  "title_he": "שלד התא בתאי HeLa",
+  "title_en": "HeLa cells: microtubules, mitochondria and nucleoli",
+  "category": "cells",
+  "tags": [
+   "שלד התא",
+   "מיקרוטובולים",
+   "פלואורסצנציה",
+   "תאי HeLa"
+  ],
+  "microscope": "light",
+  "technique": "fluorescence",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 3e-05,
+   "subject_size_label": "≈ 20–40 מיקרון לתא",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "תא אחד כזה ברוחב של בערך חצי שערה"
+  },
+  "text": {
+   "main_he": "כל כתם סגול הוא גרעין של תא, וסביבו רשת ירוקה של סיבים דקים: שלד התא. הנקודות הצהובות הן המיטוכונדריות, \"תחנות הכוח\" של התא, והנקודות האדומות בתוך הגרעינים הן הגרעינונים. הצבעים זוהרים כי כל חלק בתא סומן בחומר זוהר אחר.",
+   "deep_he": "בשיטת הפלואורסצנציה מצמידים לחלקים שונים בתא נוגדנים, חלבונים שמזהים מטרה אחת בדיוק, ועליהם מולקולות זוהרות. כשמאירים את הדגימה באור בצבע מסוים, כל מולקולה זוהרת בצבע משלה, והמיקרוסקופ קולט את האור הזה. כאן סומנו המיקרוטובולים (צינוריות חלבון שמרכיבות את שלד התא) בירוק, המיטוכונדריות בצהוב, הגרעינונים באדום וה-DNA בסגול. המיקרוטובולים משמשים גם כ\"מסילות\" שעליהן חלבונים מוטוריים מובילים מטענים בתוך התא. תאי HeLa הם תאים אנושיים שמגדלים במעבדות מאז שנת 1951, והם תאי האדם הנפוצים ביותר במחקר.",
+   "fun_fact_he": "קוטר של מיקרוטובול הוא רק כ-25 ננומטר, כלומר אלפי מונים דק משערה, ובכל זאת בזכות הזוהר אפשר לראות אותו במיקרוסקופ אור."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "רקמת עלה בצביעה",
+    "מושבת חיידקים זוהרת",
+    "תאי עצב במוח"
+   ],
+   "answer_he": "שלד התא בתאי HeLa"
+  },
+  "related": [
+   "m237",
+   "m280",
+   "m079"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1925,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "GerryShaw",
+   "source_url": "https://commons.wikimedia.org/wiki/File:HeLa-Tubulin-HSP60-Fibrillarin-DNA.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/HeLa-Tubulin-HSP60-Fibrillarin-DNA.jpg",
+   "credit_line": "GerryShaw, CC BY-SA 4.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m209",
+  "key": "b-cell-tem",
+  "title_he": "מבט לתוך תא B",
+  "title_en": "Human B lymphocyte (TEM)",
+  "category": "cells",
+  "tags": [
+   "אברונים",
+   "מיטוכונדריה",
+   "גרעין התא",
+   "מיקרוסקופ אלקטרונים חודר"
+  ],
+  "microscope": "electron",
+  "technique": "tem",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 7e-06,
+   "subject_size_label": "≈ 7 מיקרון",
+   "field_width_m": 7.4e-06,
+   "pixel_size_m": 3.8541666666666664e-09,
+   "comparison_he": "בערך בגודל של כדורית דם אדומה. כ-10 תאים כאלה בשורה ישתוו לעובי של שערה"
+  },
+  "text": {
+   "main_he": "זו \"פרוסה\" דקה מאוד דרך תא B, תא של מערכת החיסון שמייצר נוגדנים. את רוב התא ממלא הגרעין הגדול והכהה. מתחתיו רואים כמה גופים מוארכים עם פסים בפנים: אלה המיטוכונדריות, שמייצרות לתא אנרגיה.",
+   "deep_he": "במיקרוסקופ אלקטרונים חודר (TEM) אלומת אלקטרונים עוברת דרך פרוסה דקה של תא, דקה בהרבה מהתא עצמו, ולכן רואים את התא \"מבפנים\" ולא את פני השטח שלו. הגוונים החומים והירקרקים נוספו לתמונה אחר כך: המיקרוסקופ עצמו רואה רק גוונים של אפור. בתוך הגרעין רואים אזורים כהים ובהירים, שהם DNA ארוז בצפיפות שונה. בתוך כל מיטוכונדריה בולטים קפלים של קרום פנימי, הקריסטות, שעליהם מתבצע ייצור האנרגיה. ליד המיטוכונדריות רואים גם שקיקים ושלפוחיות קטנות, שבהם התא ממיין ואורז חלבונים. פס קנה המידה בתחתית מסמן 500 ננומטר, חצי מיקרון.",
+   "fun_fact_he": "למיטוכונדריות יש DNA משלהן, נפרד מה-DNA שבגרעין. זה רמז לכך שלפני כשני מיליארד שנה הן היו חיידקים שחיו בתוך תא אחר."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "תא שמרים בחתך",
+    "חיידק בחתך",
+    "תא צמח בחתך"
+   ],
+   "answer_he": "מבט לתוך תא B"
+  },
+  "related": [
+   "m256",
+   "m237",
+   "m280"
+  ],
+  "pair_id": "mitochondria",
+  "featured": false,
+  "width": 1920,
+  "height": 1912,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 2.0",
+   "url": "https://creativecommons.org/licenses/by/2.0",
+   "kind": "by",
+   "author": "NIAID",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Human_B_Lymphocyte_%2828942386960%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Human_B_Lymphocyte_%2828942386960%29.jpg",
+   "credit_line": "NIAID, CC BY 2.0, via Wikimedia Commons",
+   "modifications": "Cropped (caption/data bar removed), resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m237",
+  "key": "fibroblast-actin-mito",
+  "title_he": "תאי פיברובלסט בפלואורסצנציה",
+  "title_en": "Mouse fibroblasts: nuclei, mitochondria and actin",
+  "category": "cells",
+  "tags": [
+   "שלד התא",
+   "אקטין",
+   "מיטוכונדריה",
+   "פלואורסצנציה"
+  ],
+  "microscope": "light",
+  "technique": "fluorescence",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 5e-05,
+   "subject_size_label": "≈ עשרות מיקרונים לתא",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "תא כזה, כשהוא פרוש על משטח, קרוב לעובי של שערה"
+  },
+  "text": {
+   "main_he": "שלושה תאים של עכבר, שנקראים פיברובלסטים. הסיבים האדומים הם חלק משלד התא, שנותן לתא את צורתו ועוזר לו לזחול. החוטים הירוקים המפותלים הם מיטוכונדריות, והאזור הכחול הוא הגרעין, שבו נמצא ה-DNA.",
+   "deep_he": "פיברובלסטים הם מהתאים הנפוצים ביותר ברקמת החיבור של יונקים. הם מייצרים קולגן ועוזרים לסגור פצעים. בתמונה סומנו שלושה חלקים בשלושה צבעים זוהרים: סיבי האקטין באדום, המיטוכונדריות בירוק וה-DNA בכחול. סיבי האקטין מתארגנים בצרורות ארוכים (\"סיבי מתח\") שמושכים את התא ומעגנים אותו למשטח, ובשוליים הם יוצרים קצוות דקים שבעזרתם התא \"מגשש\" ונע. שימו לב שהמיטוכונדריות כאן אינן גלולות קטנות כמו בציורים בספרים, אלא רשת של חוטים שמתחברים ומתפצלים כל הזמן. התמונה הוצגה בתערוכה \"החיים בהגדלה\" של המכונים הלאומיים לבריאות בארצות הברית.",
+   "fun_fact_he": "כשנחתכים בעור, פיברובלסטים זוחלים אל הפצע ובונים בו רקמה חדשה. חלק מהם אף מתכווצים ומקרבים את שולי הפצע זה לזה."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "תאי HeLa בפלואורסצנציה",
+    "תאי עצב זוהרים",
+    "תאי שריר בצביעה"
+   ],
+   "answer_he": "תאי פיברובלסט בפלואורסצנציה"
+  },
+  "related": [
+   "m169",
+   "m256",
+   "m209"
+  ],
+  "pair_id": "mitochondria",
+  "featured": false,
+  "width": 1920,
+  "height": 2117,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY 2.0",
+   "url": "https://creativecommons.org/licenses/by/2.0",
+   "kind": "by",
+   "author": "NICHD",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Cells_with_nuclei_in_blue%2C_mitochondria_in_green%2C_and_the_actin_cytoskeleton_in_red_%2819124186316%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Cells_with_nuclei_in_blue%2C_mitochondria_in_green%2C_and_the_actin_cytoskeleton_in_red_%2819124186316%29.jpg",
+   "credit_line": "NICHD, CC BY 2.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m256",
+  "key": "mitochondria-tem",
+  "title_he": "מיטוכונדריות נפוחות",
+  "title_en": "Abnormal mitochondria in mouse liver (TEM)",
+  "category": "cells",
+  "tags": [
+   "מיטוכונדריה",
+   "אברונים",
+   "מחקר רפואי",
+   "צבע מלאכותי"
+  ],
+  "microscope": "electron",
+  "technique": "tem",
+  "colorized": true,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 1e-06,
+   "subject_size_label": "≈ 1 מיקרון ויותר",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 70 מיטוכונדריות כאלה בשורה ישתוו לעובי של שערה"
+  },
+  "text": {
+   "main_he": "הגופים העגולים והצהבהבים הם מיטוכונדריות, \"תחנות הכוח\" של התא, בתא כבד של עכבר. אבל הן לא נראות כרגיל: הן נפוחות מאוד, וחסרים בהן הקפלים הפנימיים המסודרים. החוקרים צילמו אותן כדי להבין מחלה תורשתית נדירה.",
+   "deep_he": "בתא בריא מיטוכונדריה נראית כמו גלולה מוארכת, ובתוכה קפלים צפופים של קרום פנימי שנקראים קריסטות. על הקפלים האלה מתבצע ייצור האנרגיה של התא. בתמונה הזו, מכבד של עכבר שמשמש מודל למחלה בשם חמצת מתילמלונית, המיטוכונדריות גדולות ועגולות, והחומר שבתוכן פזור ולא מסודר. התמונה צולמה במיקרוסקופ אלקטרונים חודר (TEM) דרך פרוסה דקה מאוד של רקמה, והצבעים נוספו אחר כך במחשב: המיקרוסקופ עצמו רואה רק גוונים של אפור. השוואה בין מיטוכונדריות בריאות לחולות עוזרת לרופאים להבין איך המחלה פוגעת באיברים ואיך לעקוב אחריה.",
+   "fun_fact_he": "בתא כבד אחד יכולות להיות יותר מ-2,000 מיטוכונדריות."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "תאי שמרים בחתך",
+    "גרגרי עמילן בתא",
+    "חיידקים בתוך תא"
+   ],
+   "answer_he": "מיטוכונדריות נפוחות"
+  },
+  "related": [
+   "m209",
+   "m237"
+  ],
+  "pair_id": "mitochondria",
+  "featured": false,
+  "width": 1920,
+  "height": 1258,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "kind": "pd",
+   "author": "NIH Image Gallery from Bethesda, Maryland, USA",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Abnormal_Mouse_Mitochondria_%2844402464170%29.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Abnormal_Mouse_Mitochondria_%2844402464170%29.jpg",
+   "credit_line": "NIH Image Gallery from Bethesda, Maryland, USA, Public domain, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m258",
+  "key": "onion-root-mitosis",
+  "title_he": "חלוקת תאים בשורש בצל",
+  "title_en": "Mitosis in onion root tip cells",
+  "category": "cells",
+  "tags": [
+   "מיטוזה",
+   "חלוקת תא",
+   "כרומוזומים",
+   "צמחים"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 2e-05,
+   "subject_size_label": "≈ 20 מיקרון לתא",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "בערך 3 תאים כאלה בשורה ישתוו לעובי של שערה"
+  },
+  "text": {
+   "main_he": "אלה תאים מקצה של שורש בצל, המקום שבו השורש גדל הכי מהר. בכל תא רואים את הגרעין בצבע חום-אדום, ובחלק מהתאים הוא באמצע חלוקה. אפשר לזהות חוטים קצרים ועבים, הכרומוזומים, שמסתדרים ונפרדים לשני תאים חדשים.",
+   "deep_he": "חלוקת תא רגילה נקראת מיטוזה, ובה תא אחד הופך לשני תאים עם אותו חומר תורשתי בדיוק. בתמונה אפשר למצוא את כל השלבים: בפרופאזה הכרומוזומים מתעבים ונראים כמו פקעת חוטים; במטאפאזה הם מסתדרים בשורה באמצע התא; באנפאזה כל כרומוזום נחצה ושני החצאים נמשכים לקצוות; ובטלופאזה נוצרים שני גרעינים, ומחיצה חדשה מפרידה בין התאים. כדי להכין את הדגימה מועכים קצה שורש על זכוכית וצובעים אותו בצבע (אצטוקרמין) שנקשר ל-DNA, ואז מתבוננים במיקרוסקופ אור רגיל. בצל הוא דגימה אהובה בבתי ספר, כי לתאים שלו יש מעט כרומוזומים יחסית, והם גדולים וקלים לראות.",
+   "fun_fact_he": "לבצל יש 16 כרומוזומים בכל תא, אבל כמות ה-DNA שלו גדולה בערך פי 5 משל האדם."
+  },
+  "quiz": {
+   "difficulty": "easy",
+   "distractors_he": [
+    "תאי עור של צפרדע",
+    "תאי לחי צבועים",
+    "מושבת שמרים"
+   ],
+   "answer_he": "חלוקת תאים בשורש בצל"
+  },
+  "related": [
+   "m079",
+   "m321"
+  ],
+  "pair_id": "mitosis",
+  "featured": false,
+  "width": 960,
+  "height": 984,
+  "widths": [
+   400
+  ],
+  "license": {
+   "name": "CC BY-SA 3.0",
+   "url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "kind": "by-sa",
+   "author": "staticd",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Onion_root_mitosis.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Onion_root_mitosis.jpg",
+   "credit_line": "staticd, CC BY-SA 3.0, via Wikimedia Commons",
+   "modifications": "Resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m280",
+  "key": "cilia-cross-section",
+  "title_he": "חתך רוחב של ריסים",
+  "title_en": "Cilia in cross-section, 9+2 axoneme (TEM)",
+  "category": "cells",
+  "tags": [
+   "ריסים",
+   "מיקרוטובולים",
+   "שלד התא",
+   "מיקרוסקופ אלקטרונים חודר"
+  ],
+  "microscope": "electron",
+  "technique": "tem",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 2.5e-07,
+   "subject_size_label": "≈ 250 ננומטר קוטר",
+   "field_width_m": 6e-07,
+   "pixel_size_m": 4.6875e-10,
+   "comparison_he": "בערך 280 ריסים כאלה, זה לצד זה, ישתוו לעובי של שערה"
+  },
+  "text": {
+   "main_he": "אלה ריסים מדרכי הנשימה של יונק, חתוכים לרוחב כמו פרוסות של נקניק. בכל ריס רואים טבעת של 9 זוגות צינוריות, ובמרכז עוד שתיים. הריסים מכים כל הזמן כמו משוטים, ומסלקים ריר ואבק מהריאות.",
+   "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים חודר (TEM) בהגדלה גבוהה מאוד, ונשארה בשחור-לבן. הצינוריות הן מיקרוטובולים, אותם סיבים שבונים את שלד התא, וקוטר כל אחת מהן הוא כ-25 ננומטר בלבד (ננומטר הוא מיליונית המילימטר). הסידור הקבוע הזה נקרא \"9+2\": תשעה זוגות בהיקף ושתי צינוריות בודדות במרכז. מכל זוג בולטות \"זרועות\" קטנות של חלבון מוטורי בשם דיינאין, שמושך את הזוג השכן, וכך הריס כולו מתכופף. פס קנה המידה הזעיר בפינה השמאלית התחתונה מסמן 25 ננומטר, כקוטר של מיקרוטובול אחד. אותו מבנה בדיוק נמצא גם בזנב של תא זרע ובשוטונים של חד-תאיים.",
+   "fun_fact_he": "מבנה ה-9+2 כמעט זהה אצל יצורים רחוקים מאוד זה מזה, מאצות חד-תאיות ועד בני אדם, כי הוא התפתח כבר באב הקדמון המשותף של כל בעלי הגרעין."
+  },
+  "quiz": {
+   "difficulty": "expert",
+   "distractors_he": [
+    "חתך של סיב עצב",
+    "נגיפים בתוך תא",
+    "חתך של חיידקים"
+   ],
+   "answer_he": "חתך רוחב של ריסים"
+  },
+  "related": [
+   "m169",
+   "m209"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1280,
+  "height": 1000,
+  "widths": [
+   400,
+   1200
+  ],
+  "license": {
+   "name": "Public domain",
+   "url": "",
+   "kind": "pd",
+   "author": "Louisa Howard, Michael Binder",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Bronchiolar_area_cilia_cross-sections_2.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bronchiolar_area_cilia_cross-sections_2.jpg",
+   "credit_line": "Louisa Howard, Michael Binder, Public domain, via Wikimedia Commons",
+   "modifications": "Cropped (caption/data bar removed), resized, converted to WebP"
+  },
+  "verified": true
+ },
+ {
+  "id": "m321",
+  "key": "metaphase-chromosomes",
+  "title_he": "כרומוזומים של אדם",
+  "title_en": "Human metaphase chromosome spread",
+  "category": "cells",
+  "tags": [
+   "כרומוזומים",
+   "DNA",
+   "מיטוזה",
+   "גנטיקה"
+  ],
+  "microscope": "light",
+  "technique": "brightfield",
+  "colorized": false,
+  "magnification": null,
+  "scale": {
+   "subject_size_m": 5e-06,
+   "subject_size_label": "≈ 2–10 מיקרון לכרומוזום",
+   "field_width_m": null,
+   "pixel_size_m": null,
+   "comparison_he": "גם הכרומוזום הארוך ביותר קצר בערך פי 7 מעובי של שערה"
+  },
+  "text": {
+   "main_he": "המקלונים הסגולים הקטנים הם כרומוזומים של אדם, \"חבילות\" שבהן ארוז ה-DNA. בדרך כלל הם פרושים בגרעין כמו חוטים דקים מאוד, אבל רגע לפני שהתא מתחלק הם מתכווצים ונעשים עבים מספיק כדי לראות אותם. בכל תא בגוף שלנו יש 46 כרומוזומים.",
+   "deep_he": "התמונה צולמה בטלפון דרך העינית של מיקרוסקופ אור. כדי להכין \"פריסת כרומוזומים\" כזו, מגדלים תאי דם לבנים (לימפוציטים), עוצרים אותם באמצע החלוקה, בשלב שנקרא מטאפאזה, וגורמים להם להתפוצץ על זכוכית. כך הכרומוזומים מתפזרים ואפשר לספור אותם. כאן רואים שתי קבוצות של כרומוזומים משני תאים, ובצדדים גרעינים שלמים של תאים שלא התחלקו. כל כרומוזום במטאפאזה בנוי משתי \"תאומות\" זהות, הכרומטידות, שמחוברות במרכז. אורכם נע בין כ-2 לכ-10 מיקרון (מיקרון הוא אלפית המילימטר). בבתי חולים משתמשים בשיטה הזו כדי לבדוק אם יש כרומוזום חסר או עודף.",
+   "fun_fact_he": "אם היו פורשים את כל ה-DNA מתא אחד שלנו לחוט אחד, הוא היה ארוך בערך 2 מטרים, והכול ארוז בגרעין שקוטרו כמה מיקרונים בלבד."
+  },
+  "quiz": {
+   "difficulty": "medium",
+   "distractors_he": [
+    "חיידקים בצביעת גרם",
+    "סיבי שריר בצביעה",
+    "גבישי מלח זעירים"
+   ],
+   "answer_he": "כרומוזומים של אדם"
+  },
+  "related": [
+   "m258",
+   "m079"
+  ],
+  "pair_id": null,
+  "featured": false,
+  "width": 1920,
+  "height": 1440,
+  "widths": [
+   400,
+   1200,
+   1920
+  ],
+  "license": {
+   "name": "CC BY-SA 4.0",
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "kind": "by-sa",
+   "author": "BaraahAltarayra",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Metaphase1.jpg",
+   "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Metaphase1.jpg",
+   "credit_line": "BaraahAltarayra, CC BY-SA 4.0, via Wikimedia Commons",
    "modifications": "Resized, converted to WebP"
   },
   "verified": true
@@ -1712,7 +2768,7 @@
   "pair_id": null,
   "featured": true,
   "width": 1280,
-  "height": 1022,
+  "height": 991,
   "widths": [
    400,
    1200
@@ -1725,7 +2781,7 @@
    "source_url": "https://commons.wikimedia.org/wiki/File:Drosophilidae_compound_eye_edit1.jpg",
    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Drosophilidae_compound_eye_edit1.jpg",
    "credit_line": "Louisa Howard, Dartmouth Electron Microscope Facility, Public domain, via Wikimedia Commons",
-   "modifications": "Resized, converted to WebP"
+   "modifications": "Cropped (caption/data bar removed), resized, converted to WebP"
   },
   "verified": true
  },
@@ -3259,7 +4315,7 @@
   "pair_id": "velcro",
   "featured": false,
   "width": 1920,
-  "height": 1440,
+  "height": 1267,
   "widths": [
    400,
    1200,
@@ -3273,7 +4329,7 @@
    "source_url": "https://commons.wikimedia.org/wiki/File:Velcro_-_SEM_MUSE.tif",
    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Velcro_-_SEM_MUSE.tif",
    "credit_line": "Nicola Angeli / MUSE – Science Museum of Trento, CC BY-SA 3.0, via Wikimedia Commons",
-   "modifications": "Resized, converted to WebP"
+   "modifications": "Cropped (caption/data bar removed), resized, converted to WebP"
   },
   "verified": true
  },
@@ -3506,8 +4562,8 @@
   ],
   "pair_id": null,
   "featured": false,
-  "width": 960,
-  "height": 1610,
+  "width": 1105,
+  "height": 1853,
   "widths": [
    400
   ],

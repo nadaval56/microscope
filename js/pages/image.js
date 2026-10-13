@@ -226,9 +226,9 @@ async function main() {
           </dl>
         </div>
         ${sizeComparison(img)}
-        ${pairs.length ? `<div class="info-card"><h2>${icon('split')} אותו נושא, מיקרוסקופ אחר</h2>
+        ${pairs.length ? `<div class="info-card"><h2>${icon('split')} ${pairs.every((p) => p.microscope === img.microscope) ? 'אותו נושא, טכניקה אחרת' : 'אותו נושא, מיקרוסקופ אחר'}</h2>
           <p style="margin:0">${pairs.map((p) => `<a href="image.html?id=${p.id}${dev}">${esc(p.title_he)}</a> (${esc(MICROSCOPE[p.microscope]?.short || '')})`).join(' · ')}
-          · <a href="microscopes.html${DEV ? '?dev=1' : ''}#pairs">להשוואה עם סליידר</a></p></div>` : ''}
+          ${pairs.some((p) => p.microscope !== img.microscope) ? `· <a href="microscopes.html${DEV ? '?dev=1' : ''}#pairs">להשוואה עם סליידר</a>` : ''}</p></div>` : ''}
         <div class="pager">
           <a class="btn btn-sm" href="image.html?id=${prev.id}${dev}" rel="prev">${icon('chevronR')} הקודמת</a>
           <a class="btn btn-sm" href="image.html?id=${next.id}${dev}" rel="next">הבאה ${icon('chevronL')}</a>

@@ -60,5 +60,22 @@
   "tobacco-leaf-sem": "m066",
   "volvox": "m018",
   "vorticella-green": "m306",
-  "woody-stem-section": "m147"
+  "woody-stem-section": "m147",
+  "anabaena-heterocyst": "m268",
+  "b-cell-tem": "m209",
+  "bacillus-gram": "m157",
+  "cilia-cross-section": "m280",
+  "ebola-tem": "m020",
+  "ecoli-sem": "m396",
+  "fibroblast-actin-mito": "m237",
+  "gram-stain-mixed": "m185",
+  "hela-cytoskeleton": "m169",
+  "hela-mitosis-phase": "m079",
+  "metaphase-chromosomes": "m321",
+  "mitochondria-tem": "m256",
+  "mrsa-sem": "m188",
+  "onion-root-mitosis": "m258",
+  "phage-t2-tem": "m238",
+  "sars-cov-2-tem": "m279",
+  "yeast-sem": "m362"
 }

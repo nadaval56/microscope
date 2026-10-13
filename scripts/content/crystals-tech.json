@@ -1,887 +1,890 @@
 [
- {
-  "key": "vitamin-c-polarized",
-  "commons_file": "File:Wheel - vitamin C.jpg",
-  "category": "crystals",
-  "title_he": "גבישי ויטמין C באור מקוטב",
-  "title_en": "Vitamin C crystals in polarized light",
-  "tags": [
-   "גבישים",
-   "ויטמין C",
-   "אור מקוטב",
-   "כימיה"
-  ],
-  "microscope": "light",
-  "technique": "polarized",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 0.0003,
-   "subject_size_label": "≈ 0.3 מ\"מ (הערכה)",
-   "field_width_m": null,
-   "comparison_he": "בערך 4 עוביי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "זה לא ציור מופשט: אלה גבישים של ויטמין C, אותו ויטמין שיש בתפוזים. טיפה של תמיסה התייבשה על זכוכית, והגבישים צמחו ממרכזים קטנים החוצה לכל הכיוונים, כמו חישורים של גלגל. הצבעים לא נמצאים בגביש עצמו. הם נוצרים כשאור מקוטב עובר דרכו.",
-   "deep_he": "אור מקוטב הוא אור שגליו רוטטים בכיוון אחד בלבד. במיקרוסקופ מקטב שמים מסנן מקטב אחד מתחת לדגימה ומסנן שני מעליה, מסובב ב-90 מעלות, כך שבלי דגימה השדה נראה שחור. גביש של ויטמין C (חומצה אסקורבית) הוא חומר 'שובר-אור כפול': הוא מפצל את האור לשתי קרניים שנעות בו במהירויות שונות. כשהקרניים מתאחדות שוב הן מחזקות צבעים מסוימים ומבטלות אחרים, והתוצאה היא צבעי התאבכות, כמו בבועת סבון. הצורה העגולה עם הקרניים נקראת ספרוליט: גבישים דקיקים שצמחו מנקודה אחת החוצה. עובי הגביש והכיוון שלו קובעים איזה צבע נראה בכל מקום.",
-   "fun_fact_he": "ויטמין C מתפרק בחום ובאור, ולכן מיץ תפוזים שעומד זמן רב פתוח מאבד חלק מהוויטמין שבו."
-  },
-  "quiz": {
-   "difficulty": "medium",
-   "distractors_he": [
-    "גבישי סוכר",
-    "גבישי מלח",
-    "שכבת שמן על מים"
-   ],
-   "answer_he": "גבישי ויטמין C"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "salt-rheinberg",
-   "moon-rock-thin-section"
-  ],
-  "license_seen": {
-   "name": "CC BY 4.0",
-   "url": "https://creativecommons.org/licenses/by/4.0/",
-   "author": "PW31",
-   "credit_line": "PW31, CC BY 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons description by PW31 (polarized light microscopy of vitamin C). Size of spherulite not stated by source: 0.3 mm is an estimate, label marked הערכה. Birefringence/interference colours: standard polarized-light microscopy (e.g. https://www.microscopyu.com/techniques/polarized-light). Vitamin C heat/light degradation: https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
- },
- {
-  "key": "salt-rheinberg",
-  "commons_file": "File:Kitchen salt crystals.jpg",
-  "category": "crystals",
-  "title_he": "גבישי מלח בישול",
-  "title_en": "Table salt crystals",
-  "tags": [
-   "מלח",
-   "גבישים",
-   "קוביות",
-   "מטבח"
-  ],
-  "microscope": "light",
-  "technique": "darkfield",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 0.0004,
-   "subject_size_label": "≈ 0.4 מ\"מ",
-   "field_width_m": null,
-   "comparison_he": "בערך 6 עוביי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "אלה גרגרים של מלח רגיל מהמטבח. מקרוב רואים שכמעט כל גרגר הוא קובייה קטנה, עם פינות מעט מעוגלות. הצבע הכחול והצהוב מגיע ממסננים צבעוניים שהוכנסו למיקרוסקופ, לא מהמלח.",
-   "deep_he": "מלח בישול הוא נתרן כלורי (NaCl). בתוכו יוני נתרן ויוני כלור מסודרים לסירוגין בסריג קובייתי, כמו לוח שחמט תלת-ממדי, ולכן הגביש כולו גדל בצורת קובייה. התמונה צולמה בתאורת ריינברג, שיטה שהמציא הבריטי ג'וליוס ריינברג בסוף המאה ה-19: מסנן צבעוני בצורת טבעת מאיר את הגבישים מהצדדים, ומסנן בצבע אחר צובע את הרקע. זו גרסה צבעונית של 'שדה אפל', שבו רואים רק את האור שהעצם מפזר. הפינות המעוגלות נוצרות כשהגרגרים מתחככים זה בזה במפעל ובקופסה.",
-   "fun_fact_he": "המרחק בין יון נתרן ליון כלור שכן בגביש מלח הוא בערך 0.28 ננומטר, כלומר בגרגר אחד בגודל חצי מילימטר יש יותר ממיליון 'קומות' של יונים מצד לצד."
-  },
-  "quiz": {
-   "difficulty": "easy",
-   "distractors_he": [
-    "גבישי סוכר",
-    "קוביות קרח",
-    "גרגרי חול"
-   ],
-   "answer_he": "גבישי מלח"
-  },
-  "pair_id": "salt",
-  "related_keys": [
-   "salt-sem",
-   "vitamin-c-polarized"
-  ],
-  "license_seen": {
-   "name": "CC BY 4.0",
-   "url": "https://creativecommons.org/licenses/by/4.0/",
-   "author": "Misiek1962",
-   "credit_line": "Misiek1962, CC BY 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons description: kitchen salt crystals in Rheinberg illumination. Rheinberg illumination: https://www.microscopyu.com/techniques/stereomicroscopy/rheinberg-illumination (Julius Rheinberg, 1896). NaCl nearest-neighbour distance ≈ 0.282 nm (lattice constant 0.564 nm). 0.5 mm / 0.28 nm ≈ 1.8 million. Grain size ≈ 0.3–0.5 mm typical table salt (estimate)."
- },
- {
-  "key": "salt-sem",
-  "commons_file": "File:Salt2.JPG",
-  "category": "crystals",
-  "title_he": "גרגר מלח במיקרוסקופ אלקטרונים",
-  "title_en": "Grain of table salt (SEM)",
-  "tags": [
-   "מלח",
-   "גבישים",
-   "מיקרוסקופ אלקטרונים",
-   "מטבח"
-  ],
-  "microscope": "electron",
-  "technique": "sem",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 0.0005,
-   "subject_size_label": "≈ 0.5 מ\"מ",
-   "field_width_m": 0.00061,
-   "comparison_he": "בערך 7 עוביי שערה"
-  },
-  "magnification": "≈ ×156",
-  "text": {
-   "main_he": "גרגר מלח אחד, מוגדל פי 150 בערך במיקרוסקופ אלקטרונים סורק. רואים בבירור את צורת הקובייה, אבל גם שהפאות לא חלקות לגמרי: יש עליהן קמטים, שקעים ופירורים קטנים.",
-   "deep_he": "מיקרוסקופ אלקטרונים סורק (SEM) לא משתמש באור אלא בקרן דקה של אלקטרונים, שעוברת על פני הדגימה שורה אחר שורה. גלאי אוסף אלקטרונים שניתזים מהשטח, ומחשב בונה מהם תמונה בשחור-לבן עם תחושת עומק חזקה. לכן הגרגר נראה כמו פסל ולא כמו צל שקוף, כפי שהוא נראה במיקרוסקופ אור. הקו הלבן בפינה מסמן 100 מיקרון (מיקרון הוא אלפית המילימטר), ולפיו הגרגר כולו רחב בערך חצי מילימטר. הפינות המעוגלות והמשטח המחוספס הם תוצאה של התגבשות מהירה ושל שחיקה בזמן הייצור והאריזה.",
-   "fun_fact_he": "במיקרוסקופ אלקטרונים חייבים לעבוד בריק, כי אלקטרונים נבלמים במהירות במולקולות של אוויר."
-  },
-  "quiz": {
-   "difficulty": "medium",
-   "distractors_he": [
-    "גרגר סוכר",
-    "קוביית סוכר",
-    "גרגר חול"
-   ],
-   "answer_he": "גרגר מלח"
-  },
-  "pair_id": "salt",
-  "related_keys": [
-   "salt-rheinberg",
-   "snowflake-sem"
-  ],
-  "license_seen": {
-   "name": "Public domain",
-   "url": "https://en.wikipedia.org/wiki/Public_domain",
-   "author": "Chhe (English Wikipedia user)",
-   "credit_line": "Chhe, Public domain, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'An image of a grain of table salt taken with a scanning electron microscope', PD-user-en Chhe. Uncropped version File:Single grain of table salt (electron micrograph).jpg shows Mag = 156 X, 100 µm scale bar. Field width derived from scale bar: bar ≈157/960 px = 100 µm → ≈ 0.61 mm. Note: only 866 px wide."
- },
- {
-  "key": "snowflake-sem",
-  "commons_file": "File:Snowflake 300um LTSEM.jpg",
-  "category": "crystals",
-  "title_he": "פתית שלג במיקרוסקופ אלקטרונים",
-  "title_en": "Snowflake (low-temperature SEM)",
-  "tags": [
-   "שלג",
-   "קרח",
-   "גבישים",
-   "מיקרוסקופ אלקטרונים",
-   "סימטריה"
-  ],
-  "microscope": "electron",
-  "technique": "sem",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 0.0006,
-   "subject_size_label": "≈ 0.6 מ\"מ",
-   "field_width_m": 0.00105,
-   "comparison_he": "בערך 8–9 עוביי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "פתית שלג קטן עם שש זרועות, מצולם במיקרוסקופ אלקטרונים. כדי שלא יימס, הוא הוקפא לטמפרטורה של יותר מ-170 מעלות מתחת לאפס. רואים על הזרועות פסים, חריצים ונקודות קטנות של כפור.",
-   "deep_he": "הקרח בנוי מסריג משושה של מולקולות מים, ולכן כמעט כל פתית שלג מראה סימטריה של שש. את הדגימה הזו צילמה יחידת המיקרוסקופיה של משרד החקלאות האמריקאי (USDA) במיקרוסקופ אלקטרונים סורק בטמפרטורה נמוכה (LT-SEM). לפי היחידה, הדגימות מוחזקות מתחת ל-170- מעלות צלזיוס, וכך אפשר להכניס אותן לריק ולצלם אותן שעות בלי שישתנו. במיקרוסקופ אור הפתית עלול להימס מחום התאורה, ובנוסף העומק החד מוגבל. הקו בפינה מסמן 300 מיקרון, ולכן הפתית כולו רחב בערך 0.6 מילימטר: פתית קטן יחסית. הנקודות הבולטות על פני הזרועות הן טיפות מים קפואות זעירות שנדבקו אליו.",
-   "fun_fact_he": "קרח שקוף כמו זכוכית, ובכל זאת שלג נראה לבן: האור פוגע באינספור פאות של גבישים קטנים ומתפזר לכל הכיוונים."
-  },
-  "quiz": {
-   "difficulty": "easy",
-   "distractors_he": [
-    "גביש מלח",
-    "פרח מאובן",
-    "גרגר אבקה"
-   ],
-   "answer_he": "פתית שלג"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "salt-sem",
-   "sand-grains"
-  ],
-  "license_seen": {
-   "name": "Public domain",
-   "url": "https://en.wikipedia.org/wiki/Public_domain",
-   "author": "USDA Agricultural Research Service, Beltsville Electron and Confocal Microscopy Unit",
-   "credit_line": "USDA-ARS Electron and Confocal Microscopy Unit, Public domain, via Wikimedia Commons"
-  },
-  "source_note": "Commons description quotes USDA ARS EMU snow page (archived http://www.anri.barc.usda.gov/emusnow/4100/4100.htm): samples frozen below -170 °C, LT-SEM; scale bar 300 µm. Field width from bar: 273/960 px = 300 µm → ≈1.05 mm; flake spans ≈ 540 px → ≈0.6 mm. Rime droplets: sibling image 13368 description mentions rime."
- },
- {
-  "key": "sand-grains",
-  "commons_file": "File:Sand Australia Gold Coast.jpg",
-  "category": "crystals",
-  "title_he": "גרגרי חול מחוף בגולד קוסט",
-  "title_en": "Sand grains from Gold Coast, Australia",
-  "tags": [
-   "חול",
-   "מינרלים",
-   "קוורץ",
-   "חוף"
-  ],
-  "microscope": "light",
-  "technique": "stereo",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 0.0003,
-   "subject_size_label": "≈ 0.3 מ\"מ (בערך)",
-   "field_width_m": null,
-   "comparison_he": "בערך 4 עוביי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "חופן קטן של חול מחוף באוסטרליה. מקרוב כל גרגר הוא אבן זעירה: חלקם שקופים כמו זכוכית, חלקם לבנים וחלקם צהבהבים. רוב הגרגרים מעוגלים, כי הגלים שפשפו אותם זה בזה במשך זמן רב.",
-   "deep_he": "רוב החול בחופים בעולם עשוי מקוורץ, מינרל של צורן וחמצן (SiO2) שהוא קשה ועמיד מאוד. הגרגרים השקופים כאן הם ככל הנראה קוורץ, והגוונים הצהובים נובעים מעקבות של תחמוצות ברזל או ממינרלים אחרים. גיאולוגים מגדירים חול כגרגרים בגודל שבין 0.06 ל-2 מילימטרים. לפי הצורה אפשר לנחש את ההיסטוריה של הגרגר: גרגר חד וזוויתי עבר דרך קצרה, וגרגר עגול וחלק נשחק הרבה ברוח או במים. הדגימה נלקחה מ'חוף שר', חוף שבו החול משמיע צפצוף כשדורכים עליו.",
-   "fun_fact_he": "חול 'מזמר' או 'מצפצף' משמיע קול רק כשהגרגרים נקיים, עגולים ודומים מאוד זה לזה בגודלם. אם מערבבים בו מעט אבק או בוץ, הוא משתתק."
-  },
-  "quiz": {
-   "difficulty": "easy",
-   "distractors_he": [
-    "גבישי סוכר",
-    "גבישי מלח",
-    "פירורי זכוכית"
-   ],
-   "answer_he": "גרגרי חול"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "moon-rock-thin-section",
-   "snowflake-sem"
-  ],
-  "license_seen": {
-   "name": "CC BY-SA 4.0",
-   "url": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "author": "PeterKopias",
-   "credit_line": "PeterKopias, CC BY-SA 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'Grains of singing sand under a microscope, sample taken Paradise Beach, Gold Coast, Australia'. Sand size class 0.0625–2 mm (Wentworth). Squeaking sand conditions: https://en.wikipedia.org/wiki/Singing_sand . Grain size not stated by source (0.3 mm typical beach sand, estimate). Technique 'stereo' inferred from appearance (reflected light, dark background) – not stated by source."
- },
- {
-  "key": "moon-rock-thin-section",
-  "commons_file": "File:Thin section of apollo sample12005 in XPL.jpg",
-  "category": "crystals",
-  "title_he": "פרוסה דקה של סלע מהירח",
-  "title_en": "Thin section of an Apollo 12 Moon rock",
-  "tags": [
-   "ירח",
-   "סלעים",
-   "מינרלים",
-   "אור מקוטב",
-   "אפולו"
-  ],
-  "microscope": "light",
-  "technique": "polarized",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 3e-05,
-   "subject_size_label": "עובי הפרוסה ≈ 30 מיקרון",
-   "field_width_m": null,
-   "comparison_he": "פחות מחצי עובי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "זה סלע שהביאו אסטרונאוטים מהירח ב-1969. חתכו ממנו פרוסה כל כך דקה שהאור עובר דרכה, וצילמו אותה באור מקוטב. כל כתם צבעוני הוא גביש של מינרל אחר, או אותו מינרל בכיוון אחר.",
-   "deep_he": "הדגימה 12005 נאספה במשימת אפולו 12 באזור שנקרא 'אוקיינוס הסערות', מישור עצום של לבה קפואה. גיאולוגים מלטשים פרוסה של סלע עד עובי של כ-30 מיקרון (מיקרון הוא אלפית המילימטר), מדביקים אותה על זכוכית ומצלמים בין שני מסננים מקטבים מוצלבים. במצב הזה מינרלים כמו אוליבין ופירוקסן מקבלים צבעי התאבכות עזים, וכל מינרל 'נצבע' בטווח צבעים שאופייני לו. כך אפשר לזהות את המינרלים ולהבין איך הלבה התקררה. הסדקים הדקים שחוצים את הגבישים נוצרו כנראה מפגיעות מטאוריטים ומשינויי טמפרטורה.",
-   "fun_fact_he": "סלעי הבזלת שהביאה משימת אפולו 12 התגבשו מלבה לפני יותר משלושה מיליארד שנה, הרבה לפני שהיו על כדור הארץ צמחים או בעלי חיים."
-  },
-  "quiz": {
-   "difficulty": "expert",
-   "distractors_he": [
-    "חלון ויטראז'",
-    "גבישי ויטמין C",
-    "פרוסת גרניט"
-   ],
-   "answer_he": "סלע מהירח"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "sand-grains",
-   "vitamin-c-polarized",
-   "stainless-steel-grains"
-  ],
-  "license_seen": {
-   "name": "CC BY-SA 4.0",
-   "url": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "author": "Warrenmck",
-   "credit_line": "Warrenmck, CC BY-SA 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'Thin section of Apollo 12 Oceanus Procellarum sample 12005 in cross polarized light'. Standard petrographic thin section 30 µm. Apollo 12 basalt ages ~3.1–3.3 Ga (Lunar Sample Compendium, https://curator.jsc.nasa.gov/lunar/lsc/). Mineral identification of individual grains not given by source; text speaks generally (olivine/pyroxene typical in Apollo 12 basalts). Crack origin phrased as 'כנראה'."
- },
- {
-  "key": "stainless-steel-grains",
-  "commons_file": "File:Microstructure of a stainless steel.jpg",
-  "category": "crystals",
-  "title_he": "גרעיני מתכת בפלדת אל-חלד",
-  "title_en": "Grain structure of stainless steel",
-  "tags": [
-   "מתכת",
-   "פלדה",
-   "גבישים",
-   "מטלורגיה"
-  ],
-  "microscope": "light",
-  "technique": "brightfield",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 0.0002,
-   "subject_size_label": "≈ 0.2 מ\"מ לגרעין",
-   "field_width_m": 0.00106,
-   "comparison_he": "בערך 3 עוביי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "גם מתכת עשויה מגבישים! זו פלדת אל-חלד מלוטשת שנחרטה בחומצה. כל 'אריח' בתמונה הוא גביש נפרד שנקרא גרעין, והקווים הכהים הם הגבולות ביניהם, כמו התפרים בין אבני ריצוף.",
-   "deep_he": "כשמתכת מתקררת מנוזל, גבישים רבים מתחילים לגדול בבת אחת עד שהם נוגעים זה בזה, וכך נוצר פסיפס של גרעינים. כדי לראות אותם מלטשים את המתכת כמו מראה ואחר כך 'מתקיפים' אותה בחומצה. החומצה אוכלת מהר יותר את הגבולות בין הגרעינים, וכל גרעין מגיב קצת אחרת לפי הכיוון של הסריג שלו, ולכן הגוונים שונים. את התמונה מצלמים במיקרוסקופ מטלוגרפי שמאיר מלמעלה, כי אור לא עובר דרך מתכת. הקווים הישרים והמקבילים בתוך חלק מהגרעינים הם 'תאומים': אזורים שבהם הסריג מתהפך כמו בבבואה במראה. הקו בפינה מסמן 200 מיקרון.",
-   "fun_fact_he": "פלדת אל-חלד מכילה לפחות כ-10.5% כרום. הכרום יוצר על פני השטח שכבת תחמוצת דקה של כמה ננומטרים בלבד, שמגינה מפני חלודה ואף מתחדשת מעצמה אחרי שריטה."
-  },
-  "quiz": {
-   "difficulty": "expert",
-   "distractors_he": [
-    "תאי צמח",
-    "אבני ריצוף",
-    "פרוסת סלע"
-   ],
-   "answer_he": "גרעיני פלדה"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "gold-on-pyrite",
-   "stm-cobalt-on-copper"
-  ],
-  "license_seen": {
-   "name": "CC BY 4.0",
-   "url": "https://creativecommons.org/licenses/by/4.0/",
-   "author": "Djhé",
-   "credit_line": "Djhé, CC BY 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'Microstructure of a metallographic section of a chemically etched stainless steel A961'; scale bar 200 µm. Field width: bar ≈181/960 px → ≈1.06 mm; grains ≈100–300 µm. Annealing twins typical of austenitic stainless (https://en.wikipedia.org/wiki/Crystal_twinning). Cr ≥10.5%: https://en.wikipedia.org/wiki/Stainless_steel"
- },
- {
-  "key": "gold-on-pyrite",
-  "commons_file": "File:Gold on pyrite SEM image.png",
-  "category": "crystals",
-  "title_he": "זהב על גביש פיריט",
-  "title_en": "Native gold on pyrite (SEM)",
-  "tags": [
-   "זהב",
-   "מינרלים",
-   "פיריט",
-   "מיקרוסקופ אלקטרונים"
-  ],
-  "microscope": "electron",
-  "technique": "sem",
-  "colorized": true,
-  "scale": {
-   "subject_size_m": 0.0006,
-   "subject_size_label": "≈ 0.6 מ\"מ",
-   "field_width_m": 0.00087,
-   "comparison_he": "בערך 8–9 עוביי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "גרגר זעיר מעפרה של מכרה זהב בסיביר. החלק הסגול-אפור הוא פיריט, מינרל שמכונה 'זהב של שוטים' כי הוא מבריק וצהוב. החלק הצהוב הוא זהב אמיתי שגדל עליו. הצבעים נוספו במחשב.",
-   "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים סורק בשיטה שנקראת 'אלקטרונים מוחזרים' (BSE). בשיטה הזו יסודות כבדים מחזירים יותר אלקטרונים ונראים בהירים יותר. הזהב, אחד היסודות הכבדים בטבלה המחזורית, נראה בהיר מאוד, והפיריט, תרכובת של ברזל וגופרית (FeS2), כהה יותר. התמונה המקורית היא בגווני אפור, והצבעים הוספו אחר כך כדי להבליט את שני המינרלים. הקו בפינה מסמן 200 מיקרון, כך שכל הגרגר קטן ממילימטר. צמידות כזו של זהב ופיריט אופיינית למרבצי הזהב של רכס יניסיי ברוסיה.",
-   "fun_fact_he": "השם 'פיריט' בא מהמילה היוונית 'פיר', אש, כי כשמכים בו בפלדה הוא מתיז ניצוצות."
-  },
-  "quiz": {
-   "difficulty": "medium",
-   "distractors_he": [
-    "גוש גופרית",
-    "שבב מתכת",
-    "גרגר אבקה"
-   ],
-   "answer_he": "זהב על פיריט"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "stainless-steel-grains",
-   "sand-grains"
-  ],
-  "license_seen": {
-   "name": "CC BY 4.0",
-   "url": "https://creativecommons.org/licenses/by/4.0/",
-   "author": "Boris Lobastov",
-   "credit_line": "Boris Lobastov, CC BY 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'False-colored BSE SEM image of intergrowth of native gold and pyrite (FeS2) crystal. Typical mineral intergrowth for gold deposits of Yenisei Ridge, Krasnoyarsk region.' Scale bar 200 µm: ≈220/960 px → field ≈0.87 mm. BSE Z-contrast: https://en.wikipedia.org/wiki/Scanning_electron_microscope#Back-scattered_electrons . Pyrite etymology: https://en.wikipedia.org/wiki/Pyrite . Only 1024 px."
- },
- {
-  "key": "stm-cobalt-on-copper",
-  "commons_file": "File:Quantum Physics; Nanoscale Devices (5887269235).jpg",
-  "category": "crystals",
-  "title_he": "אטום קובלט על משטח נחושת",
-  "title_en": "Cobalt atom dragged across copper (STM)",
-  "tags": [
-   "אטומים",
-   "מיקרוסקופ מנהור",
-   "נחושת",
-   "ננו"
-  ],
-  "microscope": "probe",
-  "technique": "stm",
-  "colorized": true,
-  "scale": {
-   "subject_size_m": 2.6e-10,
-   "subject_size_label": "≈ 0.26 ננומטר בין אטומים",
-   "field_width_m": null,
-   "comparison_he": "בערך 270 אלף אטומים בשורה לאורך עובי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "כאן רואים את עולם האטומים. מחט דקיקה של מיקרוסקופ מנהור גררה אטום קובלט יחיד על פני גביש נחושת. כל 'כדור' בתמונה הוא מקום שבו האטום אהב לעצור, והם מסודרים בשורות לפי האטומים של הנחושת שמתחתיו.",
-   "deep_he": "מיקרוסקופ מנהור סורק (STM) לא 'מסתכל' בכלל: יש בו מחט מתכת חדה כל כך שבקצה שלה יש לפעמים אטום אחד. כשהמחט קרובה מאוד למשטח, פחות מננומטר (מיליונית המילימטר), זורם ביניהם זרם חשמלי זעיר שנקרא 'זרם מנהור'. המחשב מודד את הזרם בכל נקודה ובונה ממנו מפה של פני השטח, אטום אחר אטום. בניסוי הזה במכון התקנים האמריקאי (NIST) השתמשו במחט גם כדי לגרור אטום קובלט. העיגולים הגדולים הם המקום המועדף עליו, האזורים המשולשים הבהירים הם מקום פחות נוח, והאזורים הכהים הם מקומות שהאטום פשוט 'קפץ' מעליהם. הצבעים נוספו במחשב, כי למפה כזו אין צבע אמיתי.",
-   "fun_fact_he": "ב-1989 כתבו חוקרי IBM את המילה IBM בעזרת 35 אטומי קסנון, שהזיזו אחד-אחד במיקרוסקופ מנהור."
-  },
-  "quiz": {
-   "difficulty": "expert",
-   "distractors_he": [
-    "גרגרי אבקה",
-    "ביצי חרקים",
-    "קשקשי כנף"
-   ],
-   "answer_he": "אטומים על נחושת"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "stainless-steel-grains",
-   "graphene-stm"
-  ],
-  "license_seen": {
-   "name": "Public domain",
-   "url": "https://en.wikipedia.org/wiki/Public_domain",
-   "author": "Joseph Stroscio, Robert Celotta / NIST",
-   "credit_line": "J. Stroscio, R. Celotta / NIST, Public domain, via Wikimedia Commons"
-  },
-  "source_note": "Commons/NIST Flickr 5887269235: 'Colorized version of an image created by the NIST custom-built STM as it drags a cobalt atom across a closely packed lattice of copper atoms. Large round features show the cobalt atom bonding... preferred site. Bright triangle-shaped areas... higher energy site. Dark areas show positions that the atom hops over.' Cu(111) nearest-neighbour spacing 0.255 nm; 70 µm/0.26 nm ≈ 270,000. IBM xenon 1989: Eigler & Schweizer, Nature 344 (1990). STM: Binnig & Rohrer, Nobel 1986."
- },
- {
-  "key": "cpu-chip-486",
-  "commons_file": "File:Microprocesseur 486DX2 métallisation par photographie microscope optique.jpg",
-  "category": "tech",
-  "title_he": "שבב מעבד של מחשב",
-  "title_en": "Intel 486 microprocessor die",
-  "tags": [
-   "שבב",
-   "מחשב",
-   "טרנזיסטורים",
-   "אלקטרוניקה"
-  ],
-  "microscope": "light",
-  "technique": "brightfield",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 1e-06,
-   "subject_size_label": "פרטים של ≈ 1 מיקרון",
-   "field_width_m": null,
-   "comparison_he": "כ-70 קווים כאלה זה לצד זה ברוחב של שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "זו לא מפה של עיר: זה חלק קטן ממעבד מחשב משנת 1989, אינטל 486. הקווים המוזהבים הם 'כבישים' של מתכת שמעבירים אותות חשמליים בין יותר ממיליון מתגים זעירים שנקראים טרנזיסטורים.",
-   "deep_he": "שבב מחשב בנוי משכבות על גבי פרוסה של סיליקון. בשכבות התחתונות נמצאים הטרנזיסטורים, ומעליהם כמה שכבות של פסי מתכת שמחברים ביניהם, כמו מחלף כבישים רב-קומתי. את התמונה צילמו במיקרוסקופ מטלוגרפי, שמאיר את הדגימה מלמעלה ולא מבעד לה, ותאורה מהצד הבליטה את פסי המתכת. במעבד 486 יש כ-1.2 מיליון טרנזיסטורים, והפרטים הקטנים בו רחבים בערך מיקרון אחד, אלפית המילימטר. במעבדים של היום יש מיליארדי טרנזיסטורים, והפרטים קטנים פי עשרות מזה, ולכן כבר אי אפשר לראות אותם במיקרוסקופ אור רגיל.",
-   "fun_fact_he": "ה-486 היה המעבד הראשון בסדרה של אינטל שהיו בו יותר ממיליון טרנזיסטורים."
-  },
-  "quiz": {
-   "difficulty": "medium",
-   "distractors_he": [
-    "מפת עיר מהאוויר",
-    "לוח מעגלים מודפס",
-    "גבישי זהב"
-   ],
-   "answer_he": "שבב מעבד"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "cd-pits-light",
-   "graphene-stm"
-  ],
-  "license_seen": {
-   "name": "CC BY-SA 4.0",
-   "url": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "author": "Fil22plm",
-   "credit_line": "Fil22plm, CC BY-SA 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons description (Fil22plm): Intel 80486, launched 1989, fineness of engraving 0.6–1 µm, metallizations made visible by side lighting, metallographic microscope. 1.2 million transistors: https://en.wikipedia.org/wiki/I486 . Technique field 'brightfield' is approximate (reflected light with oblique illumination)."
- },
- {
-  "key": "cd-pits-light",
-  "commons_file": "File:CD digital coding pits.jpg",
-  "category": "tech",
-  "title_he": "המידע על תקליטור באור",
-  "title_en": "CD data pits (light microscope)",
-  "tags": [
-   "תקליטור",
-   "מידע דיגיטלי",
-   "לייזר",
-   "מוזיקה"
-  ],
-  "microscope": "light",
-  "technique": "brightfield",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 5e-07,
-   "subject_size_label": "רוחב גומה ≈ 0.5 מיקרון",
-   "field_width_m": null,
-   "comparison_he": "כ-140 גומות זו לצד זו ברוחב של שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "כך נראה מקרוב תקליטור (CD) של מוזיקה או של משחק. המידע כתוב עליו בשורות ארוכות של גומות זעירות, ארוכות וקצרות. הגומות כל כך קטנות שגם במיקרוסקופ אור הן נראות רק כמו נקודות ומקפים מטושטשים.",
-   "deep_he": "על תקליטור יש מסלול אחד ארוך, ספירלה שמתחילה במרכז ומסתובבת החוצה. לאורכה מוטבעות בפלסטיק גומות ברוחב של כחצי מיקרון ובאורך של כ-0.8 עד 3 מיקרונים, והמרחק בין סיבוב לסיבוב של הספירלה הוא כ-1.6 מיקרון. קרן לייזר בנגן מוחזרת מהמשטח, והמעבר בין גומה למשטח שטוח משנה את עוצמת ההחזרה. מהשינויים האלה הנגן מפענח אחדות ואפסים. הגומות קרובות לגבול של מה שמיקרוסקופ אור יכול להפריד, ולכן הן נראות כאן מטושטשות. בתמונת מיקרוסקופ האלקטרונים של אותו נושא רואים אותן בחדות רבה.",
-   "fun_fact_he": "אם היו מותחים את הספירלה של תקליטור אחד לקו ישר, היא הייתה באורך של כחמישה קילומטרים."
-  },
-  "quiz": {
-   "difficulty": "medium",
-   "distractors_he": [
-    "בד ארוג",
-    "תאי דם אדומים",
-    "שבב מחשב"
-   ],
-   "answer_he": "גומות בתקליטור"
-  },
-  "pair_id": "cd-pits",
-  "related_keys": [
-   "cd-pits-sem",
-   "cpu-chip-486"
-  ],
-  "license_seen": {
-   "name": "CC BY 4.0",
-   "url": "https://creativecommons.org/licenses/by/4.0/",
-   "author": "Jan1959",
-   "credit_line": "Jan1959, CC BY 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'Optical microscope image of CD digital coding pits'. CD physical specs (pit width ~0.5 µm, length 0.83–3.05 µm, track pitch 1.6 µm, spiral ≈5.4 km): https://en.wikipedia.org/wiki/Compact_disc#Physical_details . 70/0.5 = 140."
- },
- {
-  "key": "cd-pits-sem",
-  "commons_file": "File:CD-ROM pressed pits.jpg",
-  "category": "tech",
-  "title_he": "גומות של תקליטור במיקרוסקופ אלקטרונים",
-  "title_en": "CD-ROM data pits (SEM)",
-  "tags": [
-   "תקליטור",
-   "מידע דיגיטלי",
-   "מיקרוסקופ אלקטרונים",
-   "פלסטיק"
-  ],
-  "microscope": "electron",
-  "technique": "sem",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 5e-07,
-   "subject_size_label": "רוחב גומה ≈ 0.5 מיקרון",
-   "field_width_m": 2e-05,
-   "comparison_he": "כ-140 גומות זו לצד זו ברוחב של שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "אותן גומות של תקליטור, הפעם במיקרוסקופ אלקטרונים. עכשיו רואים בבירור את השורות המלוכסנות של חריצים, חלקם קצרים וחלקם ארוכים. האורך של כל גומה והמרווח עד הבאה הם הצופן של המידע.",
-   "deep_he": "כדי לצלם את הגומות, החוקר קילף מהתקליטור את שכבת האלומיניום המבריקה, וצילם את שכבת הפוליקרבונט, הפלסטיק השקוף שבו הגומות מוטבעות כבר בייצור, כמו חותמת. הקו הלבן מסמן 5 מיקרונים, ולפיו כל השדה בתמונה רחב בערך 20 מיקרון, פחות משליש מעובי שערה. מיקרוסקופ אלקטרונים מפריד פרטים קטנים בהרבה ממיקרוסקופ אור, כי אורך הגל של האלקטרונים קצר פי אלפים מאורך הגל של האור הנראה. זו בדיוק הסיבה שבתמונת האור הגומות מטושטשות וכאן הן חדות.",
-   "fun_fact_he": "ב-DVD הגומות קטנות יותר והמסלולים צפופים יותר, ולכן נכנס עליו בערך פי שבעה יותר מידע מאשר על CD."
-  },
-  "quiz": {
-   "difficulty": "expert",
-   "distractors_he": [
-    "משטח של שבב",
-    "קשקשי כנף פרפר",
-    "טביעת אצבע"
-   ],
-   "answer_he": "גומות בתקליטור"
-  },
-  "pair_id": "cd-pits",
-  "related_keys": [
-   "cd-pits-light",
-   "velcro-sem"
-  ],
-  "license_seen": {
-   "name": "CC0",
-   "url": "https://creativecommons.org/publicdomain/zero/1.0/",
-   "author": "Tycho (Shansov.net)",
-   "credit_line": "Tycho (shansov.net), CC0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'SEM image of data pits pressed in the polycarbonate layer of a compact disk. Aluminum layer was peeled off', 5 kV, SE; scale bar 5 µm (242/960 px) → field ≈ 20 µm. DVD capacity 4.7 GB vs CD ~0.7 GB ≈ ×6.7: https://en.wikipedia.org/wiki/DVD ."
- },
- {
-  "key": "nylon-stockings",
-  "commons_file": "File:Плетение нейлоновых чулок плотностью 20 ден.tif",
-  "category": "tech",
-  "title_he": "אריג של גרבי ניילון",
-  "title_en": "Nylon stocking knit in polarized light",
-  "tags": [
-   "ניילון",
-   "בדים",
-   "סיבים",
-   "אור מקוטב"
-  ],
-  "microscope": "light",
-  "technique": "polarized",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 5e-05,
-   "subject_size_label": "חוט ≈ 50 מיקרון (בערך)",
-   "field_width_m": null,
-   "comparison_he": "בערך כמו שערה דקה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "זה הסריג של גרב ניילון דקה, כמו גרביונים. החוטים נקשרים זה בזה בלולאות, והקשרים יוצרים 'רשת דייגים' זעירה. הצבעים מופיעים כי צילמו באור מקוטב.",
-   "deep_he": "ניילון הוא פלסטיק שממנו מושכים סיבים ארוכים. במשיכה שרשראות המולקולות הארוכות מסתדרות לאורך הסיב, ובגלל הסדר הזה הסיב שובר את האור לשתי קרניים, בדיוק כמו גביש. בין שני מסננים מקטבים מוצלבים, ועם לוחית נוספת שנקראת 'מפצה', הוא מקבל צבעים לפי העובי והכיוון שלו. '20 דן' (דנייר) הוא מדד לעובי החוט: 9 קילומטרים של חוט כזה שוקלים 20 גרם בלבד. מחישוב פשוט יוצא שחוט כזה, אילו היה חוט מלא אחד, היה בעובי של כ-50 מיקרון, דומה לשערה דקה.",
-   "fun_fact_he": "ניילון הומצא בחברת דופונט בשנות ה-30 של המאה ה-20, כשגרבי ניילון יצאו למכירה בכל ארצות הברית במאי 1940, נמכרו כ-4 מיליון זוגות בתוך ארבעה ימים."
-  },
-  "quiz": {
-   "difficulty": "medium",
-   "distractors_he": [
-    "קורי עכביש",
-    "רשת דייגים",
-    "סיבי נייר"
-   ],
-   "answer_he": "גרב ניילון"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "paper-fibres",
-   "velcro-light"
-  ],
-  "license_seen": {
-   "name": "CC BY 4.0",
-   "url": "https://creativecommons.org/licenses/by/4.0/",
-   "author": "Alexander Klepnev",
-   "credit_line": "Alexander Klepnev, CC BY 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'Weave 20 denier nylon stockings. Polarization, crossed polarizers + retarder' (Russian Science Photo Competition 2021). Denier definition: g per 9000 m. Diameter estimate: 20 den = 2.22e-3 g/m, nylon density 1.14 g/cm3 → area 1.95e-9 m2 → d ≈ 50 µm (if a single solid filament). Nylon history (Carothers/DuPont 1935, stockings May 1940 'N-Day'): https://en.wikipedia.org/wiki/Nylon . Note: file is a 158 MB TIFF."
- },
- {
-  "key": "velcro-light",
-  "commons_file": "File:Velcro photomicrograph.jpg",
-  "category": "tech",
-  "title_he": "סקוטש נפתח",
-  "title_en": "Velcro hooks and loops",
-  "tags": [
-   "סקוטש",
-   "ווים",
-   "לולאות",
-   "המצאות"
-  ],
-  "microscope": "light",
-  "technique": "stereo",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 0.001,
-   "subject_size_label": "וו ≈ 1 מ\"מ (בערך)",
-   "field_width_m": null,
-   "comparison_he": "בערך 14 עוביי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "כך עובד סקוטש (וֶלְקְרוֹ). בצד אחד, האדום, יש ווים קטנים מפלסטיק קשיח. בצד השני, הלבן, יש סבך של לולאות רכות. כשלוחצים את הצדדים זה לזה, הווים נתפסים בלולאות. כאן רואים את הרגע שבו מושכים אותם זה מזה.",
-   "deep_he": "הסקוטש הוא דוגמה מפורסמת להמצאה בהשראת הטבע. המהנדס השווייצרי ז'ורז' דה מסטרל שם לב שקוצים של צמח הלפית נדבקים לפרווה של הכלב שלו. במיקרוסקופ הוא ראה שבקצה של כל קוץ יש וו זעיר. הווים בסקוטש עשויים בדרך כלל מסיבי ניילון שנחתכו, והלולאות מסיבים רכים ודקים יותר. כל וו לבד חלש, אבל אלפי ווים יחד מחזיקים חזק. הרעש המוכר כשפותחים סקוטש הוא קול של מאות לולאות שמשתחררות בבת אחת.",
-   "fun_fact_he": "השם Velcro מורכב משתי מילים בצרפתית: velours (קטיפה) ו-crochet (וו)."
-  },
-  "quiz": {
-   "difficulty": "easy",
-   "distractors_he": [
-    "קוצים של צמח",
-    "רגלי חרק",
-    "שערות על עלה"
-   ],
-   "answer_he": "ווים של סקוטש"
-  },
-  "pair_id": "velcro",
-  "related_keys": [
-   "velcro-sem",
-   "nylon-stockings"
-  ],
-  "license_seen": {
-   "name": "CC BY-SA 4.0",
-   "url": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "author": "Trazyanderson",
-   "credit_line": "Trazyanderson, CC BY-SA 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'Velcro hooks and loops being pulled apart'. De Mestral story & name etymology: https://en.wikipedia.org/wiki/Hook-and-loop_fastener . Hook size ≈1 mm is an estimate (not stated by source). Technique 'stereo' inferred (reflected light, low magnification)."
- },
- {
-  "key": "velcro-sem",
-  "commons_file": "File:Velcro - SEM MUSE.tif",
-  "category": "tech",
-  "title_he": "ווים ולולאות של סקוטש במיקרוסקופ אלקטרונים",
-  "title_en": "Velcro hooks and loops (SEM)",
-  "tags": [
-   "סקוטש",
-   "ווים",
-   "מיקרוסקופ אלקטרונים",
-   "סיבים"
-  ],
-  "microscope": "electron",
-  "technique": "sem",
-  "colorized": false,
-  "scale": {
-   "subject_size_m": 0.001,
-   "subject_size_label": "וו ≈ 1 מ\"מ (בערך)",
-   "field_width_m": null,
-   "comparison_he": "בערך 14 עוביי שערה"
-  },
-  "magnification": "≈ ×100",
-  "text": {
-   "main_he": "אותו סקוטש במיקרוסקופ אלקטרונים. במרכז רואים וו עבה וחתוך, ומסביבו סבך של לולאות דקות. ברקע רואים גם את האריג שעליו הם תפורים.",
-   "deep_he": "במיקרוסקופ אלקטרונים סורק הכול נראה בגווני אפור, אבל עם עומק חד מאוד, ולכן אפשר לראות גם את הווים הקרובים וגם את האריג הרחוק. רואים שהקצה של הוו חתוך: בייצור מייצרים קודם לולאות מחוט ניילון עבה, ואז חותכים כל לולאה בצד אחד, וכך היא הופכת לוו. הלולאות בצד השני עשויות מסיבים דקים הרבה יותר, ולכן הן גמישות ונתפסות בקלות. הפס התחתון בתמונה מציג נתונים טכניים של המיקרוסקופ, למשל מתח הקרן והגדלה.",
-   "fun_fact_he": "נאס\"א השתמשה בסקוטש בתוכנית אפולו, כדי שהאסטרונאוטים יוכלו להצמיד חפצים לקירות החללית ושהם לא ירחפו בחוסר כבידה."
-  },
-  "quiz": {
-   "difficulty": "medium",
-   "distractors_he": [
-    "סיבי נייר",
-    "שערות של חרק",
-    "חוטי כותנה"
-   ],
-   "answer_he": "ווים של סקוטש"
-  },
-  "pair_id": "velcro",
-  "related_keys": [
-   "velcro-light",
-   "cd-pits-sem"
-  ],
-  "license_seen": {
-   "name": "CC BY-SA 3.0",
-   "url": "https://creativecommons.org/licenses/by-sa/3.0/",
-   "author": "Nicola Angeli / MUSE – Museo delle Scienze, Trento",
-   "credit_line": "Nicola Angeli/MUSE, CC BY-SA 3.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'Velcro al microscopio elettronico a scansione', license template {{MUSE permission}} renders CC BY-SA 3.0 (licensetpl_short checked on file page); also tagged {{Trademarked}}. Data bar: Mag 100 X (relative to print), EHT 20 kV, Zeiss VPSE. Hook manufacturing (cut loops): https://en.wikipedia.org/wiki/Hook-and-loop_fastener . Apollo use: same article. Image has a bottom data bar (may be cropped)."
- },
- {
-  "key": "paper-fibres",
-  "commons_file": "File:Cattail-handmade-paper-1280.jpg",
-  "category": "tech",
-  "title_he": "סיבים בנייר בעבודת יד",
-  "title_en": "Fibres in handmade cattail paper",
-  "tags": [
-   "נייר",
-   "סיבים",
-   "צלולוזה",
-   "מיקרוסקופ קונפוקלי"
-  ],
-  "microscope": "light",
-  "technique": "confocal",
-  "colorized": true,
-  "scale": {
-   "subject_size_m": 2e-05,
-   "subject_size_label": "סיב ≈ 20 מיקרון (בערך)",
-   "field_width_m": null,
-   "comparison_he": "קצת פחות משליש מעובי שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "דף נייר נראה חלק, אבל מקרוב הוא ערימה של סיבים דקים שמונחים זה על זה כמו קש. את הנייר הזה הכינו בעבודת יד מסיבים של צמח הסוף (Typha), שגדל ליד מים.",
-   "deep_he": "נייר עשוי מסיבי צלולוזה, החומר שממנו בנויים דפנות התאים של צמחים. מפרקים את הצמח במים לעיסה, פורשים אותה על רשת ומייבשים, והסיבים נדבקים זה לזה בקשרים כימיים חלשים. התמונה צולמה במיקרוסקופ קונפוקלי לייזר: קרן לייזר סורקת את הדגימה נקודה אחר נקודה, ורק אור שמגיע מעומק מסוים נקלט. כך מקבלים 'פרוסות' חדות בעומקים שונים ומצרפים אותן לתמונה אחת. הצבעים כאן הם צבעים מלאכותיים שהוספו במחשב כדי להבליט סיבים שונים.",
-   "fun_fact_he": "נייר רטוב נקרע בקלות, כי המים נכנסים בין הסיבים ומפרקים את הקשרים החלשים שמחזיקים אותם יחד."
-  },
-  "quiz": {
-   "difficulty": "medium",
-   "distractors_he": [
-    "ערימת קש",
-    "סיבי שריר",
-    "חוטי כותנה"
-   ],
-   "answer_he": "סיבי נייר"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "nylon-stockings",
-   "velcro-light"
-  ],
-  "license_seen": {
-   "name": "CC BY-SA 4.0",
-   "url": "https://creativecommons.org/licenses/by-sa/4.0/",
-   "author": "Charles Kazilek (Ckazilek)",
-   "credit_line": "Ckazilek, CC BY-SA 4.0, via Wikimedia Commons"
-  },
-  "source_note": "Commons: 'Microscopic image of handmade paper using cattail plant fibers made using a laser confocal microscope. This pseudo-color image is part of the Paper Project', 2003, author Ckazilek. Fibre width ≈20 µm is a typical estimate for plant fibres (not stated by source). Paper hydrogen bonding and wet strength: https://en.wikipedia.org/wiki/Paper#Chemical_properties . 20/70 ≈ 0.29."
- },
- {
-  "key": "carbon-nanotubes",
-  "commons_file": "File:Nanotube; Ultradark (5940479457).jpg",
-  "category": "tech",
-  "title_he": "יער של ננו-צינורות פחמן",
-  "title_en": "Carbon nanotube 'forest' – ultra-dark coating",
-  "tags": [
-   "ננו-צינורות",
-   "פחמן",
-   "ננוטכנולוגיה",
-   "מיקרוסקופ אלקטרונים"
-  ],
-  "microscope": "electron",
-  "technique": "sem",
-  "colorized": true,
-  "scale": {
-   "subject_size_m": 1e-08,
-   "subject_size_label": "קוטר צינור ≈ 10 ננומטר (בערך)",
-   "field_width_m": 2.5e-05,
-   "comparison_he": "כ-7,000 צינורות זה לצד זה ברוחב של שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "החוטים הדקים בתמונה הם ננו-צינורות פחמן: צינורות חלולים שדפנותיהם עשויות אטומי פחמן בלבד. יחד הם יוצרים 'יער' סבוך שבולע כמעט את כל האור שפוגע בו, ולכן זה אחד החומרים השחורים ביותר שנוצרו. הצבע האדום נוסף במחשב.",
-   "deep_he": "ננו-צינור פחמן הוא כמו גיליון של גרפן, שכבה של אטומי פחמן במבנה של חלת דבש, שגולגל לצינור. הקוטר שלו הוא כמה ננומטרים (ננומטר הוא מיליונית המילימטר), אבל האורך יכול להגיע למיקרונים רבים ואף יותר. במכון התקנים האמריקאי (NIST) גידלו 'יער' דליל של צינורות כאלה על גלאי שמודד את העוצמה של קרני לייזר. אור שנכנס ליער מוחזר שוב ושוב בין הצינורות עד שהוא נבלע כמעט כולו והופך לחום, והגלאי מודד את החום. האזור בתמונה רחב כ-25 מיקרון, פחות מחצי עובי שערה. מיקרוסקופ אלקטרונים מצלם בגווני אפור, והצבע האדום הוסף אחר כך.",
-   "fun_fact_he": "ביחס למשקלם, ננו-צינורות פחמן חזקים פי עשרות מפלדה, ולכן חוקרים מנסים לטוות מהם חוטים וכבלים."
-  },
-  "quiz": {
-   "difficulty": "expert",
-   "distractors_he": [
-    "שיער אנושי",
-    "סיבי צמר",
-    "חוטי פטרייה"
-   ],
-   "answer_he": "ננו-צינורות פחמן"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "graphene-stm",
-   "paper-fibres"
-  ],
-  "license_seen": {
-   "name": "Public domain",
-   "url": "https://en.wikipedia.org/wiki/Public_domain",
-   "author": "Aric Sanders / NIST",
-   "credit_line": "Aric Sanders/NIST, Public domain, via Wikimedia Commons"
-  },
-  "source_note": "Commons/NIST Flickr 5940479457: 'Colorized micrograph of the world's darkest material - a sparse forest of fine carbon nanotubes - coating a NIST laser power detector. Image shows a region approximately 25 micrometers across.' Instrument not named; SEM inferred (colorized electron micrograph style). Nanotube diameter ~ few–tens nm (estimate 10 nm, label בערך). Strength-to-weight vs steel: https://en.wikipedia.org/wiki/Carbon_nanotube#Strength . 70 µm/10 nm = 7000."
- },
- {
-  "key": "graphene-stm",
-  "commons_file": "File:Speed Bumps Less Important Than Potholes for Graphene (5941083850).jpg",
-  "category": "tech",
-  "title_he": "גלי אלקטרונים בגרפן",
-  "title_en": "Electron waves in graphene (STM)",
-  "tags": [
-   "גרפן",
-   "פחמן",
-   "מיקרוסקופ מנהור",
-   "ננוטכנולוגיה"
-  ],
-  "microscope": "probe",
-  "technique": "stm",
-  "colorized": true,
-  "scale": {
-   "subject_size_m": 4e-08,
-   "subject_size_label": "שדה של ≈ 40 ננומטר",
-   "field_width_m": 4e-08,
-   "comparison_he": "כ-1,750 שדות כאלה זה לצד זה ברוחב של שערה"
-  },
-  "magnification": null,
-  "text": {
-   "main_he": "זו מפה של יריעת גרפן, שכבה שעובייה אטום פחמן אחד בלבד. היא צולמה במיקרוסקופ מנהור, מחט דקיקה שמרגישה את פני השטח. העיגולים הכהים הם 'גלים' של אלקטרונים שמתפשטים סביב פגמים קטנים ביריעה, כמו אדוות סביב אבן שנזרקה לשלולית.",
-   "deep_he": "גרפן הוא שכבה אחת של אטומי פחמן שמסודרים במשושים, כמו חלת דבש. הוא חזק מאוד, גמיש ומוליך חשמל היטב. חוקרי NIST ומכון ג'ורג'יה טק השתמשו במיקרוסקופ מנהור סורק (STM) כדי למדוד, נקודה אחר נקודה, כמה קל לאלקטרונים לזרום מהמחט לגרפן באנרגיה מסוימת. כך קיבלו מפה של גלי האלקטרונים. הם גילו שפגמים בגודל של אטום יוצרים 'בורות' עם אדוות חזקות, ואילו גבשושיות רחבות ביריעה כמעט לא מפריעות לאלקטרונים: 'פסי האטה' פחות חשובים מ'בורות בכביש'. האזור כולו רחב כ-40 ננומטר בלבד, והצבעים נוספו במחשב.",
-   "fun_fact_he": "גרפן בודד לראשונה ב-2004 בעזרת סרט דביק פשוט, שקילף שכבות דקות מגרפיט של עיפרון. על כך זכו אנדרה גיים וקונסטנטין נובוסלוב בפרס נובל לפיזיקה ב-2010."
-  },
-  "quiz": {
-   "difficulty": "expert",
-   "distractors_he": [
-    "סריקת לוויין של ים",
-    "מושבת חיידקים",
-    "משטח של שבב"
-   ],
-   "answer_he": "יריעת גרפן"
-  },
-  "pair_id": null,
-  "related_keys": [
-   "carbon-nanotubes",
-   "stm-cobalt-on-copper"
-  ],
-  "license_seen": {
-   "name": "Public domain",
-   "url": "https://en.wikipedia.org/wiki/Public_domain",
-   "author": "NIST / Georgia Tech",
-   "credit_line": "NIST/Georgia Tech, Public domain, via Wikimedia Commons"
-  },
-  "source_note": "Commons/NIST Flickr 5941083850 (series 'Speed Bumps Less Important Than Potholes for Graphene'): STM topographic and spectroscopy images of graphene; 'strong interference patterns generated by atomic scale defects... modest disturbances caused by larger scale bumps... The area imaged is approximately 40 nanometers square.' This frame is the spectroscopic map at V = -30 mV (small label in corner). Graphene history/Nobel 2010: https://www.nobelprize.org/prizes/physics/2010/summary/ . 70 µm/40 nm = 1750."
- }
+  {
+    "key": "vitamin-c-polarized",
+    "commons_file": "File:Wheel - vitamin C.jpg",
+    "category": "crystals",
+    "title_he": "גבישי ויטמין C באור מקוטב",
+    "title_en": "Vitamin C crystals in polarized light",
+    "tags": [
+      "גבישים",
+      "ויטמין C",
+      "אור מקוטב",
+      "כימיה"
+    ],
+    "microscope": "light",
+    "technique": "polarized",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0003,
+      "subject_size_label": "≈ 0.3 מ\"מ (הערכה)",
+      "field_width_m": null,
+      "comparison_he": "בערך 4 עוביי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זה לא ציור מופשט: אלה גבישים של ויטמין C, אותו ויטמין שיש בתפוזים. טיפה של תמיסה התייבשה על זכוכית, והגבישים צמחו ממרכזים קטנים החוצה לכל הכיוונים, כמו חישורים של גלגל. הצבעים לא נמצאים בגביש עצמו. הם נוצרים כשאור מקוטב עובר דרכו.",
+      "deep_he": "אור מקוטב הוא אור שגליו רוטטים בכיוון אחד בלבד. במיקרוסקופ מקטב שמים מסנן מקטב אחד מתחת לדגימה ומסנן שני מעליה, מסובב ב-90 מעלות, כך שבלי דגימה השדה נראה שחור. גביש של ויטמין C (חומצה אסקורבית) הוא חומר 'שובר-אור כפול': הוא מפצל את האור לשתי קרניים שנעות בו במהירויות שונות. כשהקרניים מתאחדות שוב הן מחזקות צבעים מסוימים ומבטלות אחרים, והתוצאה היא צבעי התאבכות, כמו בבועת סבון. הצורה העגולה עם הקרניים נקראת ספרוליט: גבישים דקיקים שצמחו מנקודה אחת החוצה. עובי הגביש והכיוון שלו קובעים איזה צבע נראה בכל מקום.",
+      "fun_fact_he": "ויטמין C מתפרק בחום ובאור, ולכן מיץ תפוזים שעומד זמן רב פתוח מאבד חלק מהוויטמין שבו."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "גבישי סוכר",
+        "גבישי מלח",
+        "שכבת שמן על מים"
+      ],
+      "answer_he": "גבישי ויטמין C"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "salt-rheinberg",
+      "moon-rock-thin-section"
+    ],
+    "license_seen": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "PW31",
+      "credit_line": "PW31, CC BY 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description by PW31 (polarized light microscopy of vitamin C). Size of spherulite not stated by source: 0.3 mm is an estimate, label marked הערכה. Birefringence/interference colours: standard polarized-light microscopy (e.g. https://www.microscopyu.com/techniques/polarized-light). Vitamin C heat/light degradation: https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
+  },
+  {
+    "key": "salt-rheinberg",
+    "commons_file": "File:Kitchen salt crystals.jpg",
+    "category": "crystals",
+    "title_he": "גבישי מלח בישול",
+    "title_en": "Table salt crystals",
+    "tags": [
+      "מלח",
+      "גבישים",
+      "קוביות",
+      "מטבח"
+    ],
+    "microscope": "light",
+    "technique": "darkfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0004,
+      "subject_size_label": "≈ 0.4 מ\"מ",
+      "field_width_m": null,
+      "comparison_he": "בערך 6 עוביי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "אלה גרגרים של מלח רגיל מהמטבח. מקרוב רואים שכמעט כל גרגר הוא קובייה קטנה, עם פינות מעט מעוגלות. הצבע הכחול והצהוב מגיע ממסננים צבעוניים שהוכנסו למיקרוסקופ, לא מהמלח.",
+      "deep_he": "מלח בישול הוא נתרן כלורי (NaCl). בתוכו יוני נתרן ויוני כלור מסודרים לסירוגין בסריג קובייתי, כמו לוח שחמט תלת-ממדי, ולכן הגביש כולו גדל בצורת קובייה. התמונה צולמה בתאורת ריינברג, שיטה שהמציא הבריטי ג'וליוס ריינברג בסוף המאה ה-19: מסנן צבעוני בצורת טבעת מאיר את הגבישים מהצדדים, ומסנן בצבע אחר צובע את הרקע. זו גרסה צבעונית של 'שדה אפל', שבו רואים רק את האור שהעצם מפזר. הפינות המעוגלות נוצרות כשהגרגרים מתחככים זה בזה במפעל ובקופסה.",
+      "fun_fact_he": "המרחק בין יון נתרן ליון כלור שכן בגביש מלח הוא בערך 0.28 ננומטר, כלומר בגרגר אחד בגודל חצי מילימטר יש יותר ממיליון 'קומות' של יונים מצד לצד."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "גבישי סוכר",
+        "קוביות קרח",
+        "גרגרי חול"
+      ],
+      "answer_he": "גבישי מלח"
+    },
+    "pair_id": "salt",
+    "related_keys": [
+      "salt-sem",
+      "vitamin-c-polarized"
+    ],
+    "license_seen": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Misiek1962",
+      "credit_line": "Misiek1962, CC BY 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description: kitchen salt crystals in Rheinberg illumination. Rheinberg illumination: https://www.microscopyu.com/techniques/stereomicroscopy/rheinberg-illumination (Julius Rheinberg, 1896). NaCl nearest-neighbour distance ≈ 0.282 nm (lattice constant 0.564 nm). 0.5 mm / 0.28 nm ≈ 1.8 million. Grain size ≈ 0.3–0.5 mm typical table salt (estimate)."
+  },
+  {
+    "key": "salt-sem",
+    "commons_file": "File:Salt2.JPG",
+    "category": "crystals",
+    "title_he": "גרגר מלח במיקרוסקופ אלקטרונים",
+    "title_en": "Grain of table salt (SEM)",
+    "tags": [
+      "מלח",
+      "גבישים",
+      "מיקרוסקופ אלקטרונים",
+      "מטבח"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0005,
+      "subject_size_label": "≈ 0.5 מ\"מ",
+      "field_width_m": 0.00061,
+      "comparison_he": "בערך 7 עוביי שערה"
+    },
+    "magnification": "≈ ×156",
+    "text": {
+      "main_he": "גרגר מלח אחד, מוגדל פי 150 בערך במיקרוסקופ אלקטרונים סורק. רואים בבירור את צורת הקובייה, אבל גם שהפאות לא חלקות לגמרי: יש עליהן קמטים, שקעים ופירורים קטנים.",
+      "deep_he": "מיקרוסקופ אלקטרונים סורק (SEM) לא משתמש באור אלא בקרן דקה של אלקטרונים, שעוברת על פני הדגימה שורה אחר שורה. גלאי אוסף אלקטרונים שניתזים מהשטח, ומחשב בונה מהם תמונה בשחור-לבן עם תחושת עומק חזקה. לכן הגרגר נראה כמו פסל ולא כמו צל שקוף, כפי שהוא נראה במיקרוסקופ אור. הקו הלבן בפינה מסמן 100 מיקרון (מיקרון הוא אלפית המילימטר), ולפיו הגרגר כולו רחב בערך חצי מילימטר. הפינות המעוגלות והמשטח המחוספס הם תוצאה של התגבשות מהירה ושל שחיקה בזמן הייצור והאריזה.",
+      "fun_fact_he": "במיקרוסקופ אלקטרונים חייבים לעבוד בריק, כי אלקטרונים נבלמים במהירות במולקולות של אוויר."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "גרגר סוכר",
+        "קוביית סוכר",
+        "גרגר חול"
+      ],
+      "answer_he": "גרגר מלח"
+    },
+    "pair_id": "salt",
+    "related_keys": [
+      "salt-rheinberg",
+      "snowflake-sem"
+    ],
+    "license_seen": {
+      "name": "Public domain",
+      "url": "https://en.wikipedia.org/wiki/Public_domain",
+      "author": "Chhe (English Wikipedia user)",
+      "credit_line": "Chhe, Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'An image of a grain of table salt taken with a scanning electron microscope', PD-user-en Chhe. Uncropped version File:Single grain of table salt (electron micrograph).jpg shows Mag = 156 X, 100 µm scale bar. Field width derived from scale bar: bar ≈157/960 px = 100 µm → ≈ 0.61 mm. Note: only 866 px wide."
+  },
+  {
+    "key": "snowflake-sem",
+    "commons_file": "File:Snowflake 300um LTSEM.jpg",
+    "category": "crystals",
+    "title_he": "פתית שלג במיקרוסקופ אלקטרונים",
+    "title_en": "Snowflake (low-temperature SEM)",
+    "tags": [
+      "שלג",
+      "קרח",
+      "גבישים",
+      "מיקרוסקופ אלקטרונים",
+      "סימטריה"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0006,
+      "subject_size_label": "≈ 0.6 מ\"מ",
+      "field_width_m": 0.00105,
+      "comparison_he": "בערך 8–9 עוביי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "פתית שלג קטן עם שש זרועות, מצולם במיקרוסקופ אלקטרונים. כדי שלא יימס, הוא הוקפא לטמפרטורה של יותר מ-170 מעלות מתחת לאפס. רואים על הזרועות פסים, חריצים ונקודות קטנות של כפור.",
+      "deep_he": "הקרח בנוי מסריג משושה של מולקולות מים, ולכן כמעט כל פתית שלג מראה סימטריה של שש. את הדגימה הזו צילמה יחידת המיקרוסקופיה של משרד החקלאות האמריקאי (USDA) במיקרוסקופ אלקטרונים סורק בטמפרטורה נמוכה (LT-SEM). לפי היחידה, הדגימות מוחזקות מתחת ל-170- מעלות צלזיוס, וכך אפשר להכניס אותן לריק ולצלם אותן שעות בלי שישתנו. במיקרוסקופ אור הפתית עלול להימס מחום התאורה, ובנוסף העומק החד מוגבל. הקו בפינה מסמן 300 מיקרון, ולכן הפתית כולו רחב בערך 0.6 מילימטר: פתית קטן יחסית. הנקודות הבולטות על פני הזרועות הן טיפות מים קפואות זעירות שנדבקו אליו.",
+      "fun_fact_he": "קרח שקוף כמו זכוכית, ובכל זאת שלג נראה לבן: האור פוגע באינספור פאות של גבישים קטנים ומתפזר לכל הכיוונים."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "גביש מלח",
+        "פרח מאובן",
+        "גרגר אבקה"
+      ],
+      "answer_he": "פתית שלג"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "salt-sem",
+      "sand-grains"
+    ],
+    "license_seen": {
+      "name": "Public domain",
+      "url": "https://en.wikipedia.org/wiki/Public_domain",
+      "author": "USDA Agricultural Research Service, Beltsville Electron and Confocal Microscopy Unit",
+      "credit_line": "USDA-ARS Electron and Confocal Microscopy Unit, Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons description quotes USDA ARS EMU snow page (archived http://www.anri.barc.usda.gov/emusnow/4100/4100.htm): samples frozen below -170 °C, LT-SEM; scale bar 300 µm. Field width from bar: 273/960 px = 300 µm → ≈1.05 mm; flake spans ≈ 540 px → ≈0.6 mm. Rime droplets: sibling image 13368 description mentions rime."
+  },
+  {
+    "key": "sand-grains",
+    "commons_file": "File:Sand Australia Gold Coast.jpg",
+    "category": "crystals",
+    "title_he": "גרגרי חול מחוף בגולד קוסט",
+    "title_en": "Sand grains from Gold Coast, Australia",
+    "tags": [
+      "חול",
+      "מינרלים",
+      "קוורץ",
+      "חוף"
+    ],
+    "microscope": "light",
+    "technique": "stereo",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0003,
+      "subject_size_label": "≈ 0.3 מ\"מ (בערך)",
+      "field_width_m": null,
+      "comparison_he": "בערך 4 עוביי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "חופן קטן של חול מחוף באוסטרליה. מקרוב כל גרגר הוא אבן זעירה: חלקם שקופים כמו זכוכית, חלקם לבנים וחלקם צהבהבים. רוב הגרגרים מעוגלים, כי הגלים שפשפו אותם זה בזה במשך זמן רב.",
+      "deep_he": "רוב החול בחופים בעולם עשוי מקוורץ, מינרל של צורן וחמצן (SiO2) שהוא קשה ועמיד מאוד. הגרגרים השקופים כאן הם ככל הנראה קוורץ, והגוונים הצהובים נובעים מעקבות של תחמוצות ברזל או ממינרלים אחרים. גיאולוגים מגדירים חול כגרגרים בגודל שבין 0.06 ל-2 מילימטרים. לפי הצורה אפשר לנחש את ההיסטוריה של הגרגר: גרגר חד וזוויתי עבר דרך קצרה, וגרגר עגול וחלק נשחק הרבה ברוח או במים. הדגימה נלקחה מ'חוף שר', חוף שבו החול משמיע צפצוף כשדורכים עליו.",
+      "fun_fact_he": "חול 'מזמר' או 'מצפצף' משמיע קול רק כשהגרגרים נקיים, עגולים ודומים מאוד זה לזה בגודלם. אם מערבבים בו מעט אבק או בוץ, הוא משתתק."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "גבישי סוכר",
+        "גבישי מלח",
+        "פירורי זכוכית"
+      ],
+      "answer_he": "גרגרי חול"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "moon-rock-thin-section",
+      "snowflake-sem"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "PeterKopias",
+      "credit_line": "PeterKopias, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'Grains of singing sand under a microscope, sample taken Paradise Beach, Gold Coast, Australia'. Sand size class 0.0625–2 mm (Wentworth). Squeaking sand conditions: https://en.wikipedia.org/wiki/Singing_sand . Grain size not stated by source (0.3 mm typical beach sand, estimate). Technique 'stereo' inferred from appearance (reflected light, dark background) – not stated by source."
+  },
+  {
+    "key": "moon-rock-thin-section",
+    "commons_file": "File:Thin section of apollo sample12005 in XPL.jpg",
+    "category": "crystals",
+    "title_he": "פרוסה דקה של סלע מהירח",
+    "title_en": "Thin section of an Apollo 12 Moon rock",
+    "tags": [
+      "ירח",
+      "סלעים",
+      "מינרלים",
+      "אור מקוטב",
+      "אפולו"
+    ],
+    "microscope": "light",
+    "technique": "polarized",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 3e-05,
+      "subject_size_label": "עובי הפרוסה ≈ 30 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "פחות מחצי עובי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זה סלע שהביאו אסטרונאוטים מהירח ב-1969. חתכו ממנו פרוסה כל כך דקה שהאור עובר דרכה, וצילמו אותה באור מקוטב. כל כתם צבעוני הוא גביש של מינרל אחר, או אותו מינרל בכיוון אחר.",
+      "deep_he": "הדגימה 12005 נאספה במשימת אפולו 12 באזור שנקרא 'אוקיינוס הסערות', מישור עצום של לבה קפואה. גיאולוגים מלטשים פרוסה של סלע עד עובי של כ-30 מיקרון (מיקרון הוא אלפית המילימטר), מדביקים אותה על זכוכית ומצלמים בין שני מסננים מקטבים מוצלבים. במצב הזה מינרלים כמו אוליבין ופירוקסן מקבלים צבעי התאבכות עזים, וכל מינרל 'נצבע' בטווח צבעים שאופייני לו. כך אפשר לזהות את המינרלים ולהבין איך הלבה התקררה. הסדקים הדקים שחוצים את הגבישים נוצרו כנראה מפגיעות מטאוריטים ומשינויי טמפרטורה.",
+      "fun_fact_he": "סלעי הבזלת שהביאה משימת אפולו 12 התגבשו מלבה לפני יותר משלושה מיליארד שנה, הרבה לפני שהיו על כדור הארץ צמחים או בעלי חיים."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "חלון ויטראז'",
+        "גבישי ויטמין C",
+        "פרוסת גרניט"
+      ],
+      "answer_he": "סלע מהירח"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "sand-grains",
+      "vitamin-c-polarized",
+      "stainless-steel-grains"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Warrenmck",
+      "credit_line": "Warrenmck, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'Thin section of Apollo 12 Oceanus Procellarum sample 12005 in cross polarized light'. Standard petrographic thin section 30 µm. Apollo 12 basalt ages ~3.1–3.3 Ga (Lunar Sample Compendium, https://curator.jsc.nasa.gov/lunar/lsc/). Mineral identification of individual grains not given by source; text speaks generally (olivine/pyroxene typical in Apollo 12 basalts). Crack origin phrased as 'כנראה'."
+  },
+  {
+    "key": "stainless-steel-grains",
+    "commons_file": "File:Microstructure of a stainless steel.jpg",
+    "category": "crystals",
+    "title_he": "גרעיני מתכת בפלדת אל-חלד",
+    "title_en": "Grain structure of stainless steel",
+    "tags": [
+      "מתכת",
+      "פלדה",
+      "גבישים",
+      "מטלורגיה"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.0002,
+      "subject_size_label": "≈ 0.2 מ\"מ לגרעין",
+      "field_width_m": 0.00106,
+      "comparison_he": "בערך 3 עוביי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "גם מתכת עשויה מגבישים! זו פלדת אל-חלד מלוטשת שנחרטה בחומצה. כל 'אריח' בתמונה הוא גביש נפרד שנקרא גרעין, והקווים הכהים הם הגבולות ביניהם, כמו התפרים בין אבני ריצוף.",
+      "deep_he": "כשמתכת מתקררת מנוזל, גבישים רבים מתחילים לגדול בבת אחת עד שהם נוגעים זה בזה, וכך נוצר פסיפס של גרעינים. כדי לראות אותם מלטשים את המתכת כמו מראה ואחר כך 'מתקיפים' אותה בחומצה. החומצה אוכלת מהר יותר את הגבולות בין הגרעינים, וכל גרעין מגיב קצת אחרת לפי הכיוון של הסריג שלו, ולכן הגוונים שונים. את התמונה מצלמים במיקרוסקופ מטלוגרפי שמאיר מלמעלה, כי אור לא עובר דרך מתכת. הקווים הישרים והמקבילים בתוך חלק מהגרעינים הם 'תאומים': אזורים שבהם הסריג מתהפך כמו בבבואה במראה. הקו בפינה מסמן 200 מיקרון.",
+      "fun_fact_he": "פלדת אל-חלד מכילה לפחות כ-10.5% כרום. הכרום יוצר על פני השטח שכבת תחמוצת דקה של כמה ננומטרים בלבד, שמגינה מפני חלודה ואף מתחדשת מעצמה אחרי שריטה."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "תאי צמח",
+        "אבני ריצוף",
+        "פרוסת סלע"
+      ],
+      "answer_he": "גרעיני פלדה"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "gold-on-pyrite",
+      "stm-cobalt-on-copper"
+    ],
+    "license_seen": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Djhé",
+      "credit_line": "Djhé, CC BY 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'Microstructure of a metallographic section of a chemically etched stainless steel A961'; scale bar 200 µm. Field width: bar ≈181/960 px → ≈1.06 mm; grains ≈100–300 µm. Annealing twins typical of austenitic stainless (https://en.wikipedia.org/wiki/Crystal_twinning). Cr ≥10.5%: https://en.wikipedia.org/wiki/Stainless_steel"
+  },
+  {
+    "key": "gold-on-pyrite",
+    "commons_file": "File:Gold on pyrite SEM image.png",
+    "category": "crystals",
+    "title_he": "זהב על גביש פיריט",
+    "title_en": "Native gold on pyrite (SEM)",
+    "tags": [
+      "זהב",
+      "מינרלים",
+      "פיריט",
+      "מיקרוסקופ אלקטרונים"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": true,
+    "scale": {
+      "subject_size_m": 0.0006,
+      "subject_size_label": "≈ 0.6 מ\"מ",
+      "field_width_m": 0.00087,
+      "comparison_he": "בערך 8–9 עוביי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "גרגר זעיר מעפרה של מכרה זהב בסיביר. החלק הסגול-אפור הוא פיריט, מינרל שמכונה 'זהב של שוטים' כי הוא מבריק וצהוב. החלק הצהוב הוא זהב אמיתי שגדל עליו. הצבעים נוספו במחשב.",
+      "deep_he": "התמונה צולמה במיקרוסקופ אלקטרונים סורק בשיטה שנקראת 'אלקטרונים מוחזרים' (BSE). בשיטה הזו יסודות כבדים מחזירים יותר אלקטרונים ונראים בהירים יותר. הזהב, אחד היסודות הכבדים בטבלה המחזורית, נראה בהיר מאוד, והפיריט, תרכובת של ברזל וגופרית (FeS2), כהה יותר. התמונה המקורית היא בגווני אפור, והצבעים הוספו אחר כך כדי להבליט את שני המינרלים. הקו בפינה מסמן 200 מיקרון, כך שכל הגרגר קטן ממילימטר. צמידות כזו של זהב ופיריט אופיינית למרבצי הזהב של רכס יניסיי ברוסיה.",
+      "fun_fact_he": "השם 'פיריט' בא מהמילה היוונית 'פיר', אש, כי כשמכים בו בפלדה הוא מתיז ניצוצות."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "גוש גופרית",
+        "שבב מתכת",
+        "גרגר אבקה"
+      ],
+      "answer_he": "זהב על פיריט"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "stainless-steel-grains",
+      "sand-grains"
+    ],
+    "license_seen": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Boris Lobastov",
+      "credit_line": "Boris Lobastov, CC BY 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'False-colored BSE SEM image of intergrowth of native gold and pyrite (FeS2) crystal. Typical mineral intergrowth for gold deposits of Yenisei Ridge, Krasnoyarsk region.' Scale bar 200 µm: ≈220/960 px → field ≈0.87 mm. BSE Z-contrast: https://en.wikipedia.org/wiki/Scanning_electron_microscope#Back-scattered_electrons . Pyrite etymology: https://en.wikipedia.org/wiki/Pyrite . Only 1024 px."
+  },
+  {
+    "key": "stm-cobalt-on-copper",
+    "commons_file": "File:Quantum Physics; Nanoscale Devices (5887269235).jpg",
+    "category": "crystals",
+    "title_he": "אטום קובלט על משטח נחושת",
+    "title_en": "Cobalt atom dragged across copper (STM)",
+    "tags": [
+      "אטומים",
+      "מיקרוסקופ מנהור",
+      "נחושת",
+      "ננו"
+    ],
+    "microscope": "probe",
+    "technique": "stm",
+    "colorized": true,
+    "scale": {
+      "subject_size_m": 2.6e-10,
+      "subject_size_label": "≈ 0.26 ננומטר בין אטומים",
+      "field_width_m": null,
+      "comparison_he": "בערך 270 אלף אטומים בשורה לאורך עובי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "כאן רואים את עולם האטומים. מחט דקיקה של מיקרוסקופ מנהור גררה אטום קובלט יחיד על פני גביש נחושת. כל 'כדור' בתמונה הוא מקום שבו האטום אהב לעצור, והם מסודרים בשורות לפי האטומים של הנחושת שמתחתיו.",
+      "deep_he": "מיקרוסקופ מנהור סורק (STM) לא 'מסתכל' בכלל: יש בו מחט מתכת חדה כל כך שבקצה שלה יש לפעמים אטום אחד. כשהמחט קרובה מאוד למשטח, פחות מננומטר (מיליונית המילימטר), זורם ביניהם זרם חשמלי זעיר שנקרא 'זרם מנהור'. המחשב מודד את הזרם בכל נקודה ובונה ממנו מפה של פני השטח, אטום אחר אטום. בניסוי הזה במכון התקנים האמריקאי (NIST) השתמשו במחט גם כדי לגרור אטום קובלט. העיגולים הגדולים הם המקום המועדף עליו, האזורים המשולשים הבהירים הם מקום פחות נוח, והאזורים הכהים הם מקומות שהאטום פשוט 'קפץ' מעליהם. הצבעים נוספו במחשב, כי למפה כזו אין צבע אמיתי.",
+      "fun_fact_he": "ב-1989 כתבו חוקרי IBM את המילה IBM בעזרת 35 אטומי קסנון, שהזיזו אחד-אחד במיקרוסקופ מנהור."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "גרגרי אבקה",
+        "ביצי חרקים",
+        "קשקשי כנף"
+      ],
+      "answer_he": "אטומים על נחושת"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "stainless-steel-grains",
+      "graphene-stm"
+    ],
+    "license_seen": {
+      "name": "Public domain",
+      "url": "https://en.wikipedia.org/wiki/Public_domain",
+      "author": "Joseph Stroscio, Robert Celotta / NIST",
+      "credit_line": "J. Stroscio, R. Celotta / NIST, Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons/NIST Flickr 5887269235: 'Colorized version of an image created by the NIST custom-built STM as it drags a cobalt atom across a closely packed lattice of copper atoms. Large round features show the cobalt atom bonding... preferred site. Bright triangle-shaped areas... higher energy site. Dark areas show positions that the atom hops over.' Cu(111) nearest-neighbour spacing 0.255 nm; 70 µm/0.26 nm ≈ 270,000. IBM xenon 1989: Eigler & Schweizer, Nature 344 (1990). STM: Binnig & Rohrer, Nobel 1986."
+  },
+  {
+    "key": "cpu-chip-486",
+    "commons_file": "File:Microprocesseur 486DX2 métallisation par photographie microscope optique.jpg",
+    "category": "tech",
+    "title_he": "שבב מעבד של מחשב",
+    "title_en": "Intel 486 microprocessor die",
+    "tags": [
+      "שבב",
+      "מחשב",
+      "טרנזיסטורים",
+      "אלקטרוניקה"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 1e-06,
+      "subject_size_label": "פרטים של ≈ 1 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "כ-70 קווים כאלה זה לצד זה ברוחב של שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זו לא מפה של עיר: זה חלק קטן ממעבד מחשב משנת 1989, אינטל 486. הקווים המוזהבים הם 'כבישים' של מתכת שמעבירים אותות חשמליים בין יותר ממיליון מתגים זעירים שנקראים טרנזיסטורים.",
+      "deep_he": "שבב מחשב בנוי משכבות על גבי פרוסה של סיליקון. בשכבות התחתונות נמצאים הטרנזיסטורים, ומעליהם כמה שכבות של פסי מתכת שמחברים ביניהם, כמו מחלף כבישים רב-קומתי. את התמונה צילמו במיקרוסקופ מטלוגרפי, שמאיר את הדגימה מלמעלה ולא מבעד לה, ותאורה מהצד הבליטה את פסי המתכת. במעבד 486 יש כ-1.2 מיליון טרנזיסטורים, והפרטים הקטנים בו רחבים בערך מיקרון אחד, אלפית המילימטר. במעבדים של היום יש מיליארדי טרנזיסטורים, והפרטים קטנים פי עשרות מזה, ולכן כבר אי אפשר לראות אותם במיקרוסקופ אור רגיל.",
+      "fun_fact_he": "ה-486 היה המעבד הראשון בסדרה של אינטל שהיו בו יותר ממיליון טרנזיסטורים."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "מפת עיר מהאוויר",
+        "לוח מעגלים מודפס",
+        "גבישי זהב"
+      ],
+      "answer_he": "שבב מעבד"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "cd-pits-light",
+      "graphene-stm"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Fil22plm",
+      "credit_line": "Fil22plm, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons description (Fil22plm): Intel 80486, launched 1989, fineness of engraving 0.6–1 µm, metallizations made visible by side lighting, metallographic microscope. 1.2 million transistors: https://en.wikipedia.org/wiki/I486 . Technique field 'brightfield' is approximate (reflected light with oblique illumination)."
+  },
+  {
+    "key": "cd-pits-light",
+    "commons_file": "File:CD digital coding pits.jpg",
+    "category": "tech",
+    "title_he": "המידע על תקליטור באור",
+    "title_en": "CD data pits (light microscope)",
+    "tags": [
+      "תקליטור",
+      "מידע דיגיטלי",
+      "לייזר",
+      "מוזיקה"
+    ],
+    "microscope": "light",
+    "technique": "brightfield",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 5e-07,
+      "subject_size_label": "רוחב גומה ≈ 0.5 מיקרון",
+      "field_width_m": null,
+      "comparison_he": "כ-140 גומות זו לצד זו ברוחב של שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "כך נראה מקרוב תקליטור (CD) של מוזיקה או של משחק. המידע כתוב עליו בשורות ארוכות של גומות זעירות, ארוכות וקצרות. הגומות כל כך קטנות שגם במיקרוסקופ אור הן נראות רק כמו נקודות ומקפים מטושטשים.",
+      "deep_he": "על תקליטור יש מסלול אחד ארוך, ספירלה שמתחילה במרכז ומסתובבת החוצה. לאורכה מוטבעות בפלסטיק גומות ברוחב של כחצי מיקרון ובאורך של כ-0.8 עד 3 מיקרונים, והמרחק בין סיבוב לסיבוב של הספירלה הוא כ-1.6 מיקרון. קרן לייזר בנגן מוחזרת מהמשטח, והמעבר בין גומה למשטח שטוח משנה את עוצמת ההחזרה. מהשינויים האלה הנגן מפענח אחדות ואפסים. הגומות קרובות לגבול של מה שמיקרוסקופ אור יכול להפריד, ולכן הן נראות כאן מטושטשות. בתמונת מיקרוסקופ האלקטרונים של אותו נושא רואים אותן בחדות רבה.",
+      "fun_fact_he": "אם היו מותחים את הספירלה של תקליטור אחד לקו ישר, היא הייתה באורך של כחמישה קילומטרים."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "בד ארוג",
+        "תאי דם אדומים",
+        "שבב מחשב"
+      ],
+      "answer_he": "גומות בתקליטור"
+    },
+    "pair_id": "cd-pits",
+    "related_keys": [
+      "cd-pits-sem",
+      "cpu-chip-486"
+    ],
+    "license_seen": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Jan1959",
+      "credit_line": "Jan1959, CC BY 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'Optical microscope image of CD digital coding pits'. CD physical specs (pit width ~0.5 µm, length 0.83–3.05 µm, track pitch 1.6 µm, spiral ≈5.4 km): https://en.wikipedia.org/wiki/Compact_disc#Physical_details . 70/0.5 = 140."
+  },
+  {
+    "key": "cd-pits-sem",
+    "commons_file": "File:CD-ROM pressed pits.jpg",
+    "category": "tech",
+    "title_he": "גומות של תקליטור במיקרוסקופ אלקטרונים",
+    "title_en": "CD-ROM data pits (SEM)",
+    "tags": [
+      "תקליטור",
+      "מידע דיגיטלי",
+      "מיקרוסקופ אלקטרונים",
+      "פלסטיק"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 5e-07,
+      "subject_size_label": "רוחב גומה ≈ 0.5 מיקרון",
+      "field_width_m": 2e-05,
+      "comparison_he": "כ-140 גומות זו לצד זו ברוחב של שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "אותן גומות של תקליטור, הפעם במיקרוסקופ אלקטרונים. עכשיו רואים בבירור את השורות המלוכסנות של חריצים, חלקם קצרים וחלקם ארוכים. האורך של כל גומה והמרווח עד הבאה הם הצופן של המידע.",
+      "deep_he": "כדי לצלם את הגומות, החוקר קילף מהתקליטור את שכבת האלומיניום המבריקה, וצילם את שכבת הפוליקרבונט, הפלסטיק השקוף שבו הגומות מוטבעות כבר בייצור, כמו חותמת. הקו הלבן מסמן 5 מיקרונים, ולפיו כל השדה בתמונה רחב בערך 20 מיקרון, פחות משליש מעובי שערה. מיקרוסקופ אלקטרונים מפריד פרטים קטנים בהרבה ממיקרוסקופ אור, כי אורך הגל של האלקטרונים קצר פי אלפים מאורך הגל של האור הנראה. זו בדיוק הסיבה שבתמונת האור הגומות מטושטשות וכאן הן חדות.",
+      "fun_fact_he": "ב-DVD הגומות קטנות יותר והמסלולים צפופים יותר, ולכן נכנס עליו בערך פי שבעה יותר מידע מאשר על CD."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "משטח של שבב",
+        "קשקשי כנף פרפר",
+        "טביעת אצבע"
+      ],
+      "answer_he": "גומות בתקליטור"
+    },
+    "pair_id": "cd-pits",
+    "related_keys": [
+      "cd-pits-light",
+      "velcro-sem"
+    ],
+    "license_seen": {
+      "name": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Tycho (Shansov.net)",
+      "credit_line": "Tycho (shansov.net), CC0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'SEM image of data pits pressed in the polycarbonate layer of a compact disk. Aluminum layer was peeled off', 5 kV, SE; scale bar 5 µm (242/960 px) → field ≈ 20 µm. DVD capacity 4.7 GB vs CD ~0.7 GB ≈ ×6.7: https://en.wikipedia.org/wiki/DVD ."
+  },
+  {
+    "key": "nylon-stockings",
+    "commons_file": "File:Плетение нейлоновых чулок плотностью 20 ден.tif",
+    "category": "tech",
+    "title_he": "אריג של גרבי ניילון",
+    "title_en": "Nylon stocking knit in polarized light",
+    "tags": [
+      "ניילון",
+      "בדים",
+      "סיבים",
+      "אור מקוטב"
+    ],
+    "microscope": "light",
+    "technique": "polarized",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 5e-05,
+      "subject_size_label": "חוט ≈ 50 מיקרון (בערך)",
+      "field_width_m": null,
+      "comparison_he": "בערך כמו שערה דקה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זה הסריג של גרב ניילון דקה, כמו גרביונים. החוטים נקשרים זה בזה בלולאות, והקשרים יוצרים 'רשת דייגים' זעירה. הצבעים מופיעים כי צילמו באור מקוטב.",
+      "deep_he": "ניילון הוא פלסטיק שממנו מושכים סיבים ארוכים. במשיכה שרשראות המולקולות הארוכות מסתדרות לאורך הסיב, ובגלל הסדר הזה הסיב שובר את האור לשתי קרניים, בדיוק כמו גביש. בין שני מסננים מקטבים מוצלבים, ועם לוחית נוספת שנקראת 'מפצה', הוא מקבל צבעים לפי העובי והכיוון שלו. '20 דן' (דנייר) הוא מדד לעובי החוט: 9 קילומטרים של חוט כזה שוקלים 20 גרם בלבד. מחישוב פשוט יוצא שחוט כזה, אילו היה חוט מלא אחד, היה בעובי של כ-50 מיקרון, דומה לשערה דקה.",
+      "fun_fact_he": "ניילון הומצא בחברת דופונט בשנות ה-30 של המאה ה-20, כשגרבי ניילון יצאו למכירה בכל ארצות הברית במאי 1940, נמכרו כ-4 מיליון זוגות בתוך ארבעה ימים."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "קורי עכביש",
+        "רשת דייגים",
+        "סיבי נייר"
+      ],
+      "answer_he": "גרב ניילון"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "paper-fibres",
+      "velcro-light"
+    ],
+    "license_seen": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Alexander Klepnev",
+      "credit_line": "Alexander Klepnev, CC BY 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'Weave 20 denier nylon stockings. Polarization, crossed polarizers + retarder' (Russian Science Photo Competition 2021). Denier definition: g per 9000 m. Diameter estimate: 20 den = 2.22e-3 g/m, nylon density 1.14 g/cm3 → area 1.95e-9 m2 → d ≈ 50 µm (if a single solid filament). Nylon history (Carothers/DuPont 1935, stockings May 1940 'N-Day'): https://en.wikipedia.org/wiki/Nylon . Note: file is a 158 MB TIFF."
+  },
+  {
+    "key": "velcro-light",
+    "commons_file": "File:Velcro photomicrograph.jpg",
+    "category": "tech",
+    "title_he": "סקוטש נפתח",
+    "title_en": "Velcro hooks and loops",
+    "tags": [
+      "סקוטש",
+      "ווים",
+      "לולאות",
+      "המצאות"
+    ],
+    "microscope": "light",
+    "technique": "stereo",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.001,
+      "subject_size_label": "וו ≈ 1 מ\"מ (בערך)",
+      "field_width_m": null,
+      "comparison_he": "בערך 14 עוביי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "כך עובד סקוטש (וֶלְקְרוֹ). בצד אחד, האדום, יש ווים קטנים מפלסטיק קשיח. בצד השני, הלבן, יש סבך של לולאות רכות. כשלוחצים את הצדדים זה לזה, הווים נתפסים בלולאות. כאן רואים את הרגע שבו מושכים אותם זה מזה.",
+      "deep_he": "הסקוטש הוא דוגמה מפורסמת להמצאה בהשראת הטבע. המהנדס השווייצרי ז'ורז' דה מסטרל שם לב שקוצים של צמח הלפית נדבקים לפרווה של הכלב שלו. במיקרוסקופ הוא ראה שבקצה של כל קוץ יש וו זעיר. הווים בסקוטש עשויים בדרך כלל מסיבי ניילון שנחתכו, והלולאות מסיבים רכים ודקים יותר. כל וו לבד חלש, אבל אלפי ווים יחד מחזיקים חזק. הרעש המוכר כשפותחים סקוטש הוא קול של מאות לולאות שמשתחררות בבת אחת.",
+      "fun_fact_he": "השם Velcro מורכב משתי מילים בצרפתית: velours (קטיפה) ו-crochet (וו)."
+    },
+    "quiz": {
+      "difficulty": "easy",
+      "distractors_he": [
+        "קוצים של צמח",
+        "רגלי חרק",
+        "שערות על עלה"
+      ],
+      "answer_he": "ווים של סקוטש"
+    },
+    "pair_id": "velcro",
+    "related_keys": [
+      "velcro-sem",
+      "nylon-stockings"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Trazyanderson",
+      "credit_line": "Trazyanderson, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'Velcro hooks and loops being pulled apart'. De Mestral story & name etymology: https://en.wikipedia.org/wiki/Hook-and-loop_fastener . Hook size ≈1 mm is an estimate (not stated by source). Technique 'stereo' inferred (reflected light, low magnification)."
+  },
+  {
+    "key": "velcro-sem",
+    "commons_file": "File:Velcro - SEM MUSE.tif",
+    "category": "tech",
+    "title_he": "ווים ולולאות של סקוטש במיקרוסקופ אלקטרונים",
+    "title_en": "Velcro hooks and loops (SEM)",
+    "tags": [
+      "סקוטש",
+      "ווים",
+      "מיקרוסקופ אלקטרונים",
+      "סיבים"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": false,
+    "scale": {
+      "subject_size_m": 0.001,
+      "subject_size_label": "וו ≈ 1 מ\"מ (בערך)",
+      "field_width_m": null,
+      "comparison_he": "בערך 14 עוביי שערה"
+    },
+    "magnification": "≈ ×100",
+    "text": {
+      "main_he": "אותו סקוטש במיקרוסקופ אלקטרונים. במרכז רואים וו עבה וחתוך, ומסביבו סבך של לולאות דקות. ברקע רואים גם את האריג שעליו הם תפורים.",
+      "deep_he": "במיקרוסקופ אלקטרונים סורק הכול נראה בגווני אפור, אבל עם עומק חד מאוד, ולכן אפשר לראות גם את הווים הקרובים וגם את האריג הרחוק. רואים שהקצה של הוו חתוך: בייצור מייצרים קודם לולאות מחוט ניילון עבה, ואז חותכים כל לולאה בצד אחד, וכך היא הופכת לוו. הלולאות בצד השני עשויות מסיבים דקים הרבה יותר, ולכן הן גמישות ונתפסות בקלות. הפס התחתון בתמונה מציג נתונים טכניים של המיקרוסקופ, למשל מתח הקרן והגדלה.",
+      "fun_fact_he": "נאס\"א השתמשה בסקוטש בתוכנית אפולו, כדי שהאסטרונאוטים יוכלו להצמיד חפצים לקירות החללית ושהם לא ירחפו בחוסר כבידה."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "סיבי נייר",
+        "שערות של חרק",
+        "חוטי כותנה"
+      ],
+      "answer_he": "ווים של סקוטש"
+    },
+    "pair_id": "velcro",
+    "related_keys": [
+      "velcro-light",
+      "cd-pits-sem"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Nicola Angeli / MUSE – Museo delle Scienze, Trento",
+      "credit_line": "Nicola Angeli/MUSE, CC BY-SA 3.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'Velcro al microscopio elettronico a scansione', license template {{MUSE permission}} renders CC BY-SA 3.0 (licensetpl_short checked on file page); also tagged {{Trademarked}}. Data bar: Mag 100 X (relative to print), EHT 20 kV, Zeiss VPSE. Hook manufacturing (cut loops): https://en.wikipedia.org/wiki/Hook-and-loop_fastener . Apollo use: same article. Image has a bottom data bar (may be cropped).",
+    "crop": {
+      "bottom": 0.12
+    }
+  },
+  {
+    "key": "paper-fibres",
+    "commons_file": "File:Cattail-handmade-paper-1280.jpg",
+    "category": "tech",
+    "title_he": "סיבים בנייר בעבודת יד",
+    "title_en": "Fibres in handmade cattail paper",
+    "tags": [
+      "נייר",
+      "סיבים",
+      "צלולוזה",
+      "מיקרוסקופ קונפוקלי"
+    ],
+    "microscope": "light",
+    "technique": "confocal",
+    "colorized": true,
+    "scale": {
+      "subject_size_m": 2e-05,
+      "subject_size_label": "סיב ≈ 20 מיקרון (בערך)",
+      "field_width_m": null,
+      "comparison_he": "קצת פחות משליש מעובי שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "דף נייר נראה חלק, אבל מקרוב הוא ערימה של סיבים דקים שמונחים זה על זה כמו קש. את הנייר הזה הכינו בעבודת יד מסיבים של צמח הסוף (Typha), שגדל ליד מים.",
+      "deep_he": "נייר עשוי מסיבי צלולוזה, החומר שממנו בנויים דפנות התאים של צמחים. מפרקים את הצמח במים לעיסה, פורשים אותה על רשת ומייבשים, והסיבים נדבקים זה לזה בקשרים כימיים חלשים. התמונה צולמה במיקרוסקופ קונפוקלי לייזר: קרן לייזר סורקת את הדגימה נקודה אחר נקודה, ורק אור שמגיע מעומק מסוים נקלט. כך מקבלים 'פרוסות' חדות בעומקים שונים ומצרפים אותן לתמונה אחת. הצבעים כאן הם צבעים מלאכותיים שהוספו במחשב כדי להבליט סיבים שונים.",
+      "fun_fact_he": "נייר רטוב נקרע בקלות, כי המים נכנסים בין הסיבים ומפרקים את הקשרים החלשים שמחזיקים אותם יחד."
+    },
+    "quiz": {
+      "difficulty": "medium",
+      "distractors_he": [
+        "ערימת קש",
+        "סיבי שריר",
+        "חוטי כותנה"
+      ],
+      "answer_he": "סיבי נייר"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "nylon-stockings",
+      "velcro-light"
+    ],
+    "license_seen": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Charles Kazilek (Ckazilek)",
+      "credit_line": "Ckazilek, CC BY-SA 4.0, via Wikimedia Commons"
+    },
+    "source_note": "Commons: 'Microscopic image of handmade paper using cattail plant fibers made using a laser confocal microscope. This pseudo-color image is part of the Paper Project', 2003, author Ckazilek. Fibre width ≈20 µm is a typical estimate for plant fibres (not stated by source). Paper hydrogen bonding and wet strength: https://en.wikipedia.org/wiki/Paper#Chemical_properties . 20/70 ≈ 0.29."
+  },
+  {
+    "key": "carbon-nanotubes",
+    "commons_file": "File:Nanotube; Ultradark (5940479457).jpg",
+    "category": "tech",
+    "title_he": "יער של ננו-צינורות פחמן",
+    "title_en": "Carbon nanotube 'forest' – ultra-dark coating",
+    "tags": [
+      "ננו-צינורות",
+      "פחמן",
+      "ננוטכנולוגיה",
+      "מיקרוסקופ אלקטרונים"
+    ],
+    "microscope": "electron",
+    "technique": "sem",
+    "colorized": true,
+    "scale": {
+      "subject_size_m": 1e-08,
+      "subject_size_label": "קוטר צינור ≈ 10 ננומטר (בערך)",
+      "field_width_m": 2.5e-05,
+      "comparison_he": "כ-7,000 צינורות זה לצד זה ברוחב של שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "החוטים הדקים בתמונה הם ננו-צינורות פחמן: צינורות חלולים שדפנותיהם עשויות אטומי פחמן בלבד. יחד הם יוצרים 'יער' סבוך שבולע כמעט את כל האור שפוגע בו, ולכן זה אחד החומרים השחורים ביותר שנוצרו. הצבע האדום נוסף במחשב.",
+      "deep_he": "ננו-צינור פחמן הוא כמו גיליון של גרפן, שכבה של אטומי פחמן במבנה של חלת דבש, שגולגל לצינור. הקוטר שלו הוא כמה ננומטרים (ננומטר הוא מיליונית המילימטר), אבל האורך יכול להגיע למיקרונים רבים ואף יותר. במכון התקנים האמריקאי (NIST) גידלו 'יער' דליל של צינורות כאלה על גלאי שמודד את העוצמה של קרני לייזר. אור שנכנס ליער מוחזר שוב ושוב בין הצינורות עד שהוא נבלע כמעט כולו והופך לחום, והגלאי מודד את החום. האזור בתמונה רחב כ-25 מיקרון, פחות מחצי עובי שערה. מיקרוסקופ אלקטרונים מצלם בגווני אפור, והצבע האדום הוסף אחר כך.",
+      "fun_fact_he": "ביחס למשקלם, ננו-צינורות פחמן חזקים פי עשרות מפלדה, ולכן חוקרים מנסים לטוות מהם חוטים וכבלים."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "שיער אנושי",
+        "סיבי צמר",
+        "חוטי פטרייה"
+      ],
+      "answer_he": "ננו-צינורות פחמן"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "graphene-stm",
+      "paper-fibres"
+    ],
+    "license_seen": {
+      "name": "Public domain",
+      "url": "https://en.wikipedia.org/wiki/Public_domain",
+      "author": "Aric Sanders / NIST",
+      "credit_line": "Aric Sanders/NIST, Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons/NIST Flickr 5940479457: 'Colorized micrograph of the world's darkest material - a sparse forest of fine carbon nanotubes - coating a NIST laser power detector. Image shows a region approximately 25 micrometers across.' Instrument not named; SEM inferred (colorized electron micrograph style). Nanotube diameter ~ few–tens nm (estimate 10 nm, label בערך). Strength-to-weight vs steel: https://en.wikipedia.org/wiki/Carbon_nanotube#Strength . 70 µm/10 nm = 7000."
+  },
+  {
+    "key": "graphene-stm",
+    "commons_file": "File:Speed Bumps Less Important Than Potholes for Graphene (5941083850).jpg",
+    "category": "tech",
+    "title_he": "גלי אלקטרונים בגרפן",
+    "title_en": "Electron waves in graphene (STM)",
+    "tags": [
+      "גרפן",
+      "פחמן",
+      "מיקרוסקופ מנהור",
+      "ננוטכנולוגיה"
+    ],
+    "microscope": "probe",
+    "technique": "stm",
+    "colorized": true,
+    "scale": {
+      "subject_size_m": 4e-08,
+      "subject_size_label": "שדה של ≈ 40 ננומטר",
+      "field_width_m": 4e-08,
+      "comparison_he": "כ-1,750 שדות כאלה זה לצד זה ברוחב של שערה"
+    },
+    "magnification": null,
+    "text": {
+      "main_he": "זו מפה של יריעת גרפן, שכבה שעובייה אטום פחמן אחד בלבד. היא צולמה במיקרוסקופ מנהור, מחט דקיקה שמרגישה את פני השטח. העיגולים הכהים הם 'גלים' של אלקטרונים שמתפשטים סביב פגמים קטנים ביריעה, כמו אדוות סביב אבן שנזרקה לשלולית.",
+      "deep_he": "גרפן הוא שכבה אחת של אטומי פחמן שמסודרים במשושים, כמו חלת דבש. הוא חזק מאוד, גמיש ומוליך חשמל היטב. חוקרי NIST ומכון ג'ורג'יה טק השתמשו במיקרוסקופ מנהור סורק (STM) כדי למדוד, נקודה אחר נקודה, כמה קל לאלקטרונים לזרום מהמחט לגרפן באנרגיה מסוימת. כך קיבלו מפה של גלי האלקטרונים. הם גילו שפגמים בגודל של אטום יוצרים 'בורות' עם אדוות חזקות, ואילו גבשושיות רחבות ביריעה כמעט לא מפריעות לאלקטרונים: 'פסי האטה' פחות חשובים מ'בורות בכביש'. האזור כולו רחב כ-40 ננומטר בלבד, והצבעים נוספו במחשב.",
+      "fun_fact_he": "גרפן בודד לראשונה ב-2004 בעזרת סרט דביק פשוט, שקילף שכבות דקות מגרפיט של עיפרון. על כך זכו אנדרה גיים וקונסטנטין נובוסלוב בפרס נובל לפיזיקה ב-2010."
+    },
+    "quiz": {
+      "difficulty": "expert",
+      "distractors_he": [
+        "סריקת לוויין של ים",
+        "מושבת חיידקים",
+        "משטח של שבב"
+      ],
+      "answer_he": "יריעת גרפן"
+    },
+    "pair_id": null,
+    "related_keys": [
+      "carbon-nanotubes",
+      "stm-cobalt-on-copper"
+    ],
+    "license_seen": {
+      "name": "Public domain",
+      "url": "https://en.wikipedia.org/wiki/Public_domain",
+      "author": "NIST / Georgia Tech",
+      "credit_line": "NIST/Georgia Tech, Public domain, via Wikimedia Commons"
+    },
+    "source_note": "Commons/NIST Flickr 5941083850 (series 'Speed Bumps Less Important Than Potholes for Graphene'): STM topographic and spectroscopy images of graphene; 'strong interference patterns generated by atomic scale defects... modest disturbances caused by larger scale bumps... The area imaged is approximately 40 nanometers square.' This frame is the spectroscopic map at V = -30 mV (small label in corner). Graphene history/Nobel 2010: https://www.nobelprize.org/prizes/physics/2010/summary/ . 70 µm/40 nm = 1750."
+  }
 ]
