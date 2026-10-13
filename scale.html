@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="he" dir="rtl" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>מסע בגדלים · מיקרוקוסמוס</title>
+<meta name="description" content="מסע לוגריתמי מהמילימטר ועד הננומטר, עם תצלומים ועצמי ייחוס.">
+<meta name="theme-color" content="#0f1419">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="he_IL">
+<meta property="og:title" content="מסע בגדלים · מיקרוקוסמוס">
+<meta property="og:description" content="מסע לוגריתמי מהמילימטר ועד הננומטר, עם תצלומים ועצמי ייחוס.">
+<meta property="og:image" content="https://nadaval56.github.io/microscope/img/og-default.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/assistant-hebrew.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/rubik-hebrew.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/style.css">
+<script>try{var t=JSON.parse(localStorage.getItem('mk:theme'))}catch(e){}document.documentElement.dataset.theme=t||'dark';</script>
+<script type="module" src="js/pages/scale.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">דילוג לתוכן</a>
+<header id="site-header"></header>
+<main id="main">
+  <div class="container page-head">
+    <span class="eyebrow">מסע בגדלים</span>
+    <h1>מהמילימטר אל הננומטר</h1>
+    <p>גללו למטה, והעולם יתכווץ. כל קפיצה בין שני סימונים על הציר היא <b>קטנה פי 10</b>. זה נקרא <span class="term" tabindex="0" data-tip="ציר שבו כל צעד שווה כפל ב-10, ולא הוספה של מספר קבוע">ציר לוגריתמי</span>, ובלעדיו לא היה אפשר לשים חיידק ושערה על אותו מסך.</p>
+    <p class="muted" style="font-size:1rem">על הציר: תמונות מהגלריה, ועצמי ייחוס מוכרים (במסגרת מקווקוות). אפשר גם לגרור את הסליידר שלמעלה.</p>
+  </div>
+  <div class="scale-hud" id="hud-wrap">
+    <div class="hud" role="group" aria-label="מד גודל">
+      <span class="hud-size" id="hud-size" aria-live="off">1 ס"מ</span>
+      <span class="hud-unit" id="hud-unit"></span>
+      <label class="visually-hidden" for="hud-range">מיקום על ציר הגדלים</label>
+      <input type="range" id="hud-range" min="0" max="1000" value="0">
+    </div>
+  </div>
+  <div class="container scale-page">
+    <div class="scale-track" id="track" aria-label="ציר גדלים לוגריתמי"><div class="loading">טוען…</div></div>
+  </div>
+  <div class="unit-toast" id="toast" role="status" aria-live="polite"></div>
+  <div class="container section" style="text-align:center">
+    <h2>הגעתם לתחתית: גודל של אטום</h2>
+    <p class="lead" style="margin-inline:auto">מכאן והלאה כבר אין "תמונה" במובן הרגיל. כדי לראות אטומים משתמשים במיקרוסקופים שממששים את פני החומר במחט חדה, או במיקרוסקופי אלקטרונים מהמתקדמים בעולם.</p>
+    <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap"><a class="btn btn-primary" href="microscopes.html">איך רואים את כל זה?</a><a class="btn" href="quiz.html">לחידון "מי יותר קטן?"</a></div>
+  </div>
+</main>
+<footer id="site-footer"></footer>
+</body>
+</html>

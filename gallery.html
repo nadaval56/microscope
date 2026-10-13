@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="he" dir="rtl" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>גלריה · מיקרוקוסמוס</title>
+<meta name="description" content="כל תצלומי המיקרוסקופ באתר, עם סינון לפי נושא, סוג מיקרוסקופ וטכניקה.">
+<meta name="theme-color" content="#0f1419">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="he_IL">
+<meta property="og:title" content="גלריה · מיקרוקוסמוס">
+<meta property="og:description" content="כל תצלומי המיקרוסקופ באתר, עם סינון לפי נושא, סוג מיקרוסקופ וטכניקה.">
+<meta property="og:image" content="https://nadaval56.github.io/microscope/img/og-default.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/assistant-hebrew.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/rubik-hebrew.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/style.css">
+<script>try{var t=JSON.parse(localStorage.getItem('mk:theme'))}catch(e){}document.documentElement.dataset.theme=t||'dark';</script>
+<script type="module" src="js/pages/gallery.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">דילוג לתוכן</a>
+<header id="site-header"></header>
+<main id="main">
+  <div class="container page-head">
+    <span class="eyebrow">גלריה</span>
+    <h1>הגלריה</h1>
+    <p>כל תמונה צולמה במיקרוסקופ אמיתי, ויש לה הסבר, קנה מידה וקרדיט. אפשר לשלב כמה מסננים יחד.</p>
+  </div>
+  <div class="container gallery-layout">
+    <aside class="filters" id="filters" aria-label="סינון">
+      <div class="drawer-head"><h2 style="font-size:1.2rem;margin:0">סינון ומיון</h2><button class="icon-btn" id="close-filters" aria-label="סגירת הסינון"></button></div>
+      <div class="search-box"><label class="visually-hidden" for="q">חיפוש</label><input id="q" type="search" placeholder="חיפוש: אבקה, דם, גביש…" autocomplete="off"><span id="search-ico"></span></div>
+      <div class="filter-group"><h3>סוג מיקרוסקופ</h3><div class="chips" id="f-micro"></div></div>
+      <div class="filter-group"><h3>נושא</h3><div class="chips" id="f-cat"></div></div>
+      <div class="filter-group"><h3>טכניקה</h3><div class="chips" id="f-tech"></div></div>
+      <div class="filter-group"><h3><label for="sort">מיון</label></h3>
+        <select id="sort" class="select">
+          <option value="topic">לפי נושא</option>
+          <option value="size-desc">לפי גודל: מהגדול לקטן</option>
+          <option value="size-asc">לפי גודל: מהקטן לגדול</option>
+        </select></div>
+      <button class="btn btn-sm" id="clear" type="button">ניקוי כל המסננים</button>
+      <div class="drawer-foot"><button class="btn btn-primary" id="apply-filters" type="button">הצגת התוצאות</button></div>
+    </aside>
+    <div class="scrim" id="scrim"></div>
+    <section aria-labelledby="results-h"><h2 id="results-h" class="visually-hidden">תוצאות</h2>
+      <div class="gallery-toolbar">
+        <span class="result-count" id="count" aria-live="polite"></span>
+        <button class="btn btn-sm filter-toggle" id="open-filters" type="button" aria-controls="filters" aria-expanded="false"></button>
+      </div>
+      <div class="img-grid" id="grid"><div class="loading">טוען…</div></div>
+    </section>
+  </div>
+</main>
+<footer id="site-footer"></footer>
+</body>
+</html>

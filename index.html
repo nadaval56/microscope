@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="he" dir="rtl" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>מיקרוקוסמוס — העולם שהעין לא רואה</title>
+<meta name="description" content="אתר חינוכי בעברית על מיקרוסקופים ותצלומי מיקרוסקופ: גלריה, מסע בסולם הגדלים, אור מול אלקטרונים, היסטוריה וחידון.">
+<meta name="theme-color" content="#0f1419">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="he_IL">
+<meta property="og:title" content="מיקרוקוסמוס — העולם שהעין לא רואה">
+<meta property="og:description" content="תצלומי מיקרוסקופ מרהיבים עם הסברים בעברית, מסע מהמילימטר לננומטר, וחידון.">
+<meta property="og:image" content="https://nadaval56.github.io/microscope/img/og-default.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonts/assistant-hebrew.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/rubik-hebrew.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="preload" href="data/images.json" as="fetch" crossorigin>
+<script>try{var t=JSON.parse(localStorage.getItem('mk:theme'))}catch(e){}document.documentElement.dataset.theme=t||'dark';</script>
+<script type="module" src="js/pages/home.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">דילוג לתוכן</a>
+<header id="site-header"></header>
+<main id="main">
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero-media" id="hero-media"><script>
+      // Pick the hero before any JS module loads so the browser fetches it immediately (LCP).
+      // Keep in sync with scripts/featured.json (ids from scripts/id_map.json).
+      (function () {
+        var H = [['m072', 1200], ['m306', 1920], ['m319', 1920], ['m170', 1200], ['m298', 1920], ['m336', 1920]]; // [id, largest variant]
+        var pick = H[Math.floor(Math.random() * H.length)], id = window.__heroId = pick[0];
+        var w = [400, 1200, 1920].filter(function (n) { return n <= pick[1]; }).map(function (n) { return 'img/micro/' + id + '-' + n + '.webp ' + n + 'w'; }).join(', ');
+        document.write('<img src="img/micro/' + id + '-1200.webp" srcset="' + w + '" sizes="100vw" alt="" fetchpriority="high" class="loaded">');
+      })();
+    </script></div>
+    <div class="container hero-content">
+      <span class="eyebrow">מיקרוקוסמוס</span>
+      <h1 id="hero-title">העולם מלא בדברים שהעין לא רואה</h1>
+      <p>טיפת מים מלאה ביצורים, גרגר אבקה נראה כמו כוכב לכת קטן, ושערה אחת היא עמוד ענק. ברוכים הבאים לעולם שמתחת למיקרוסקופ.</p>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:18px">
+        <a class="btn btn-primary" href="gallery.html">לגלריה</a>
+        <a class="btn" href="scale.html">למסע בגדלים</a>
+      </div>
+      <a class="hero-caption" id="hero-caption" href="gallery.html"></a>
+    </div>
+  </section>
+
+  <section class="section-tight container" aria-labelledby="gates-title">
+    <h2 id="gates-title" class="visually-hidden">מאיפה להתחיל?</h2>
+    <div class="gates" id="gates"></div>
+  </section>
+
+  <section class="section container" aria-labelledby="iotd-title">
+    <span class="eyebrow">תמונת היום</span>
+    <h2 id="iotd-title" class="visually-hidden">תמונת היום</h2>
+    <div class="card iotd" id="iotd"><div class="loading">טוען…</div></div>
+  </section>
+
+  <section class="section container" aria-labelledby="cats-title" style="padding-top:0">
+    <span class="eyebrow">נושאים</span>
+    <h2 id="cats-title">מה מסתתר שם למטה?</h2>
+    <div class="cat-strip" id="cat-strip"></div>
+  </section>
+
+  <section class="section container" aria-labelledby="how-title" style="padding-top:0">
+    <div class="grid-3">
+      <div class="card card-pad">
+        <span class="badge badge-light"><span class="dot"></span>אור</span>
+        <h3 style="margin-top:10px">ענבר = מיקרוסקופ אור</h3>
+        <p class="muted" style="margin:0">אור רגיל עובר דרך עדשות זכוכית. אפשר לראות בו יצורים חיים, ולפעמים גם את הצבעים האמיתיים שלהם.</p>
+      </div>
+      <div class="card card-pad">
+        <span class="badge badge-electron"><span class="dot"></span>אלקטרונים</span>
+        <h3 style="margin-top:10px">ציאן = מיקרוסקופ אלקטרונים</h3>
+        <p class="muted" style="margin:0">אלומת אלקטרונים מגלה פרטים קטנים פי אלף. התמונות יוצאות בשחור-לבן, ואת הצבעים מוסיפים אחר כך.</p>
+      </div>
+      <div class="card card-pad">
+        <span class="badge badge-false">צבע מלאכותי</span>
+        <h3 style="margin-top:10px">שימו לב לתג הזה</h3>
+        <p class="muted" style="margin:0">הוא מסמן תמונה שצבעיה נוספו בעבודת מחשב. הצבעים עוזרים להבחין בין חלקים, אבל זה לא מה שהיינו רואים.</p>
+      </div>
+    </div>
+  </section>
+</main>
+<footer id="site-footer"></footer>
+</body>
+</html>
