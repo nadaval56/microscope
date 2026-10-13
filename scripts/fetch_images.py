@@ -80,12 +80,12 @@ def fetch(url: str, binary: bool = False, tries: int = 6):
             raise
 
 
-def cached(name: str, url: str, binary: bool = False, refresh: bool = False):
+def cached(name: str, url: str, binary: bool = False, refresh: bool = False, tries: int = 6):
     CACHE.mkdir(parents=True, exist_ok=True)
     path = CACHE / (hashlib.sha1(name.encode()).hexdigest() + (".bin" if binary else ".html"))
     if path.exists() and not refresh:
         return path.read_bytes() if binary else path.read_text("utf-8")
-    data = fetch(url, binary=binary)
+    data = fetch(url, binary=binary, tries=tries)
     if binary:
         path.write_bytes(data)
     else:
@@ -191,7 +191,7 @@ def download_source(info: dict, max_needed: int, refresh: bool = False) -> Image
     if width and width < max_needed and not name.lower().endswith((".tif", ".tiff", ".svg")):
         # Smaller than our largest variant: the original is the best source (no bucket fits).
         try:
-            data = cached(f"orig:{name}", file_url, binary=True, refresh=refresh)
+            data = cached(f"orig:{name}", file_url, binary=True, refresh=refresh, tries=2)
             img = Image.open(io.BytesIO(data))
             img.load()
             return img

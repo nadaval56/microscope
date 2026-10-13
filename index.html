@@ -10,12 +10,12 @@
 <meta property="og:locale" content="he_IL">
 <meta property="og:title" content="מיקרוקוסמוס — העולם שהעין לא רואה">
 <meta property="og:description" content="תצלומי מיקרוסקופ מרהיבים עם הסברים בעברית, מסע מהמילימטר לננומטר, וחידון.">
-<meta property="og:image" content="img/og-default.jpg">
+<meta property="og:image" content="https://nadaval56.github.io/microscope/img/og-default.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700&family=Rubik:wght@500;600;700&display=swap">
+<link rel="preload" href="fonts/assistant-hebrew.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/rubik-hebrew.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
 <link rel="stylesheet" href="css/style.css">
 <link rel="preload" href="data/images.json" as="fetch" crossorigin>
 <script>try{var t=JSON.parse(localStorage.getItem('mk:theme'))}catch(e){}document.documentElement.dataset.theme=t||'dark';</script>
@@ -26,7 +26,16 @@
 <header id="site-header"></header>
 <main id="main">
   <section class="hero" aria-labelledby="hero-title">
-    <div class="hero-media" id="hero-media"></div>
+    <div class="hero-media" id="hero-media"><script>
+      // Pick the hero before any JS module loads so the browser fetches it immediately (LCP).
+      // Keep in sync with scripts/featured.json (ids from scripts/id_map.json).
+      (function () {
+        var H = [['m072', 1200], ['m306', 1920], ['m319', 1920], ['m170', 1200], ['m298', 1920], ['m336', 1920]]; // [id, largest variant]
+        var pick = H[Math.floor(Math.random() * H.length)], id = window.__heroId = pick[0];
+        var w = [400, 1200, 1920].filter(function (n) { return n <= pick[1]; }).map(function (n) { return 'img/micro/' + id + '-' + n + '.webp ' + n + 'w'; }).join(', ');
+        document.write('<img src="img/micro/' + id + '-1200.webp" srcset="' + w + '" sizes="100vw" alt="" fetchpriority="high" class="loaded">');
+      })();
+    </script></div>
     <div class="container hero-content">
       <span class="eyebrow">מיקרוקוסמוס</span>
       <h1 id="hero-title">העולם מלא בדברים שהעין לא רואה</h1>

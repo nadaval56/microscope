@@ -595,3 +595,11 @@ table.data td img { width: 64px; height: 64px; object-fit: cover; border-radius:
   *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
   .hero-media img { transform: none; }
 }
+
+/* Reserve space for JS-rendered chrome and content to avoid layout shift */
+#site-header { display: block; min-height: calc(var(--header-h) + 1px); position: sticky; top: 0; z-index: 50; }
+#grid:has(.loading) { min-height: 120vh; }
+.hero-caption { min-height: 30px; }
+.gates:empty { min-height: 360px; }
+.timeline:has(.loading) { min-height: 150vh; }
+.quiz-shell { min-height: calc(100vh - var(--header-h)); }

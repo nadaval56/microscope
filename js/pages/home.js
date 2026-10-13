@@ -18,12 +18,11 @@ async function main() {
   // Hero: random among featured (fallback: first electron+light images)
   let featured = images.filter((x) => x.featured);
   if (featured.length < 2) featured = images.filter((x) => (x.width || 0) >= 1200).slice(0, 5);
-  const hero = featured[Math.floor(Math.random() * featured.length)];
-  const media = document.getElementById('hero-media');
-  media.innerHTML = `<img src="${imgSrc(hero, 1920)}" srcset="${imgSrcset(hero)}" sizes="100vw" alt="" fetchpriority="high">`;
-  const hi = media.querySelector('img');
-  const show = () => hi.classList.add('loaded');
-  hi.complete ? show() : hi.addEventListener('load', show);
+  let hero = images.find((x) => x.id === window.__heroId);
+  if (!hero) {
+    hero = featured[Math.floor(Math.random() * featured.length)];
+    document.getElementById('hero-media').innerHTML = `<img src="${imgSrc(hero, 1200)}" srcset="${imgSrcset(hero)}" sizes="100vw" alt="" class="loaded">`;
+  }
   const cap = document.getElementById('hero-caption');
   cap.href = `image.html?id=${hero.id}${dev}`;
   cap.innerHTML = `${badgesFor(hero)}<span>ברקע: ${esc(hero.title_he)}</span>`;
