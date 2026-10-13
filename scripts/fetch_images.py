@@ -187,6 +187,16 @@ def download_source(info: dict, max_needed: int, refresh: bool = False) -> Image
         smaller = [b for b in THUMB_BUCKETS if b <= width]
         bucket = smaller[-1] if smaller else 960
     thumb_name = quote_thumb_name(name)
+    file_url, _ = upload_paths(name)
+    if width and width < max_needed and not name.lower().endswith((".tif", ".tiff", ".svg")):
+        # Smaller than our largest variant: the original is the best source (no bucket fits).
+        try:
+            data = cached(f"orig:{name}", file_url, binary=True, refresh=refresh)
+            img = Image.open(io.BytesIO(data))
+            img.load()
+            return img
+        except Exception:  # noqa: BLE001 — fall back to the thumbnail server
+            pass
     url = f"{thumb_base}/{bucket}px-{thumb_name}"
     if name.lower().endswith((".tif", ".tiff")):
         url = f"{thumb_base}/lossless-page1-{bucket}px-{thumb_name}.png"
@@ -247,6 +257,7 @@ def assign_ids(keys: list[str], id_map: dict) -> dict:
 
 
 # ---------------------------------------------------------------------------- main
+FEATURED = set(json.loads((ROOT / "scripts" / "featured.json").read_text("utf-8")))  # home-page hero rotation
 AUTHOR_OVERRIDES = json.loads((ROOT / "scripts" / "author_overrides.json").read_text("utf-8"))
 
 
@@ -354,7 +365,7 @@ def main() -> int:
             "related": [],
             "_related_keys": e.get("related_keys", []),
             "pair_id": e.get("pair_id"),
-            "featured": bool(e.get("featured")),
+            "featured": bool(e.get("featured")) or key in FEATURED,
             "width": w,
             "height": h,
             "widths": made,
